@@ -1,0 +1,260 @@
+/* SECTION */
+
+.mrel-section {
+  padding: 80px 0;
+  background: #ffffff;
+}
+
+/* WRAPPER */
+
+.mrel-wrapper {
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  gap: 40px;
+  padding: 0 40px;
+}
+
+/* LEFT SIDE */
+
+.mrel-left {
+  flex: 2.2;
+}
+
+/* IMAGE CARD */
+
+.mrel-imageCard {
+  width: 100%;
+  height: 520px;
+  background: linear-gradient(180deg, #2c8fbd, #8fc0d8);
+  border-radius: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+  overflow: hidden;
+}
+
+/* IMAGE */
+
+.mrel-image {
+  height: 420px;
+  width: auto;
+  object-fit: contain;
+}
+
+/* TITLE */
+
+.mrel-title {
+  margin-top: 35px;
+  font-size: 36px;
+  color: #d72027;
+  font-weight: 700;
+}
+
+/* SIDEBAR */
+
+.mrel-sidebar {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+/* CARD */
+
+.mrel-card {
+  background: linear-gradient(180deg, #2b8fbe, #7db4cf);
+  padding: 30px;
+  border-radius: 25px;
+}
+
+/* CARD TITLE */
+
+.mrel-cardTitle {
+  color: white;
+  font-size: 24px;
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+
+/* ITEM BUTTON */
+
+.mrel-item {
+  background: #f2f2f2;
+  padding: 14px 18px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 600;
+  text-decoration: none;
+  color: #333;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+/* HOVER EFFECT */
+
+.mrel-item:hover {
+  background: #d72027;
+  color: #fff;
+  transform: translateX(6px);
+}
+
+/* ACTIVE ITEM */
+
+.mrel-item.active {
+  background: #d72027;
+  color: #fff;
+}
+
+/* CHECK ICON */
+
+.mrel-check {
+  color: #e32128;
+  font-weight: 700;
+  transition: all 0.3s ease;
+}
+
+.mrel-item:hover .mrel-check {
+  color: #fff;
+}
+
+.mrel-item.active .mrel-check {
+  color: #fff;
+}
+
+/* MACHINE ROOM CONTENT SECTION */
+
+.mrcd-section {
+  margin-top: 30px;
+  max-width: 780px;
+}
+
+/* PARAGRAPH */
+
+.mrcd-text {
+  font-size: 16px;
+  color: #555;
+  line-height: 1.8;
+  margin-bottom: 20px;
+}
+
+/* TABLE WRAPPER */
+
+.mrcd-tableWrapper {
+  margin-top: 30px;
+}
+
+/* TABLE */
+
+.mrcd-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 16px;
+}
+
+/* HEADER */
+
+.mrcd-table thead {
+  background: #5aa9c3;
+  color: white;
+}
+
+.mrcd-table th {
+  padding: 14px;
+  text-align: left;
+  font-weight: 600;
+}
+
+/* ROW */
+
+.mrcd-table td {
+  padding: 14px;
+  border: 1px solid #d9d9d9;
+  background: #f5f5f5;
+}
+
+/* ALTERNATE ROW */
+
+.mrcd-table tbody tr:nth-child(even) td {
+  background: #eeeeee;
+}
+
+/* DIMENSION SECTION */
+
+.mrcd-dimensionSection {
+  margin-top: 40px;
+}
+
+/* TITLE */
+
+.mrcd-dimensionTitle {
+  font-size: 28px;
+  color: #5c6770;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+/* TABLE WRAPPER */
+
+.mrcd-dimensionTableWrapper {
+  overflow-x: auto;
+}
+
+/* TABLE */
+
+.mrcd-dimensionTable {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 15px;
+}
+
+/* HEADER */
+
+.mrcd-dimensionTable thead tr:first-child {
+  background: #56a9c4;
+  color: white;
+}
+
+.mrcd-dimensionTable thead tr:nth-child(2) {
+  background: #e9f1f4;
+  color: #555;
+}
+
+/* CELL */
+
+.mrcd-dimensionTable th,
+.mrcd-dimensionTable td {
+  padding: 14px;
+  text-align: left;
+  border: 1px solid #dcdcdc;
+}
+
+/* BODY ROW */
+
+.mrcd-dimensionTable tbody tr {
+  background: #f6f6f6;
+}
+
+.mrcd-dimensionTable tbody tr:nth-child(even) {
+  background: #eeeeee;
+}
+
+/* HOVER EFFECT FOR FIRST TABLE */
+
+.mrcd-table tbody tr:hover td {
+  background: #e2f1f7;
+  cursor: pointer;
+  transition: background 0.25s ease;
+}
+
+/* HOVER EFFECT FOR DIMENSION TABLE */
+
+.mrcd-dimensionTable tbody tr:hover td {
+  background: #dff0f7;
+  cursor: pointer;
+  transition: background 0.25s ease;
+}

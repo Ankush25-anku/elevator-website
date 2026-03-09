@@ -1,0 +1,125 @@
+/* ===== HOME VARIANTS (UNIQUE DESIGN) ===== */
+
+.hv-section{
+  padding:120px 0;
+  background:linear-gradient(180deg,#f7f9fc 0%, #eef2f7 100%);
+}
+
+.hv-wrap{
+  width:1200px;
+  max-width:95%;
+  margin:auto;
+}
+
+/* Header */
+.hv-head{
+  text-align:center;
+  margin-bottom:70px;
+}
+
+.hv-sub{
+  color:#e53935;
+  font-weight:700;
+  letter-spacing:1.5px;
+  text-transform:uppercase;
+  font-size:14px;
+}
+
+.hv-title{
+  font-size:42px;
+  font-weight:800;
+  color:#1e2a44;
+  margin:10px 0 18px;
+}
+
+.hv-bar{
+  width:70px;
+  height:4px;
+  margin:auto;
+  background:linear-gradient(90deg,#ff6a00,#ffb347);
+  border-radius:4px;
+}
+
+/* Grid */
+.hv-grid{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:36px;
+}
+
+/* Card */
+.hv-card{
+  position:relative;
+  background:#ffffff;
+  border-radius:18px;
+  padding:38px 34px;
+  cursor:pointer;
+  overflow:hidden;
+  box-shadow:
+    0 10px 30px rgba(0,0,0,0.06),
+    inset 0 1px 0 rgba(255,255,255,0.6);
+  transition:all .35s ease;
+}
+
+.hv-card-inner{
+  position:relative;
+  z-index:2;
+}
+
+.hv-card h3{
+  font-size:24px;
+  font-weight:800;
+  color:#d32f2f;
+  margin-bottom:14px;
+}
+
+.hv-card p{
+  font-size:16px;
+  color:#5a6b7b;
+  line-height:1.6;
+  margin-bottom:22px;
+}
+
+.hv-link{
+  font-size:14px;
+  font-weight:700;
+  color:#1e88e5;
+  letter-spacing:.5px;
+}
+
+/* Hover Effects */
+.hv-card:hover{
+  transform:translateY(-8px);
+  box-shadow:
+    0 18px 45px rgba(0,0,0,0.12),
+    0 6px 18px rgba(0,0,0,0.08);
+}
+
+.hv-card:hover .hv-link{
+  letter-spacing:1px;
+}
+
+/* Soft Glow Effect */
+.hv-glow{
+  position:absolute;
+  width:180px;
+  height:180px;
+  background:radial-gradient(circle, rgba(255,140,0,.25) 0%, transparent 70%);
+  top:-60px;
+  right:-60px;
+  opacity:.7;
+  transition:.4s;
+}
+
+.hv-card:hover .hv-glow{
+  transform:scale(1.2);
+  opacity:1;
+}
+
+/* Responsive */
+@media(max-width:1000px){
+  .hv-grid{ grid-template-columns:repeat(2,1fr); }
+}
+@media(max-width:600px){
+  .hv-grid{ grid-template-columns:1fr; }
+}

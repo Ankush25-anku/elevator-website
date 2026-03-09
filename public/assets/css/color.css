@@ -1,0 +1,153 @@
+
+
+
+/*********************************** color ******************************************/
+
+.main-menu .navigation > li.current > a,
+.main-menu .navigation > li:hover > a,
+.main-menu .navigation > li > ul > li > a:hover,
+.main-menu .navigation > li > .megamenu li > a:hover,
+.main-menu .navigation > li > ul > li > ul > li > a:hover,
+.scroll-to-top .scroll-bar-text,
+.header-top .info-list li i,
+.header-top .info-list li a:hover,
+.main-header .support-box a:hover,
+.banner-carousel .active .content-box h2 span,
+.feature-block-one .inner-box h3 a:hover,
+.link-box a:hover,
+.link-box a span:before,
+.list-style-one li:before,
+.sec-title h2 span,
+.project-tab .tab-btns li.active-btn,
+.content_block_three .content-box .inner-box .single-item h4 a:hover,
+.location-section .big-text,
+.news-block-one .inner-box .lower-content h4 a:hover,
+.main-footer .logo-widget .support-box a:hover,
+.main-footer .widget-title h6 span,
+.main-footer .contact-widget .info-list li i,
+.main-footer .contact-widget .info-list li a:hover,
+.main-footer .links-widget .links-list li a:hover,
+.footer-bottom .bottom-inner .copyright p a:hover,
+.footer-bottom .social-links li a:hover,
+.main-header .mobile-nav-toggler:hover,
+.mobile-menu .contact-info ul li a:hover,
+.mobile-menu .social-links li a:hover,
+.about-style-two .right-content .btn-box .theme-btn span:before,
+.cta-style-two .content-box .theme-btn span:before,
+.team-block-one .inner-box .lower-content h3 a:hover,
+.team-block-one .inner-box .image-box .text-box h3 a:hover,
+.content_block_four .content-box .form-group .symble,
+.testimonial-section .testimonial-content .upper-text,
+.testimonial-section .owl-nav button:hover,
+.page-title .content-box h1 span,
+.feature-section.light-section .feature-block-one .inner-box h3 a:hover,
+.feature-section.light-section .feature-block-one .inner-box .link-box a:hover,
+.project-block-three .inner-box .lower-content h3 a:hover,
+.project-block-three .inner-box .lower-content .link-box a,
+.news-block-two .inner-box .lower-content .post-info li a,
+.news-block-two .inner-box .lower-content h2 a:hover,
+.blog-sidebar .search-widget .search-form .form-group button[type='submit'],
+.blog-sidebar .widget-title h4 span,
+.blog-sidebar .category-widget .category-list li a:hover,
+.blog-sidebar .post-widget .post h6 a:hover,
+.contact-style-two .contact-info .info-list li h4 i,
+.contact-style-two .contact-info .info-list li p a:hover,
+.contact-style-two .form-inner h3 span
+
+{
+  color: var(--theme-color);
+}
+
+
+/** background **/
+
+.header-top .text-box:before,
+.theme-btn,
+.main-header .menu-right-content .theme-btn:before,
+.main-header .menu-right-content .theme-btn:after,
+.main-header .support-box .icon-box,
+.main-menu .navigation > li > a:after,
+.main-menu .navigation > li > ul > li > a:before,
+.main-menu .navigation > li > .megamenu li > a:before,
+.banner-carousel .content-box .upper-text:before,
+.banner-carousel .content-box .text-box,
+.sec-title .sub-title:before,
+.content_block_two .content-box .funfact-content .line-box:before,
+.service-block-one .image-box,
+.service-block-one .inner-box:before,
+.project-tab .tab-btns li:before,
+.project-section .owl-dots .owl-dot.active,
+.image_block_one .image-box .image-content,
+.location-section .single-location .pin:before,
+.news-block-one .inner-box .image-box .post-date,
+.main-footer .logo-widget .support-box .icon-box,
+.main-footer .newsletter-widget .subscribe-inner .form-group button[type='submit']:hover,
+.banner-style-two .support-box .icon-box,
+.about-style-two .left-content .image-box .image-content,
+.project-block-two .inner-box:hover .content-box,
+.progress-block-one  .bar-inner,
+.team-block-one .inner-box .image-box .share-box .share-icon,
+.team-block-one .inner-box .image-box .share-box .share-list li a,
+.page-title .content-box .bread-crumb,
+.about-section .image-inner .image-content,
+.sortable-masonry .filter-tabs li:before,
+.pagination li a:hover,
+.pagination li a.current,
+.blog-sidebar .category-widget .category-list li a:hover:before,
+.blog-sidebar .post-widget .post .thumb-box,
+.blog-sidebar .tags-widget .tags-list li a:hover,
+.blog-details-content .post-share-option .post-tag li a:hover,
+.contact-style-two .contact-info .social-links li a:hover
+
+{
+  background: var(--theme-color);
+}
+
+
+
+
+/** border-color **/
+
+.main-menu .navigation > li > ul,
+.main-menu .navigation > li > .megamenu,
+.main-footer .newsletter-widget .subscribe-inner .form-group input:focus,
+.main-footer .newsletter-widget .subscribe-inner .form-group button[type='submit']:hover,
+.header-style-two .menu-right-content .theme-btn:hover,
+.content_block_four .content-box .form-group input:focus,
+.content_block_four .content-box .form-group textarea:focus,
+.pagination li a:hover,
+.pagination li a.current,
+.blog-sidebar .search-widget .search-form .form-group input:focus,
+.blog-sidebar .tags-widget .tags-list li a:hover,
+.blog-details-content blockquote,
+.blog-details-content .post-share-option .post-tag li a:hover,
+.blog-details-content .comment-form .form-group input:focus,
+.blog-details-content .comment-form .form-group textarea:focus,
+.contact-style-two .form-inner .form-group input:focus,
+.contact-style-two .form-inner .form-group textarea:focus
+
+{
+  border-color: var(--theme-color) !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
