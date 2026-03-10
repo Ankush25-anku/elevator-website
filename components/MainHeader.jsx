@@ -163,7 +163,11 @@ export default function MainHeader() {
             <div className="menu-column">
               <figure className="logo-box">
                 <a href="index.html">
-                  <img src="assets/images/logo.png" alt="" />
+                  <img
+                    src="/assets/images/logo.png"
+                    alt="UNOSAFE Elevators"
+                    className="site-logo"
+                  />
                 </a>
               </figure>
               <div className="menu-area">

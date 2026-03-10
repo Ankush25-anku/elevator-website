@@ -171,7 +171,7 @@ export default function Projects() {
                         <a href="/">Villa Elevators</a>
                       </h3>
                       <div className="link-box">
-                        <a href="/">
+                        <a href="/products/villaelevator">
                           <span>view details</span>
                         </a>
                       </div>
@@ -190,7 +190,7 @@ export default function Projects() {
                         <a href="/">Escalator</a>
                       </h3>
                       <div className="link-box">
-                        <a href="/">
+                        <a href="/products/escalator">
                           <span>view details</span>
                         </a>
                       </div>
@@ -305,9 +305,9 @@ export default function Projects() {
         <div className="lower-box pt_65">
           <p>safe elevator solutions - where safety meets technology</p>
 
-          <a href="/project" className="theme-btn">
+          {/* <a href="/project" className="theme-btn">
             <span>get free quote</span>
-          </a>
+          </a> */}
         </div>
       </div>
     </section>

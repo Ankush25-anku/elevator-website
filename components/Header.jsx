@@ -41,7 +41,11 @@ export default function Header() {
             <div className="menu-column">
               <figure className="logo-box">
                 <a href="/">
-                  <img src="/assets/images/logo.png" alt="logo" className="site-logo" />
+                  <img
+                    src="/assets/images/logo.png"
+                    alt="UNOSAFE Elevators"
+                    className="site-logo"
+                  />
                 </a>
               </figure>
 
@@ -165,7 +169,11 @@ export default function Header() {
           <div className="outer-box">
             <figure className="logo-box">
               <a href="/">
-                <img src="/assets/images/logo.png" alt="logo" />
+                <img
+                  src="/assets/images/logo.png"
+                  alt="UNOSAFE Elevators"
+                  className="site-logo"
+                />
               </a>
             </figure>
 

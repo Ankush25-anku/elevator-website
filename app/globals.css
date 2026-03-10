@@ -24,3 +24,38 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* ===================================== */
+/* ✅ SAFE MOBILE SIDE-SCROLL FIX        */
+/* (Does NOT break sticky/canvas)        */
+/* ===================================== */
+
+/* 1️⃣ Hide horizontal overflow safely */
+html {
+  overflow-x: hidden;
+}
+
+/* 2️⃣ Keep body layout normal */
+body {
+  margin: 0;
+}
+
+/* 3️⃣ Prevent elements from exceeding viewport */
+img,
+video {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* 4️⃣ Fix Tailwind 100vw overflow */
+.w-screen {
+  width: 100% !important;
+}
+
+/* 5️⃣ Fix common absolute overflow sources */
+section,
+header,
+footer {
+  overflow-x: hidden;
+}

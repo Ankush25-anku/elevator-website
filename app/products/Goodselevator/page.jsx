@@ -9,11 +9,11 @@ export default function MRGearedElevator() {
           {/* LEFT — IMAGES */}
           <div className="mrpd3-media">
             <img
-              src="/assets/images/products/img28.jpg"
+              src="/assets/images/products/img278.jpg"
               alt="Capsule Elevator Exterior"
             />
             <img
-              src="/assets/images/products/img103.jpg"
+              src="/assets/images/products/img28.webp"
               alt="Capsule Elevator Glass Cabin"
             />
           </div>

@@ -40,12 +40,6 @@ export default function Services() {
                   safety, efficiency and smooth vertical transportation in
                   residential and commercial buildings.
                 </p>
-
-                <div className="link-box">
-                  <a href="/">
-                    <span>more details</span>
-                  </a>
-                </div>
               </div>
 
               <figure className="image-box">
@@ -69,12 +63,6 @@ export default function Services() {
                   installation for buildings of all sizes and structures with
                   advanced safety standards.
                 </p>
-
-                <div className="link-box">
-                  <a href="/">
-                    <span>more details</span>
-                  </a>
-                </div>
               </div>
 
               <figure className="image-box">
@@ -98,12 +86,6 @@ export default function Services() {
                   scientific maintenance methods and strict quality checks to
                   ensure safe elevator performance.
                 </p>
-
-                <div className="link-box">
-                  <a href="/">
-                    <span>more details</span>
-                  </a>
-                </div>
               </div>
 
               <figure className="image-box">
@@ -127,12 +109,6 @@ export default function Services() {
                   improve safety, performance and reliability of existing
                   elevator systems.
                 </p>
-
-                <div className="link-box">
-                  <a href="/">
-                    <span>more details</span>
-                  </a>
-                </div>
               </div>
 
               <figure className="image-box">
@@ -151,9 +127,9 @@ export default function Services() {
             lift solutions
           </p>
 
-          <a href="/service" className="theme-btn">
+          {/* <a href="/service" className="theme-btn">
             <span>get free quote</span>
-          </a>
+          </a> */}
         </div>
       </div>
     </section>
