@@ -1,27 +1,25 @@
 "use client";
 import React from "react";
-import { useRouter } from "next/navigation";
+import { useRouter, usePathname } from "next/navigation";
 import "./unoClassicExact.css";
 
 export default function Unogold() {
   const router = useRouter();
+  const pathname = usePathname();
 
   return (
     <section className="uce-section">
       <div className="uce-container">
         {/* LEFT SIDE */}
         <div className="uce-left">
-          {/* SINGLE IMAGE */}
           <div className="uce-imageSingle">
-            <img src="/assets/images/pro6.jpg" alt="Uno Classic" />
+            <img src="/assets/images/pro6.jpg" alt="Uno Gold" />
           </div>
 
-          {/* TITLE */}
           <div className="uce-titleWrap">
             <h2>UNO GOLD</h2>
           </div>
 
-          {/* CONTENT */}
           <ul className="uce-list">
             <li>
               <strong>Cabin :</strong> SS304/441 Gold finish cabin
@@ -39,26 +37,35 @@ export default function Unogold() {
             <h3>Our Variants</h3>
 
             <div
-              className="uce-item active"
+              className={`uce-item ${pathname === "/unoclassics" ? "active" : ""}`}
               onClick={() => router.push("/unoclassics")}
             >
               UNO CLASSIC <span>✓</span>
             </div>
 
-            <div className="uce-item" onClick={() => router.push("/Unomax")}>
+            <div
+              className={`uce-item ${pathname === "/Unomax" ? "active" : ""}`}
+              onClick={() => router.push("/Unomax")}
+            >
               UNO MAX <span>✓</span>
             </div>
 
-            <div className="uce-item" onClick={() => router.push("/uno-prime")}>
+            <div
+              className={`uce-item ${pathname === "/uno-prime" ? "active" : ""}`}
+              onClick={() => router.push("/uno-prime")}
+            >
               UNO PRIME <span>✓</span>
             </div>
 
-            <div className="uce-item" onClick={() => router.push("/uno-gold")}>
+            <div
+              className={`uce-item ${pathname === "/uno-gold" ? "active" : ""}`}
+              onClick={() => router.push("/uno-gold")}
+            >
               UNO GOLD <span>✓</span>
             </div>
 
             <div
-              className="uce-item"
+              className={`uce-item ${pathname === "/uno-luxury" ? "active" : ""}`}
               onClick={() => router.push("/uno-luxury")}
             >
               UNO LUXURY <span>✓</span>
@@ -70,21 +77,27 @@ export default function Unogold() {
             <h3>Our Products</h3>
 
             <div
-              className="uce-item"
+              className={`uce-item ${
+                pathname === "/machine-room-elevators" ? "active" : ""
+              }`}
               onClick={() => router.push("/machine-room-elevators")}
             >
               Machine Room Elevators <span>✓</span>
             </div>
 
             <div
-              className="uce-item"
+              className={`uce-item ${
+                pathname === "/machine-room-less-elevators" ? "active" : ""
+              }`}
               onClick={() => router.push("/machine-room-less-elevators")}
             >
               Machine Room Less Elevators <span>✓</span>
             </div>
 
             <div
-              className="uce-item"
+              className={`uce-item ${
+                pathname === "/hydraulic-elevators" ? "active" : ""
+              }`}
               onClick={() => router.push("/hydraulic-elevators")}
             >
               Hydraulic Elevators <span>✓</span>

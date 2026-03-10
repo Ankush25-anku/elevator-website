@@ -41,7 +41,7 @@ export default function Header() {
             <div className="menu-column">
               <figure className="logo-box">
                 <a href="/">
-                  <img src="/assets/images/logo.png" alt="logo" />
+                  <img src="/assets/images/logo.png" alt="logo" className="site-logo" />
                 </a>
               </figure>
 
@@ -49,23 +49,23 @@ export default function Header() {
                 <nav className="main-menu clearfix">
                   <ul className="navigation clearfix">
                     <li className="current dropdown">
-                      <a href="#">Home</a>
-                      <ul>
+                      <a href="/">Home</a>
+                      {/* <ul>
                         <li>
                           <a href="/">Home One</a>
                         </li>
                         <li>
                           <a href="/home-2">Home Two</a>
                         </li>
-                      </ul>
+                      </ul> */}
                     </li>
 
                     <li>
-                      <a href="#about">About</a>
+                      <a href="/about">About</a>
                     </li>
 
                     <li className="dropdown">
-                      <a href="#">Products</a>
+                      <a href="/projects">Products</a>
                       <ul>
                         <li>
                           <a href="/products/mr-geared-elevator">
@@ -105,7 +105,7 @@ export default function Header() {
                     </li>
 
                     <li className="dropdown">
-                      <a href="#projects">Projects</a>
+                      <a href="/Homevariants">Variants</a>
                       <ul>
                         <li>
                           <a href="/unoclassics">Uno Classic</a>
@@ -126,10 +126,10 @@ export default function Header() {
                     </li>
 
                     <li>
-                      <a href="#gallery">Gallery</a>
+                      <a href="/galleryone">Gallery</a>
                     </li>
                     <li>
-                      <a href="/contact">Contact</a>
+                      <a href="/footer">Contact</a>
                     </li>
                   </ul>
                 </nav>

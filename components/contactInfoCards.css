@@ -1,0 +1,189 @@
+/* ===== CONTACT INFO CARDS — RESPONSIVE ===== */
+
+.cic-section {
+  padding: 90px 0;
+  background: #f3f4f6;
+}
+
+.cic-container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 24px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+}
+
+/* ================= CARD ================= */
+
+.cic-card {
+  background: #2f3b59;
+  color: #ffffff;
+  padding: 60px 40px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.1);
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease;
+}
+
+.cic-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 18px 50px rgba(0, 0, 0, 0.15);
+}
+
+/* ================= ICON ================= */
+
+.cic-icon {
+  font-size: 30px;
+  margin-bottom: 16px;
+}
+
+/* ================= DIVIDER ================= */
+
+.cic-line {
+  width: 42px;
+  height: 2px;
+  background: #94a3b8;
+  margin: 14px auto 22px;
+}
+
+.cic-line-small {
+  margin: 26px auto;
+}
+
+/* ================= TITLES ================= */
+
+.cic-title {
+  font-size: 26px;
+  font-weight: 700;
+  color: #62c1e5;
+  margin-bottom: 22px;
+}
+
+.cic-subtitle {
+  font-size: 22px;
+  font-weight: 700;
+  color: #62c1e5;
+  margin-bottom: 12px;
+}
+
+/* ================= TEXT ================= */
+
+.cic-text {
+  font-size: 18px;
+  line-height: 1.9;
+  color: #e5e7eb;
+}
+
+.cic-text p {
+  margin: 6px 0;
+}
+
+/* ================= LINKS ================= */
+
+.cic-text a {
+  color: #ffffff;
+  text-decoration: underline;
+  word-break: break-word;
+}
+
+/* ===================================== */
+/* 📱 TABLET VIEW                        */
+/* ===================================== */
+
+@media (max-width: 992px) {
+  .cic-container {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 28px;
+  }
+
+  .cic-card {
+    padding: 42px 26px;
+  }
+
+  .cic-title {
+    font-size: 22px;
+  }
+
+  .cic-subtitle {
+    font-size: 18px;
+  }
+
+  .cic-text {
+    font-size: 16px;
+    line-height: 1.8;
+  }
+}
+
+/* ===================================== */
+/* 📱 MOBILE VIEW                        */
+/* ===================================== */
+
+@media (max-width: 600px) {
+  .cic-section {
+    padding: 60px 0;
+  }
+
+  .cic-container {
+    grid-template-columns: 1fr;
+    gap: 22px;
+    padding: 0 16px;
+  }
+
+  .cic-card {
+    padding: 30px 20px;
+    border-radius: 10px;
+  }
+
+  .cic-icon {
+    font-size: 24px;
+    margin-bottom: 12px;
+  }
+
+  .cic-title {
+    font-size: 20px;
+    margin-bottom: 16px;
+  }
+
+  .cic-subtitle {
+    font-size: 16px;
+  }
+
+  .cic-line {
+    width: 36px;
+    margin: 12px auto 18px;
+  }
+
+  .cic-text {
+    font-size: 15px;
+    line-height: 1.7;
+  }
+}
+
+/* ===================================== */
+/* 📱 SMALL PHONES                       */
+/* ===================================== */
+
+@media (max-width: 380px) {
+  .cic-card {
+    padding: 24px 16px;
+  }
+
+  .cic-title {
+    font-size: 18px;
+  }
+
+  .cic-text {
+    font-size: 14px;
+  }
+
+  /* Phone numbers highlight */
+  .cic-phone {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+  }
+}

@@ -22,7 +22,7 @@ export default function MobileMenu() {
           {/* Here Menu Will Come Automatically Via Javascript */}
         </div>
 
-        <div className="contact-info">
+        {/* <div className="contact-info">
           <h4>Contact Info</h4>
 
           <ul>
@@ -40,7 +40,7 @@ export default function MobileMenu() {
               </a>
             </li>
           </ul>
-        </div>
+        </div> */}
 
         <div className="social-links">
           <ul className="clearfix">

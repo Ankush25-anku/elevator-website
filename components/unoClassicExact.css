@@ -125,3 +125,139 @@
     height: 360px;
   }
 }
+
+/* ===================================== */
+/* 📱 RESPONSIVE — UNO CLASSIC PAGE      */
+/* ===================================== */
+
+/* ============ TABLET ============ */
+@media (max-width: 900px) {
+  .uce-section {
+    padding: 60px 0;
+  }
+
+  .uce-container {
+    gap: 30px;
+  }
+
+  /* Image shorter */
+  .uce-imageSingle img {
+    height: 380px;
+    border-radius: 22px;
+  }
+
+  /* Title */
+  .uce-titleWrap {
+    padding: 12px 20px;
+  }
+
+  .uce-titleWrap h2 {
+    font-size: 28px;
+  }
+
+  /* Text */
+  .uce-list li {
+    font-size: 16px;
+  }
+
+  /* Sidebar spacing */
+  .uce-sidebar {
+    gap: 20px;
+  }
+
+  .uce-card {
+    padding: 22px;
+    border-radius: 18px;
+  }
+
+  .uce-card h3 {
+    font-size: 20px;
+    margin-bottom: 14px;
+  }
+
+  .uce-item {
+    padding: 12px 14px;
+    font-size: 14px;
+  }
+}
+
+/* ============ MOBILE ============ */
+@media (max-width: 600px) {
+  .uce-section {
+    padding: 50px 0;
+  }
+
+  .uce-container {
+    max-width: 92%;
+    gap: 24px;
+  }
+
+  /* Image */
+  .uce-imageSingle {
+    margin-bottom: 20px;
+  }
+
+  .uce-imageSingle img {
+    height: 260px;
+    border-radius: 18px;
+  }
+
+  /* Title */
+  .uce-titleWrap {
+    padding: 10px 16px;
+    margin: 6px 0 14px;
+  }
+
+  .uce-titleWrap h2 {
+    font-size: 22px;
+    letter-spacing: 0.5px;
+  }
+
+  /* Content list */
+  .uce-list {
+    padding-left: 18px;
+  }
+
+  .uce-list li {
+    font-size: 14px;
+    line-height: 1.6;
+    margin-bottom: 8px;
+  }
+
+  /* Sidebar cards */
+  .uce-card {
+    padding: 18px;
+    border-radius: 16px;
+  }
+
+  .uce-card h3 {
+    font-size: 18px;
+    margin-bottom: 12px;
+  }
+
+  /* Sidebar items */
+  .uce-item {
+    padding: 10px 12px;
+    font-size: 13px;
+    border-radius: 8px;
+  }
+
+  .uce-item:hover {
+    transform: translateX(4px);
+  }
+}
+
+/* ============ SMALL PHONES ============ */
+@media (max-width: 380px) {
+  .uce-titleWrap h2 {
+    font-size: 18px;
+  }
+
+  .uce-imageSingle img {
+    height: 220px;
+  }
+
+  .uce-item {
+    font-size: 12px;
+  }
+}

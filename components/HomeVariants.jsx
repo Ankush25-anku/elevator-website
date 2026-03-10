@@ -35,7 +35,7 @@ export default function HomeVariants() {
   ];
 
   return (
-    <section id="projects" className="hv-section">
+    <section className="hv-section">
       <div className="hv-wrap">
         <div className="hv-head">
           <span className="hv-sub">What We Offer For You</span>

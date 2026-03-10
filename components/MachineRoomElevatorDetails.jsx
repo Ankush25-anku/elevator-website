@@ -1,8 +1,10 @@
 "use client";
 import React from "react";
 import "./machineRoomElevatorDetails.css";
+import { usePathname } from "next/navigation";
 
 const MachineRoomElevatorDetails = () => {
+  const pathname = usePathname();
   return (
     <section className="mrel-section">
       <div className="mrel-wrapper">
@@ -168,17 +170,31 @@ const MachineRoomElevatorDetails = () => {
           <div className="mrel-card">
             <h3 className="mrel-cardTitle">Our Products</h3>
 
-            <a href="/machine-room-elevators" className="mrel-item active">
+            <a
+              href="/machine-room-elevators"
+              className={`mrel-item ${
+                pathname === "/machine-room-elevators" ? "active" : ""
+              }`}
+            >
               <span>Machine Room Elevators</span>
               <span className="mrel-check">✓</span>
             </a>
-
-            <a href="/machine-room-less-elevators" className="mrel-item">
+            <a
+              href="/machine-room-less-elevators"
+              className={`mrel-item ${
+                pathname === "/machine-room-less-elevators" ? "active" : ""
+              }`}
+            >
               <span>Machine Room Less Elevators</span>
               <span className="mrel-check">✓</span>
             </a>
 
-            <a href="/hydraulic-elevators" className="mrel-item">
+            <a
+              href="/hydraulic-elevators"
+              className={`mrel-item ${
+                pathname === "/hydraulic-elevators" ? "active" : ""
+              }`}
+            >
               <span>Hydraulic Elevators</span>
               <span className="mrel-check">✓</span>
             </a>
@@ -188,27 +204,42 @@ const MachineRoomElevatorDetails = () => {
           <div className="mrel-card">
             <h3 className="mrel-cardTitle">Variants</h3>
 
-            <a href="/unoclassics" className="mrel-item">
+            <a
+              href="/unoclassics"
+              className={`mrel-item ${pathname === "/unoclassics" ? "active" : ""}`}
+            >
               <span>UNO CLASSIC</span>
               <span className="mrel-check">✓</span>
             </a>
 
-            <a href="/Unomax" className="mrel-item">
+            <a
+              href="/unomax"
+              className={`mrel-item ${pathname === "/unomax" ? "active" : ""}`}
+            >
               <span>UNO MAX</span>
               <span className="mrel-check">✓</span>
             </a>
 
-            <a href="/uno-prime" className="mrel-item">
+            <a
+              href="/uno-prime"
+              className={`mrel-item ${pathname === "/uno-prime" ? "active" : ""}`}
+            >
               <span>UNO PRIME</span>
               <span className="mrel-check">✓</span>
             </a>
 
-            <a href="/uno-gold" className="mrel-item">
+            <a
+              href="/uno-gold"
+              className={`mrel-item ${pathname === "/uno-gold" ? "active" : ""}`}
+            >
               <span>UNO GOLD</span>
               <span className="mrel-check">✓</span>
             </a>
 
-            <a href="/uno-luxury" className="mrel-item">
+            <a
+              href="/uno-luxury"
+              className={`mrel-item ${pathname === "/uno-luxury" ? "active" : ""}`}
+            >
               <span>UNO LUXURY</span>
               <span className="mrel-check">✓</span>
             </a>

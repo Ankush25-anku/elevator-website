@@ -1,6 +1,6 @@
 export default function Projects() {
   return (
-    <section className="project-section bg-color-1 pt_120 pb_65">
+    <section id="products" className="project-section bg-color-1 pt_120 pb_65">
       <div className="auto-container">
         <div className="title-box mb_110">
           <div className="sec-title light">
