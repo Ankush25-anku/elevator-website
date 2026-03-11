@@ -43,156 +43,184 @@ export default function Projects() {
           <div className="p-tabs-content">
             {/* TAB 1 */}
             <div className="p-tab active-tab" id="tab-1">
-              <div className="three-item-carousel owl-carousel owl-theme owl-nav-none">
-                {/* 1 */}
-                <div className="project-block-one">
-                  <div className="inner-box">
-                    <figure className="image-box">
-                      <img src="/assets/images/project/project-1.jpg" alt="" />
-                    </figure>
-                    <div className="content-box">
-                      <h3>
-                        <a href="/products/mr-geared-elevator">
-                          Machine Room Elevators
-                        </a>
-                      </h3>
-                      <div className="link-box">
-                        <a href="/products/mr-geared-elevator">
-                          <span>view details</span>
-                        </a>
+              {/* ✅ Smooth Scroll Wrapper */}
+              <div className="products-scroll">
+                {/* ✅ Row (keeps your original card design) */}
+                <div className="products-row">
+                  {/* 1 */}
+                  <div className="project-block-one">
+                    <div className="inner-box">
+                      <figure className="image-box">
+                        <img
+                          src="/assets/images/project/project-1.jpg"
+                          alt=""
+                        />
+                      </figure>
+                      <div className="content-box">
+                        <h3>
+                          <a href="/products/mr-geared-elevator">
+                            Machine Room Elevators
+                          </a>
+                        </h3>
+                        <div className="link-box">
+                          <a href="/products/mr-geared-elevator">
+                            <span>view details</span>
+                          </a>
+                        </div>
                       </div>
                     </div>
                   </div>
-                </div>
 
-                {/* 2 */}
-                <div className="project-block-one">
-                  <div className="inner-box">
-                    <figure className="image-box">
-                      <img src="/assets/images/project/project-2.jpg" alt="" />
-                    </figure>
-                    <div className="content-box">
-                      <h3>
-                        <a href="/">Machine Room Less Elevators</a>
-                      </h3>
-                      <div className="link-box">
-                        <a href="/products/mr-gearlesselevators">
-                          <span>view details</span>
-                        </a>
+                  {/* 2 */}
+                  <div className="project-block-one">
+                    <div className="inner-box">
+                      <figure className="image-box">
+                        <img
+                          src="/assets/images/project/project-2.jpg"
+                          alt=""
+                        />
+                      </figure>
+                      <div className="content-box">
+                        <h3>
+                          <a href="/">Machine Room Less Elevators</a>
+                        </h3>
+                        <div className="link-box">
+                          <a href="/products/mr-gearlesselevators">
+                            <span>view details</span>
+                          </a>
+                        </div>
                       </div>
                     </div>
                   </div>
-                </div>
 
-                {/* 3 */}
-                <div className="project-block-one">
-                  <div className="inner-box">
-                    <figure className="image-box">
-                      <img src="/assets/images/project/project-3.jpg" alt="" />
-                    </figure>
-                    <div className="content-box">
-                      <h3>
-                        <a href="/">Hydraulic Elevators</a>
-                      </h3>
-                      <div className="link-box">
-                        <a href="/products/hydraulicelevators">
-                          <span>view details</span>
-                        </a>
+                  {/* 3 */}
+                  <div className="project-block-one">
+                    <div className="inner-box">
+                      <figure className="image-box">
+                        <img
+                          src="/assets/images/project/project-3.jpg"
+                          alt=""
+                        />
+                      </figure>
+                      <div className="content-box">
+                        <h3>
+                          <a href="/">Hydraulic Elevators</a>
+                        </h3>
+                        <div className="link-box">
+                          <a href="/products/hydraulicelevators">
+                            <span>view details</span>
+                          </a>
+                        </div>
                       </div>
                     </div>
                   </div>
-                </div>
 
-                {/* 4 */}
-                <div className="project-block-one">
-                  <div className="inner-box">
-                    <figure className="image-box">
-                      <img src="/assets/images/project/project-4.jpg" alt="" />
-                    </figure>
-                    <div className="content-box">
-                      <h3>
-                        <a href="/">Hospital / Stretcher Elevator</a>
-                      </h3>
-                      <div className="link-box">
-                        <a href="/products/medicalelevators">
-                          <span>view details</span>
-                        </a>
+                  {/* 4 */}
+                  <div className="project-block-one">
+                    <div className="inner-box">
+                      <figure className="image-box">
+                        <img
+                          src="/assets/images/project/project-4.jpg"
+                          alt=""
+                        />
+                      </figure>
+                      <div className="content-box">
+                        <h3>
+                          <a href="/">Hospital / Stretcher Elevator</a>
+                        </h3>
+                        <div className="link-box">
+                          <a href="/products/medicalelevators">
+                            <span>view details</span>
+                          </a>
+                        </div>
                       </div>
                     </div>
                   </div>
-                </div>
 
-                {/* 5 */}
-                <div className="project-block-one">
-                  <div className="inner-box">
-                    <figure className="image-box">
-                      <img src="/assets/images/project/project-5.jpg" alt="" />
-                    </figure>
-                    <div className="content-box">
-                      <h3>
-                        <a href="/">Capsule Elevator</a>
-                      </h3>
-                      <div className="link-box">
-                        <a href="/products/capsuleelevators">
-                          <span>view details</span>
-                        </a>
+                  {/* 5 */}
+                  <div className="project-block-one">
+                    <div className="inner-box">
+                      <figure className="image-box">
+                        <img
+                          src="/assets/images/project/project-5.jpg"
+                          alt=""
+                        />
+                      </figure>
+                      <div className="content-box">
+                        <h3>
+                          <a href="/">Capsule Elevator</a>
+                        </h3>
+                        <div className="link-box">
+                          <a href="/products/capsuleelevators">
+                            <span>view details</span>
+                          </a>
+                        </div>
                       </div>
                     </div>
                   </div>
-                </div>
 
-                {/* 6 */}
-                <div className="project-block-one">
-                  <div className="inner-box">
-                    <figure className="image-box">
-                      <img src="/assets/images/project/project-6.jpg" alt="" />
-                    </figure>
-                    <div className="content-box">
-                      <h3>
-                        <a href="/">Goods Elevator</a>
-                      </h3>
-                      <div className="link-box">
-                        <a href="/products/Goodselevator">
-                          <span>view details</span>
-                        </a>
+                  {/* 6 */}
+                  <div className="project-block-one">
+                    <div className="inner-box">
+                      <figure className="image-box">
+                        <img
+                          src="/assets/images/project/project-6.jpg"
+                          alt=""
+                        />
+                      </figure>
+                      <div className="content-box">
+                        <h3>
+                          <a href="/">Goods Elevator</a>
+                        </h3>
+                        <div className="link-box">
+                          <a href="/products/Goodselevator">
+                            <span>view details</span>
+                          </a>
+                        </div>
                       </div>
                     </div>
                   </div>
-                </div>
 
-                {/* 7 */}
-                <div className="project-block-one">
-                  <div className="inner-box">
-                    <figure className="image-box">
-                      <img src="/assets/images/project/project-7.jpg" alt="" />
-                    </figure>
-                    <div className="content-box">
-                      <h3>
-                        <a href="/">Villa Elevators</a>
-                      </h3>
-                      <div className="link-box">
-                        <a href="/products/villaelevator">
-                          <span>view details</span>
-                        </a>
+                  {/* 7 */}
+                  <div className="project-block-one">
+                    <div className="inner-box">
+                      <figure className="image-box">
+                        <img
+                          src="/assets/images/project/project-7.jpg"
+                          alt=""
+                        />
+                      </figure>
+                      <div className="content-box">
+                        <h3>
+                          <a href="/">Villa Elevators</a>
+                        </h3>
+                        <div className="link-box">
+                          <a href="/products/villaelevator">
+                            <span>view details</span>
+                          </a>
+                        </div>
                       </div>
                     </div>
                   </div>
-                </div>
 
-                {/* 8 */}
-                <div className="project-block-one">
-                  <div className="inner-box">
-                    <figure className="image-box">
-                      <img src="/assets/images/project/project-8.jpg" alt="" />
-                    </figure>
-                    <div className="content-box">
-                      <h3>
-                        <a href="/">Escalator</a>
-                      </h3>
-                      <div className="link-box">
-                        <a href="/products/escalator">
-                          <span>view details</span>
-                        </a>
+                  {/* 8 */}
+                  <div className="project-block-one">
+                    <div className="inner-box">
+                      <figure className="image-box">
+                        <img
+                          src="/assets/images/project/project-8.jpg"
+                          alt=""
+                        />
+                      </figure>
+                      <div className="content-box">
+                        <h3>
+                          <a href="/">Escalator</a>
+                        </h3>
+                        <div className="link-box">
+                          <a href="/products/escalator">
+                            <span>view details</span>
+                          </a>
+                        </div>
                       </div>
                     </div>
                   </div>

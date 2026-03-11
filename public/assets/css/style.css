@@ -772,11 +772,6 @@ img {
   animation-iteration-count: 1;
 }
 
-
-/* Hide mobile dropdown toggle button for HOME only */
-.main-menu .navigation > li.no-arrow .dropdown-btn {
-  display: none !important;
-}
 /** header-top **/
 
 
@@ -3523,6 +3518,48 @@ div#mCSB_1_container {
   transform: scale(1.1);
 }
 
+/* ===============================
+   SMOOTH HORIZONTAL SCROLL
+   (keeps original design)
+================================ */
+
+/* Scroll container */
+.products-scroll{
+  overflow-x:auto;
+  overflow-y:hidden;
+  -webkit-overflow-scrolling:touch;
+  scroll-behavior:smooth;
+}
+
+/* Force cards into one row */
+.products-row{
+  display:flex;
+  gap:30px;
+  flex-wrap:nowrap;
+}
+
+/* Keep original card styling */
+.products-row .project-block-one{
+  flex:0 0 auto;
+  width:360px; /* same visual size */
+}
+
+/* Optional snap */
+.products-scroll{
+  scroll-snap-type:x proximity;
+}
+.products-row .project-block-one{
+  scroll-snap-align:start;
+}
+
+/* Optional scrollbar style */
+.products-scroll::-webkit-scrollbar{
+  height:6px;
+}
+.products-scroll::-webkit-scrollbar-thumb{
+  background:#333;
+  border-radius:10px;
+}
 /** location-section **/
 
 .location-section {
