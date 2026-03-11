@@ -52,16 +52,8 @@ export default function Header() {
               <div className="menu-area">
                 <nav className="main-menu clearfix">
                   <ul className="navigation clearfix">
-                    <li className="current dropdown">
+                    <li>
                       <a href="/">Home</a>
-                      {/* <ul>
-                        <li>
-                          <a href="/">Home One</a>
-                        </li>
-                        <li>
-                          <a href="/home-2">Home Two</a>
-                        </li>
-                      </ul> */}
                     </li>
 
                     <li>
@@ -131,6 +123,9 @@ export default function Header() {
 
                     <li>
                       <a href="/galleryone">Gallery</a>
+                    </li>
+                    <li>
+                      <a href="/Blog">Blog</a>
                     </li>
                     <li>
                       <a href="/footer">Contact</a>

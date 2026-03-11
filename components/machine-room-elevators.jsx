@@ -2,6 +2,7 @@
 
 import React from "react";
 import "./machineRoomElevators.css";
+import Link from "next/link";
 
 export default function MachineRoomElevators() {
   return (
@@ -10,7 +11,7 @@ export default function MachineRoomElevators() {
 
       <div className="mre-container">
         <div className="mre-breadcrumb">
-          <span className="mre-home">Home</span>
+       <Link href="/" className="mre-home">Home</Link>
           <span className="mre-separator">/</span>
           <span className="mre-current">Hydraulic Elevators</span>
         </div>

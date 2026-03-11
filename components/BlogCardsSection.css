@@ -1,0 +1,166 @@
+.ublog_section {
+  padding: 90px 20px;
+  background: #f3f4f6;
+}
+
+.ublog_container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.ublog_grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+}
+
+/* ===== CARD ===== */
+.ublog_card {
+  background: #ffffff;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ===== IMAGE ===== */
+.ublog_imageWrap {
+  position: relative;
+}
+
+.ublog_image {
+  width: 100%;
+  height: 240px;
+  object-fit: cover;
+  display: block;
+}
+
+/* ===== DATE BADGE ===== */
+.ublog_date {
+  position: absolute;
+  bottom: -26px;
+  left: 24px;
+  background: #1f2a44;
+  color: #fff;
+  padding: 10px 14px;
+  text-align: center;
+  width: 56px;
+}
+
+.ublog_date span {
+  font-size: 18px;
+  font-weight: 700;
+  display: block;
+}
+
+.ublog_date small {
+  font-size: 10px;
+  display: block;
+  letter-spacing: 1px;
+}
+
+/* ===== CONTENT ===== */
+.ublog_content {
+  padding: 45px 24px 28px;
+}
+
+.ublog_title {
+  color: #d21f26;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 1.4;
+  margin-bottom: 14px;
+}
+
+.ublog_desc {
+  color: #6b7280;
+  font-size: 16px;
+  line-height: 1.7;
+  margin-bottom: 20px;
+}
+
+/* ===== READ MORE ===== */
+.ublog_readmore {
+  color: #6b7280;
+  text-decoration: none;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  transition: 0.2s;
+}
+
+.ublog_readmore span {
+  color: #d21f26;
+  font-size: 18px;
+  transition: 0.2s;
+}
+
+.ublog_readmore:hover span {
+  transform: translateX(4px);
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 1024px) {
+  .ublog_grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 640px) {
+  .ublog_grid {
+    grid-template-columns: 1fr;
+  }
+
+  .ublog_image {
+    height: 200px;
+  }
+}
+
+/* ===== FORCE 3 COLUMNS ===== */
+.ublog_grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+}
+
+/* ===== PAGINATION ===== */
+.ublog_pagination {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.ublog_pageBtn {
+  width: 42px;
+  height: 42px;
+  margin: 0 6px;
+  border: 1px solid #d1d5db;
+  background: white;
+  font-weight: 700;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.ublog_pageBtn:hover {
+  border-color: #d21f26;
+  color: #d21f26;
+}
+
+.ublog_pageBtn.active {
+  background: #d21f26;
+  color: white;
+  border-color: #d21f26;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 1024px) {
+  .ublog_grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 640px) {
+  .ublog_grid {
+    grid-template-columns: 1fr;
+  }
+}

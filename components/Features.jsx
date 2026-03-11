@@ -30,11 +30,11 @@ export default function Features() {
                   for residential, commercial, and high-rise buildings.
                 </p>
 
-                <div className="link-box">
+                {/* <div className="link-box">
                   <a href="/">
                     <span>learn more</span>
                   </a>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
@@ -62,11 +62,11 @@ export default function Features() {
                   with advanced technology and strict safety standards.
                 </p>
 
-                <div className="link-box">
+                {/* <div className="link-box">
                   <a href="/">
                     <span>learn more</span>
                   </a>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
@@ -94,11 +94,11 @@ export default function Features() {
                   services to keep elevators safe, efficient, and long-lasting.
                 </p>
 
-                <div className="link-box">
+                {/* <div className="link-box">
                   <a href="/">
                     <span>learn more</span>
                   </a>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>

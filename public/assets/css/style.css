@@ -772,6 +772,11 @@ img {
   animation-iteration-count: 1;
 }
 
+
+/* Hide mobile dropdown toggle button for HOME only */
+.main-menu .navigation > li.no-arrow .dropdown-btn {
+  display: none !important;
+}
 /** header-top **/
 
 

@@ -59,13 +59,19 @@ export default function Footer() {
                     <a href="/about">About Us</a>
                   </li>
                   <li>
-                    <a href="/products">Our Products</a>
+                    <a href="/projects">Our Products</a>
                   </li>
                   <li>
-                    <a href="/career">Career</a>
+                    <a href="/Homevariants">Variants</a>
                   </li>
                   <li>
-                    <a href="/contact">Contact Us</a>
+                    <a href="/galleryone">Gallery</a>
+                  </li>
+                  <li>
+                    <a href="/Blog">Blog</a>
+                  </li>
+                  <li>
+                    <a href="/footer">Contact Us</a>
                   </li>
                 </ul>
               </div>
