@@ -29,16 +29,16 @@ export default function Footer() {
 
                 <ul className="links-list clearfix footer-links">
                   <li>
-                    <a href="#">Bangalore</a>
+                    <a href="/Bangalore">Bangalore</a>
                   </li>
                   <li>
-                    <a href="#">Chennai</a>
+                    <a href="/Chennai1">Chennai</a>
                   </li>
                   <li>
-                    <a href="#">Kerala</a>
+                    <a href="/Kerala1">Kerala</a>
                   </li>
                   <li>
-                    <a href="#">Andhra Pradesh</a>
+                    <a href="/Andhra1">Andhra Pradesh</a>
                   </li>
                 </ul>
               </div>

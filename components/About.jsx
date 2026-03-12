@@ -79,7 +79,7 @@ export default function About() {
                         <div className="inner-box">
                           <div className="count-outer">
                             <span className="odometer" data-count="75">
-                              00
+                              75
                             </span>
                           </div>
                           <p>Industry Safety & Quality Recognitions</p>
@@ -93,7 +93,7 @@ export default function About() {
                         <div className="inner-box">
                           <div className="count-outer">
                             <span className="odometer" data-count="160">
-                              00
+                              160
                             </span>
                           </div>
                           <p>Certified Elevator Professionals</p>
@@ -107,7 +107,7 @@ export default function About() {
                         <div className="inner-box">
                           <div className="count-outer">
                             <span className="odometer" data-count="1.2">
-                              00
+                              1.2
                             </span>
                             <span className="symble">k</span>
                           </div>
@@ -122,7 +122,7 @@ export default function About() {
                         <div className="inner-box">
                           <div className="count-outer">
                             <span className="odometer" data-count="4.8">
-                              00
+                              4.8
                             </span>
                             <span className="symble">k</span>
                           </div>

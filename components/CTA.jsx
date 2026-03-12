@@ -29,7 +29,7 @@ export default function CTA() {
               <span>.</span>
             </h2>
 
-            <a href="/" className="theme-btn">
+            <a href="/footer" className="theme-btn">
               <span>Get a free elevator consultation</span>
             </a>
           </div>

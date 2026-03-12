@@ -1,0 +1,167 @@
+/* SECTION */
+
+.bhe-section {
+  padding: 80px 0;
+  background: #f7f7f7;
+}
+
+/* CONTAINER */
+
+.bhe-container {
+  max-width: 1320px;
+  margin: auto;
+  display: flex;
+  gap: 50px;
+  padding: 0 40px;
+}
+
+/* LEFT */
+
+.bhe-left {
+  flex: 1.6;
+}
+/* IMAGE */
+/* IMAGE CARD */
+
+.bhe-imageCard {
+  width: 100%;
+  height: 480px;
+  border-radius: 60px;
+  overflow: hidden;
+  background: transparent; /* remove blue gradient */
+}
+
+/* IMAGE */
+
+.bhe-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* fill the card like screenshot */
+  display: block;
+}
+
+/* CONTENT */
+
+.bhe-content {
+  margin-top: 30px;
+}
+
+.bhe-title {
+  font-size: 34px;
+  color: #d72027;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.bhe-subtitle {
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.bhe-text {
+  font-size: 16px;
+  color: #555;
+  line-height: 1.8;
+  margin-bottom: 18px;
+}
+
+/* HEADINGS */
+
+.bhe-heading {
+  font-size: 24px;
+  margin-top: 35px;
+  margin-bottom: 15px;
+  font-weight: 700;
+  color: #333;
+}
+
+/* LIST */
+
+.bhe-list {
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+
+.bhe-list li {
+  margin-bottom: 10px;
+  color: #555;
+}
+
+/* PRICE CARD */
+
+.bhe-priceCard {
+  background: #eeeeee;
+  padding: 25px;
+  border-radius: 12px;
+  margin-top: 20px;
+}
+
+.bhe-priceCard h4 {
+  margin-top: 15px;
+  font-size: 18px;
+}
+
+/* SIDEBAR */
+
+/* SIDEBAR */
+
+.bhe-sidebar {
+  flex: 1.1;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+/* CARD */
+.bhe-card {
+  background: linear-gradient(180deg, #61b1c8, #4da1bc);
+  padding: 40px 35px;
+  border-radius: 40px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  width: 100%;
+}
+
+/* CARD TITLE */
+
+.bhe-cardTitle {
+  color: #ffffff;
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+/* ITEM */
+
+.bhe-item {
+  background: #e9e9e9;
+  padding: 20px 22px;
+  border-radius: 12px;
+  margin-bottom: 18px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 17px;
+  font-weight: 600;
+  color: #444;
+  line-height: 1.6;
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+/* CHECK ICON */
+
+.bhe-check {
+  color: #d72027;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+/* HOVER EFFECT */
+
+.bhe-item:hover {
+  background: #d72027;
+  color: #ffffff;
+  transform: translateX(5px);
+}
+
+.bhe-item:hover .bhe-check {
+  color: #ffffff;
+}
