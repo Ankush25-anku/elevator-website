@@ -62,7 +62,7 @@ export default function Footer() {
                     <a href="/projects">Our Products</a>
                   </li>
                   <li>
-                    <a href="/Homevariants">Variants</a>
+                    <a href="/homevariants">Variants</a>
                   </li>
                   <li>
                     <a href="/galleryone">Gallery</a>

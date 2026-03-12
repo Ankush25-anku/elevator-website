@@ -103,7 +103,7 @@ export default function MainHeader() {
                       </li>
 
                       <li className="dropdown">
-                        <Link href="/Homevariants">Variants</Link>
+                        <Link href="/homevariants">Variants</Link>
                         <ul>
                           <li>
                             <Link href="/unoclassics">Uno Classic</Link>

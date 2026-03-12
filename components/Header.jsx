@@ -101,7 +101,7 @@ export default function Header() {
                     </li>
 
                     <li className="dropdown">
-                      <a href="/Homevariants">Variants</a>
+                      <a href="/homevariants">Variants</a>
                       <ul>
                         <li>
                           <a href="/unoclassics">Uno Classic</a>
