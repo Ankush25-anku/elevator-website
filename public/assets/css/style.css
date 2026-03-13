@@ -1782,27 +1782,29 @@ div#mCSB_1_container {
 }
 
 /* Tablet */
+/* Tablet */
+/* Tablet */
+/* Tablet */
+/* Tablet */
 @media (max-width: 991px) {
   .site-logo {
-    height: 72px;
+    height: 110px !important;
   }
 }
 
 /* Mobile */
 @media (max-width: 768px) {
   .site-logo {
-    height: 68px;   /* Bigger on phones */
+    height: 105px !important;
   }
 }
 
 /* Small phones */
 @media (max-width: 480px) {
   .site-logo {
-    height: 60px;
+    height: 95px !important;
   }
 }
-
-
 /* ===================================== */
 /* 📱 MOBILE HEADER LAYOUT FIX           */
 /* ===================================== */
