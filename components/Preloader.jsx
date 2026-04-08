@@ -1,21 +1,18 @@
 "use client";
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 
-export default function Preloader() {
-  const [loading, setLoading] = useState(true);
-
+export default function Preloader({ setLoading }) {
   useEffect(() => {
-    const timer = setTimeout(() => setLoading(false), 1500);
-    return () => clearTimeout(timer);
-  }, []);
+    const timer = setTimeout(() => {
+      setLoading(false); // 🔥 THIS CONTROLS EVERYTHING
+    }, 1500);
 
-  if (!loading) return null;
+    return () => clearTimeout(timer);
+  }, [setLoading]);
 
   return (
     <div className="unosafe-preloader">
       <div className="unosafe-loader">
-
-        {/* Rotating Circular Text */}
         <svg className="unosafe-circle" viewBox="0 0 200 200">
           <defs>
             <path
@@ -36,11 +33,9 @@ export default function Preloader() {
           </text>
         </svg>
 
-        {/* Center Logo (not rotating) */}
         <div className="unosafe-logo">
           <img src="/assets/images/icons/logo-2.png" alt="UNOSAFE Logo" />
         </div>
-
       </div>
     </div>
   );

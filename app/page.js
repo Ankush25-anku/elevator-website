@@ -24,7 +24,9 @@ export default function Home() {
       {/* <Banner /> */}
       {/* <Brands /> */}
       <Features />
+      <HomeProjects />
       <About />
+      <HomeAwards />
       <Services />
       <Process />
       <VideoSection />
@@ -35,8 +37,7 @@ export default function Home() {
       <CTA />
 
       <HomeGallery />
-      <HomeProjects />
-      <HomeAwards />
+
       <HomeTestimonials />
       {/* <News /> */}
     </>

@@ -1,7 +1,7 @@
 import Footer from "../components/Footer";
 import Header from "../components/Header";
 import MobileMenu from "../components/MobileMenu";
-import Preloader from "../components/Preloader";
+import PreloaderWrapper from "../components/PreloaderWrapper";
 import "./globals.css";
 import Script from "next/script";
 
@@ -16,16 +16,13 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        {/* Fav Icon */}
         <link rel="icon" href="/assets/images/icons/logo-2.png" />
 
-        {/* Google Fonts */}
         <link
-          href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100..900;1,100..900&display=swap"
           rel="stylesheet"
         />
 
-        {/* Stylesheets */}
         <link href="/assets/css/bootstrap.css" rel="stylesheet" />
         <link href="/assets/css/font-awesome-all.css" rel="stylesheet" />
         <link href="/assets/css/flaticon.css" rel="stylesheet" />
@@ -41,19 +38,17 @@ export default function RootLayout({ children }) {
       </head>
 
       <body>
-        <Preloader />
-        <Header />
-        <MobileMenu />
-        {children}
-        <Footer />
+        {/* ✅ ALL CLIENT LOGIC HERE */}
+        <PreloaderWrapper>
+          <Header />
+          <MobileMenu />
+          {children}
+          <Footer />
+        </PreloaderWrapper>
 
-        {/* jQuery MUST load first */}
+        {/* Scripts */}
         <Script src="/assets/js/jquery.js" strategy="beforeInteractive" />
-
-        {/* Core JS */}
         <Script src="/assets/js/bootstrap.min.js" strategy="lazyOnload" />
-
-        {/* Plugins */}
         <Script src="/assets/js/owl.js" strategy="lazyOnload" />
         <Script src="/assets/js/wow.js" strategy="lazyOnload" />
         <Script src="/assets/js/validation.js" strategy="lazyOnload" />
@@ -68,8 +63,6 @@ export default function RootLayout({ children }) {
         />
         <Script src="/assets/js/jquery.circleType.js" strategy="lazyOnload" />
         <Script src="/assets/js/odometer.js" strategy="lazyOnload" />
-
-        {/* MAIN SCRIPT LAST */}
         <Script src="/assets/js/script.js" strategy="lazyOnload" />
       </body>
     </html>

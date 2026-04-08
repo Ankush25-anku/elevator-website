@@ -18,18 +18,23 @@ export default function About() {
                     About UNO SAFE Elevator Pvt Ltd
                   </span>
                   <h2>
-                    Elevating imagination with safe and reliable lift solutions
-                    <span>.</span>
+                    We adhere to ISO 9001 : 2015 standards and deliver safe,
+                    reliable passenger elevator solutions<span>.</span>
                   </h2>
                 </div>
 
                 <ul className="list-style-one mb_100 clearfix">
                   <li>
-                    Premium elevator manufacturing and installation services
+                    Manufacture, installation, and maintenance of passenger
+                    elevators
                   </li>
-                  <li>Certified engineers ensuring safety and precision</li>
                   <li>
-                    Energy-efficient and space-saving vertical mobility systems
+                    Strong focus on safety with hazard-free and complaint-free
+                    operations
+                  </li>
+                  <li>
+                    Specialized solutions for all structures with more than 2
+                    floors
                   </li>
                 </ul>
 
@@ -46,22 +51,29 @@ export default function About() {
               <div className="content-box mt_60">
                 <div className="text-box mb_130">
                   <p className="mb_30">
-                    UNO SAFE Elevator Pvt Ltd specializes in delivering
-                    advanced, dependable, and innovative elevator systems for
-                    residential, commercial, and high-rise buildings. Our lift
-                    solutions are engineered for smooth performance, maximum
-                    safety, and long-term reliability.
+                    We manufacture, install, and maintain all types of passenger
+                    elevators with a strong emphasis on safety. Our elevator
+                    installations have been running smoothly without complaints
+                    or hazards across various locations.
                   </p>
 
                   <p className="mb_30">
-                    From design and installation to modernization and
-                    maintenance, our expert team provides end-to-end elevator
-                    services tailored to enhance building efficiency and
-                    passenger comfort.
+                    UNOSAFE Elevator Service Department offers preventive
+                    maintenance programs for different variants of elevators. We
+                    follow scientific maintenance methods and strict quality
+                    checks to ensure maximum safety and reliability for all
+                    users.
+                  </p>
+
+                  <p className="mb_30">
+                    With our professional experience, we understand that delays
+                    in civil and electrical work within elevator shafts can
+                    impact vertical transport systems, and we work efficiently
+                    to minimize such challenges.
                   </p>
 
                   <a href="/about" className="theme-btn">
-                    <span>more about us</span>
+                    <span>Read More</span>
                   </a>
                 </div>
 
@@ -82,7 +94,7 @@ export default function About() {
                               75
                             </span>
                           </div>
-                          <p>Industry Safety & Quality Recognitions</p>
+                          <p>ISO Certified Safety & Quality Standards</p>
                         </div>
                       </div>
                     </div>
@@ -96,7 +108,7 @@ export default function About() {
                               160
                             </span>
                           </div>
-                          <p>Certified Elevator Professionals</p>
+                          <p>Professional Maintenance & Service Experts</p>
                         </div>
                       </div>
                     </div>
@@ -111,7 +123,7 @@ export default function About() {
                             </span>
                             <span className="symble">k</span>
                           </div>
-                          <p>Elevators Successfully Installed</p>
+                          <p>Safe Elevator Installations Across Locations</p>
                         </div>
                       </div>
                     </div>
@@ -126,7 +138,7 @@ export default function About() {
                             </span>
                             <span className="symble">k</span>
                           </div>
-                          <p>Happy Clients & Building Partners</p>
+                          <p>Trusted by Clients for Safe Elevator Solutions</p>
                         </div>
                       </div>
                     </div>
