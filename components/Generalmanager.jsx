@@ -5,7 +5,12 @@ export default function Generalmanager() {
   return (
     <section className="vp-section">
       <div className="vp-card">
-        {/* LEFT CONTENT */}
+        {/* LEFT IMAGE */}
+        <div className="vp-image">
+          <img src="/assets/images/narayan.jpg" alt="General Manager" />
+        </div>
+
+        {/* RIGHT CONTENT */}
         <div className="vp-content">
           <h2>Mr.Narayan (Genaral Manager)</h2>
 
@@ -33,11 +38,6 @@ export default function Generalmanager() {
             His leadership and deep industry knowledge have been instrumental in
             driving the company toward its goals.
           </p>
-        </div>
-
-        {/* RIGHT IMAGE */}
-        <div className="vp-image">
-          <img src="/assets/images/narayan.jpg" alt="Vice President" />
         </div>
       </div>
     </section>

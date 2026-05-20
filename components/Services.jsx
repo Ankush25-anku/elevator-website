@@ -14,7 +14,7 @@ export default function Services() {
 
       <div className="outer-container">
         <div className="rotate-box">
-          <span className="curved-circle">unosafe elevator services.</span>
+          {/* <span className="curved-circle">unosafe elevator services.</span> */}
 
           <div className="icon-box">
             <img src="/assets/images/icons/logo-2.png" alt="" />

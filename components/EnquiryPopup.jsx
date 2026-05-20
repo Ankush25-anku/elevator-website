@@ -3,14 +3,20 @@ import { useEffect, useState } from "react";
 
 export default function ElevatorEnquiryPopup() {
   const [visible, setVisible] = useState(false);
-
   useEffect(() => {
-    // show popup every time after load
-    const timer = setTimeout(() => {
-      setVisible(true);
-    }, 300); // slight delay after preloader
+    const popupShown = sessionStorage.getItem("elevatorPopupShown");
 
-    return () => clearTimeout(timer);
+    // Show only if not shown before
+    if (!popupShown) {
+      const timer = setTimeout(() => {
+        setVisible(true);
+
+        // Save popup shown state
+        sessionStorage.setItem("elevatorPopupShown", "true");
+      }, 300);
+
+      return () => clearTimeout(timer);
+    }
   }, []);
 
   if (!visible) return null;

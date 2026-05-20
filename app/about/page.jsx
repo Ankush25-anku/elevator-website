@@ -2,12 +2,13 @@ import React from "react";
 import About from "../../components/About";
 import Readmoreabou from "../../components/Readmoreabou";
 import FounderCard from "../../components/Founder";
-import VicePresidentCard from "../../components/VicePresidentCard";
+// import VicePresidentCard from "../../components/VicePresidentCard";
 import Gm from "../../components/Gm";
 import HomeVariants from "../../components/HomeVariants";
 import Generalmanager from "../../components/Generalmanager";
 
 import ChooseUs from "../../components/ChooseUs";
+import InstagramPosts from "../../components/InstagramPosts";
 const page = () => {
   return (
     <div>
@@ -15,9 +16,11 @@ const page = () => {
       <About />
       <FounderCard />
 
-      <VicePresidentCard />
+      {/* <VicePresidentCard /> */}
       <Gm />
       <Generalmanager />
+
+      <InstagramPosts />
 
       <HomeVariants />
       <ChooseUs />

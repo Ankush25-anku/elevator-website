@@ -8,7 +8,7 @@ export default function FounderCard() {
         {/* LEFT IMAGE */}
         <div className="founder-image">
           <img
-            src="/assets/images/deepak.jpg" // 👈 replace with your image path
+            src="/assets/images/deepak1.png" // 👈 replace with your image path
             alt="Founder"
           />
         </div>
@@ -35,6 +35,18 @@ export default function FounderCard() {
             Bangalore, and Shivamogga APMC. Its state-of-the-art manufacturing
             facility and dedicated team of professionals ensure the delivery of
             top-quality products that meet international standards.
+          </p>
+          <p>
+            Under his leadership, Unosafe Elevator continues to deliver
+            innovative, reliable, and customer-focused mobility solutions while
+            maintaining the highest standards of quality, safety, and service
+            excellence across every project.
+          </p>
+          <p>
+            His dedication to continuous improvement and passion for engineering
+            excellence have played a key role in establishing Unosafe Elevator
+            as a trusted and growing brand in the vertical transportation
+            industry.
           </p>
         </div>
       </div>

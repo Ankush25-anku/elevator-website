@@ -5,15 +5,7 @@ export default function Gm() {
   return (
     <section className="founder-section">
       <div className="founder-card">
-        {/* LEFT IMAGE */}
-        <div className="founder-image">
-          <img
-            src="/assets/images/Vp1.jpg" // 👈 replace with your image path
-            alt="Founder"
-          />
-        </div>
-
-        {/* RIGHT CONTENT */}
+        {/* LEFT CONTENT */}
         <div className="founder-content">
           <h2>Ragunath P (Vice President)</h2>
 
@@ -46,6 +38,11 @@ export default function Gm() {
             deep technical value with commercial success to build lasting
             legacies of growth.
           </p>
+        </div>
+
+        {/* RIGHT IMAGE */}
+        <div className="founder-image">
+          <img src="/assets/images/Vp1.jpg" alt="Founder" />
         </div>
       </div>
     </section>

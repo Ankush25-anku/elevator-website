@@ -11,13 +11,13 @@ export default function CTA() {
 
       <div className="auto-container">
         <div className="content-box p_relative">
-          <div className="rotate-box">
+          {/* <div className="rotate-box">
             <span className="curved-circle">uno safe elevator services.</span>
 
             <div className="icon-box">
               <img src="/assets/images/icons/logo-2.png" alt="" />
             </div>
-          </div>
+          </div> */}
 
           <div className="sec-title light">
             <span className="sub-title">
