@@ -1,4 +1,8 @@
+"use client";
+import { useState } from "react";
+
 export default function Projects() {
+  const [activeTab, setActiveTab] = useState("tab-1");
   return (
     <section id="products" className="project-section bg-color-1 pt_120 pb_65">
       <div className="auto-container">
@@ -23,31 +27,234 @@ export default function Projects() {
 
           {/* TAB BUTTONS */}
           <ul className="tab-btns product-tab-btns mb_55">
-            <li className="p-tab-btn active-btn" data-tab="#tab-1">
+            <li
+              className={`p-tab-btn ${activeTab === "tab-1" ? "active-btn" : ""}`}
+              onClick={() => setActiveTab("tab-1")}
+            >
               All
             </li>
-            <li className="p-tab-btn" data-tab="#tab-2">
+
+            <li
+              className={`p-tab-btn ${activeTab === "tab-2" ? "active-btn" : ""}`}
+              onClick={() => setActiveTab("tab-2")}
+            >
               Buildings
             </li>
-            <li className="p-tab-btn" data-tab="#tab-3">
+
+            <li
+              className={`p-tab-btn ${activeTab === "tab-3" ? "active-btn" : ""}`}
+              onClick={() => setActiveTab("tab-3")}
+            >
               Commercial
             </li>
-            <li className="p-tab-btn" data-tab="#tab-4">
+
+            <li
+              className={`p-tab-btn ${activeTab === "tab-4" ? "active-btn" : ""}`}
+              onClick={() => setActiveTab("tab-4")}
+            >
               Residential
             </li>
-            <li className="p-tab-btn" data-tab="#tab-5">
+
+            <li
+              className={`p-tab-btn ${activeTab === "tab-5" ? "active-btn" : ""}`}
+              onClick={() => setActiveTab("tab-5")}
+            >
               Industrial
             </li>
           </ul>
 
           <div className="p-tabs-content">
             {/* TAB 1 */}
-            <div className="p-tab active-tab" id="tab-1">
-              {/* ✅ Smooth Scroll Wrapper */}
-              <div className="products-scroll">
-                {/* ✅ Row (keeps your original card design) */}
+            {activeTab === "tab-1" && (
+              <div className="p-tab" id="tab-1">
+                <div className="products-scroll">
+                  <div className="products-row">
+                    {/* 1 */}
+                    <div className="project-block-one">
+                      <div className="inner-box">
+                        <figure className="image-box">
+                          <img
+                            src="/assets/images/project/project-1.jpg"
+                            alt=""
+                          />
+                        </figure>
+                        <div className="content-box">
+                          <h3>
+                            <a href="/products/mr-geared-elevator">
+                              Machine Room Elevators
+                            </a>
+                          </h3>
+                          <div className="link-box">
+                            <a href="/products/mr-geared-elevator">
+                              <span>view details</span>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    {/* 2 */}
+                    <div className="project-block-one">
+                      <div className="inner-box">
+                        <figure className="image-box">
+                          <img
+                            src="/assets/images/project/project-2.jpg"
+                            alt=""
+                          />
+                        </figure>
+                        <div className="content-box">
+                          <h3>
+                            <a href="/">Machine Room Less Elevators</a>
+                          </h3>
+                          <div className="link-box">
+                            <a href="/products/mr-gearlesselevators">
+                              <span>view details</span>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    {/* 3 */}
+                    <div className="project-block-one">
+                      <div className="inner-box">
+                        <figure className="image-box">
+                          <img
+                            src="/assets/images/project/project-3.jpg"
+                            alt=""
+                          />
+                        </figure>
+                        <div className="content-box">
+                          <h3>
+                            <a href="/">Hydraulic Elevators</a>
+                          </h3>
+                          <div className="link-box">
+                            <a href="/products/hydraulicelevators">
+                              <span>view details</span>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    {/* 4 */}
+                    <div className="project-block-one">
+                      <div className="inner-box">
+                        <figure className="image-box">
+                          <img
+                            src="/assets/images/project/project-4.jpg"
+                            alt=""
+                          />
+                        </figure>
+                        <div className="content-box">
+                          <h3>
+                            <a href="/">Hospital / Stretcher Elevator</a>
+                          </h3>
+                          <div className="link-box">
+                            <a href="/products/medicalelevators">
+                              <span>view details</span>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    {/* 5 */}
+                    <div className="project-block-one">
+                      <div className="inner-box">
+                        <figure className="image-box">
+                          <img
+                            src="/assets/images/project/project-5.jpg"
+                            alt=""
+                          />
+                        </figure>
+                        <div className="content-box">
+                          <h3>
+                            <a href="/">Capsule Elevator</a>
+                          </h3>
+                          <div className="link-box">
+                            <a href="/products/capsuleelevators">
+                              <span>view details</span>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    {/* 6 */}
+                    <div className="project-block-one">
+                      <div className="inner-box">
+                        <figure className="image-box">
+                          <img
+                            src="/assets/images/project/project-6.jpg"
+                            alt=""
+                          />
+                        </figure>
+                        <div className="content-box">
+                          <h3>
+                            <a href="/">Goods Elevator</a>
+                          </h3>
+                          <div className="link-box">
+                            <a href="/products/Goodselevator">
+                              <span>view details</span>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    {/* 7 */}
+                    <div className="project-block-one">
+                      <div className="inner-box">
+                        <figure className="image-box">
+                          <img
+                            src="/assets/images/project/project-7.jpg"
+                            alt=""
+                          />
+                        </figure>
+                        <div className="content-box">
+                          <h3>
+                            <a href="/">Villa Elevators</a>
+                          </h3>
+                          <div className="link-box">
+                            <a href="/products/villaelevator">
+                              <span>view details</span>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    {/* 8 */}
+                    <div className="project-block-one">
+                      <div className="inner-box">
+                        <figure className="image-box">
+                          <img
+                            src="/assets/images/project/project-8.jpg"
+                            alt=""
+                          />
+                        </figure>
+                        <div className="content-box">
+                          <h3>
+                            <a href="/">Escalator</a>
+                          </h3>
+                          <div className="link-box">
+                            <a href="/products/escalator">
+                              <span>view details</span>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            )}
+            {/* TAB 2 */}
+            {/* TAB 2 */}
+            {activeTab === "tab-2" && (
+              <div className="p-tab" id="tab-2">
                 <div className="products-row">
-                  {/* 1 */}
                   <div className="project-block-one">
                     <div className="inner-box">
                       <figure className="image-box">
@@ -56,22 +263,27 @@ export default function Projects() {
                           alt=""
                         />
                       </figure>
+
                       <div className="content-box">
                         <h3>
-                          <a href="/products/mr-geared-elevator">
-                            Machine Room Elevators
-                          </a>
+                          <a href="/">high-rise building elevator</a>
                         </h3>
+
                         <div className="link-box">
-                          <a href="/products/mr-geared-elevator">
+                          <a href="/">
                             <span>view details</span>
                           </a>
                         </div>
                       </div>
                     </div>
                   </div>
-
-                  {/* 2 */}
+                </div>
+              </div>
+            )}
+            {/* TAB 3 */}
+            {activeTab === "tab-3" && (
+              <div className="p-tab" id="tab-3">
+                <div className="products-row">
                   <div className="project-block-one">
                     <div className="inner-box">
                       <figure className="image-box">
@@ -80,20 +292,28 @@ export default function Projects() {
                           alt=""
                         />
                       </figure>
+
                       <div className="content-box">
                         <h3>
-                          <a href="/">Machine Room Less Elevators</a>
+                          <a href="/">commercial building lift system</a>
                         </h3>
+
                         <div className="link-box">
-                          <a href="/products/mr-gearlesselevators">
+                          <a href="/">
                             <span>view details</span>
                           </a>
                         </div>
                       </div>
                     </div>
                   </div>
+                </div>
+              </div>
+            )}
+            {/* TAB 4 */}
 
-                  {/* 3 */}
+            {activeTab === "tab-4" && (
+              <div className="p-tab" id="tab-4">
+                <div className="products-row">
                   <div className="project-block-one">
                     <div className="inner-box">
                       <figure className="image-box">
@@ -102,122 +322,14 @@ export default function Projects() {
                           alt=""
                         />
                       </figure>
-                      <div className="content-box">
-                        <h3>
-                          <a href="/">Hydraulic Elevators</a>
-                        </h3>
-                        <div className="link-box">
-                          <a href="/products/hydraulicelevators">
-                            <span>view details</span>
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
 
-                  {/* 4 */}
-                  <div className="project-block-one">
-                    <div className="inner-box">
-                      <figure className="image-box">
-                        <img
-                          src="/assets/images/project/project-4.jpg"
-                          alt=""
-                        />
-                      </figure>
                       <div className="content-box">
                         <h3>
-                          <a href="/">Hospital / Stretcher Elevator</a>
+                          <a href="/">home elevator installation</a>
                         </h3>
-                        <div className="link-box">
-                          <a href="/products/medicalelevators">
-                            <span>view details</span>
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
 
-                  {/* 5 */}
-                  <div className="project-block-one">
-                    <div className="inner-box">
-                      <figure className="image-box">
-                        <img
-                          src="/assets/images/project/project-5.jpg"
-                          alt=""
-                        />
-                      </figure>
-                      <div className="content-box">
-                        <h3>
-                          <a href="/">Capsule Elevator</a>
-                        </h3>
                         <div className="link-box">
-                          <a href="/products/capsuleelevators">
-                            <span>view details</span>
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-
-                  {/* 6 */}
-                  <div className="project-block-one">
-                    <div className="inner-box">
-                      <figure className="image-box">
-                        <img
-                          src="/assets/images/project/project-6.jpg"
-                          alt=""
-                        />
-                      </figure>
-                      <div className="content-box">
-                        <h3>
-                          <a href="/">Goods Elevator</a>
-                        </h3>
-                        <div className="link-box">
-                          <a href="/products/Goodselevator">
-                            <span>view details</span>
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-
-                  {/* 7 */}
-                  <div className="project-block-one">
-                    <div className="inner-box">
-                      <figure className="image-box">
-                        <img
-                          src="/assets/images/project/project-7.jpg"
-                          alt=""
-                        />
-                      </figure>
-                      <div className="content-box">
-                        <h3>
-                          <a href="/">Villa Elevators</a>
-                        </h3>
-                        <div className="link-box">
-                          <a href="/products/villaelevator">
-                            <span>view details</span>
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-
-                  {/* 8 */}
-                  <div className="project-block-one">
-                    <div className="inner-box">
-                      <figure className="image-box">
-                        <img
-                          src="/assets/images/project/project-8.jpg"
-                          alt=""
-                        />
-                      </figure>
-                      <div className="content-box">
-                        <h3>
-                          <a href="/">Escalator</a>
-                        </h3>
-                        <div className="link-box">
-                          <a href="/products/escalator">
+                          <a href="/">
                             <span>view details</span>
                           </a>
                         </div>
@@ -226,107 +338,36 @@ export default function Projects() {
                   </div>
                 </div>
               </div>
-            </div>
-
-            {/* TAB 2 */}
-            <div className="p-tab" id="tab-2">
-              <div className="three-item-carousel owl-carousel owl-theme owl-nav-none">
-                <div className="project-block-one">
-                  <div className="inner-box">
-                    <figure className="image-box">
-                      <img src="/assets/images/project/project-1.jpg" alt="" />
-                    </figure>
-
-                    <div className="content-box">
-                      <h3>
-                        <a href="/">high-rise building elevator</a>
-                      </h3>
-
-                      <div className="link-box">
-                        <a href="/">
-                          <span>view details</span>
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            {/* TAB 3 */}
-            <div className="p-tab" id="tab-3">
-              <div className="three-item-carousel owl-carousel owl-theme owl-nav-none">
-                <div className="project-block-one">
-                  <div className="inner-box">
-                    <figure className="image-box">
-                      <img src="/assets/images/project/project-2.jpg" alt="" />
-                    </figure>
-
-                    <div className="content-box">
-                      <h3>
-                        <a href="/">commercial building lift system</a>
-                      </h3>
-
-                      <div className="link-box">
-                        <a href="/">
-                          <span>view details</span>
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            {/* TAB 4 */}
-            <div className="p-tab" id="tab-4">
-              <div className="three-item-carousel owl-carousel owl-theme owl-nav-none">
-                <div className="project-block-one">
-                  <div className="inner-box">
-                    <figure className="image-box">
-                      <img src="/assets/images/project/project-3.jpg" alt="" />
-                    </figure>
-
-                    <div className="content-box">
-                      <h3>
-                        <a href="/">home elevator installation</a>
-                      </h3>
-
-                      <div className="link-box">
-                        <a href="/">
-                          <span>view details</span>
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
+            )}
             {/* TAB 5 */}
-            <div className="p-tab" id="tab-5">
-              <div className="three-item-carousel owl-carousel owl-theme owl-nav-none">
-                <div className="project-block-one">
-                  <div className="inner-box">
-                    <figure className="image-box">
-                      <img src="/assets/images/project/project-1.jpg" alt="" />
-                    </figure>
+            {activeTab === "tab-5" && (
+              <div className="p-tab" id="tab-5">
+                <div className="products-row">
+                  <div className="project-block-one">
+                    <div className="inner-box">
+                      <figure className="image-box">
+                        <img
+                          src="/assets/images/project/project-1.jpg"
+                          alt=""
+                        />
+                      </figure>
 
-                    <div className="content-box">
-                      <h3>
-                        <a href="/">industrial freight elevator</a>
-                      </h3>
+                      <div className="content-box">
+                        <h3>
+                          <a href="/">industrial freight elevator</a>
+                        </h3>
 
-                      <div className="link-box">
-                        <a href="/">
-                          <span>view details</span>
-                        </a>
+                        <div className="link-box">
+                          <a href="/">
+                            <span>view details</span>
+                          </a>
+                        </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </div>
+            )}
           </div>
         </div>
 

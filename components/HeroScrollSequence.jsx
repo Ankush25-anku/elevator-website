@@ -206,7 +206,7 @@ export default function HeroScrollSequence() {
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-4">
               Welcome to the Future
             </h1>
-            <p className="text-lg md:text-2xl text-orange-400 max-w-2xl">
+            <p className="text-lg md:text-2xl text-white max-w-2xl">
               Experience next-generation vertical mobility with revolutionary
               design and unmatched safety.
             </p>
@@ -223,7 +223,7 @@ export default function HeroScrollSequence() {
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-4">
               Uncompromising Excellence
             </h1>
-            <p className="text-lg md:text-2xl text-orange-400 max-w-2xl">
+            <p className="text-lg md:text-2xl text-white max-w-2xl">
               Every UNOSAFE elevator is precision-engineered to exceed the
               highest global standards.
             </p>
