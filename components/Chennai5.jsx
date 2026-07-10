@@ -36,12 +36,12 @@ export default function Chennai5() {
               </p>
 
               <p className="bhe-text">
-                At <strong>UNOSAFE Elevators</strong>, we are one of the leading
-                hydraulic lift manufacturers in Chennai, delivering world-class
-                lift solutions that combine safety, durability, and modern
-                engineering. Our hydraulic lifts are designed with precision to
-                provide smooth operation, maximum safety, and efficient space
-                utilization.
+                At <strong>UNOSAFE ELEVATOR s</strong>, we are one of the
+                leading hydraulic lift manufacturers in Chennai, delivering
+                world-class lift solutions that combine safety, durability, and
+                modern engineering. Our hydraulic lifts are designed with
+                precision to provide smooth operation, maximum safety, and
+                efficient space utilization.
               </p>
 
               <p className="bhe-text">
@@ -184,7 +184,7 @@ export default function Chennai5() {
 
               <p className="bhe-text">
                 If you are looking for reliable hydraulic lift manufacturers in
-                Chennai, UNOSAFE Elevators offers the perfect solution. Our
+                Chennai, UNOSAFE ELEVATOR s offers the perfect solution. Our
                 hydraulic lifts combine safety, durability, and modern
                 technology to deliver efficient vertical mobility for
                 residential, commercial, and industrial buildings.
@@ -242,7 +242,7 @@ export default function Chennai5() {
             <Link href="/Kerala3" className="bhe-item">
               Kone Elevators In Kerala <span className="bhe-check">✓</span>
             </Link>
-          
+
             <Link href="/Kerala5" className="bhe-item">
               Elite Elevators in Kerala<span className="bhe-check">✓</span>
             </Link>

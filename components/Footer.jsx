@@ -34,9 +34,9 @@ export default function Footer() {
                   <li>
                     <a href="/Chennai1">Chennai</a>
                   </li>
-                  <li>
+                  {/* <li>
                     <a href="/Kerala1">Kerala</a>
-                  </li>
+                  </li> */}
                   <li>
                     <a href="/Andhra1">Andhra Pradesh</a>
                   </li>
@@ -72,6 +72,9 @@ export default function Footer() {
                   </li>
                   <li>
                     <a href="/footer">Contact Us</a>
+                  </li>
+                  <li>
+                    <a href="/Carrers">Careers</a>
                   </li>
                 </ul>
               </div>
@@ -167,7 +170,7 @@ export default function Footer() {
             <div className="copyright">
               <p>
                 Copyrights 2026{" "}
-                <span className="footer-brand">Unosafe Elevator</span> All
+                <span className="footer-brand">UNOSAFE ELEVATOR </span> All
                 Rights Reserved.
               </p>
             </div>
@@ -175,9 +178,14 @@ export default function Footer() {
             <div className="designer">
               <p>
                 Designed by :{" "}
-                <span className="footer-brand">
+                <a
+                  href="https://www.rctechbox.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="footer-brand"
+                >
                   RCERP TECHNOLOGIES Pvt. Ltd.
-                </span>
+                </a>
               </p>
             </div>
           </div>

@@ -43,7 +43,7 @@ export default function Kerala1() {
               </p>
 
               <p className="bhe-text">
-                <strong>Unosafe Elevator Pvt. Ltd.</strong>, an ISO 9001:2015
+                <strong>UNOSAFE ELEVATOR Pvt. Ltd.</strong>, an ISO 9001:2015
                 certified elevator manufacturer, delivers advanced goods lift
                 solutions designed for performance, durability, and operational
                 safety. Our elevators are engineered to meet Kerala’s modern
@@ -169,7 +169,7 @@ export default function Kerala1() {
               <h3 className="bhe-heading">Why Kerala Chooses Unosafe</h3>
 
               <p className="bhe-text">
-                Unosafe Elevator Pvt. Ltd. has built a strong reputation for
+                UNOSAFE ELEVATOR Pvt. Ltd. has built a strong reputation for
                 delivering reliable goods lift solutions across Kerala. Our
                 elevators are trusted by commercial hubs, hospitals, industrial
                 facilities, and luxury residential projects.
@@ -188,7 +188,7 @@ export default function Kerala1() {
 
               <p className="bhe-text">
                 If you are searching for reliable goods lift manufacturers in
-                Kerala, Unosafe Elevator Pvt. Ltd. offers the perfect
+                Kerala, UNOSAFE ELEVATOR Pvt. Ltd. offers the perfect
                 combination of advanced engineering, safety-focused design, and
                 dependable service support. Our elevators ensure efficient goods
                 movement while meeting the highest standards of safety and

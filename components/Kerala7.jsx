@@ -39,10 +39,10 @@ export default function Kerala7() {
               <p className="bhe-text">
                 Kerala is known for its architectural beauty—from luxury villas
                 to modern high-rise apartments—and elevators have become an
-                essential part of this growth. <strong>Unosafe Elevator</strong>{" "}
-                is proud to be one of the best elevator companies in Kerala,
-                delivering advanced lift solutions that combine technology,
-                safety, and stylish design.
+                essential part of this growth.{" "}
+                <strong>UNOSAFE ELEVATOR </strong> is proud to be one of the
+                best elevator companies in Kerala, delivering advanced lift
+                solutions that combine technology, safety, and stylish design.
               </p>
 
               <p className="bhe-text">
@@ -55,7 +55,7 @@ export default function Kerala7() {
               {/* WHY BEST */}
 
               <h3 className="bhe-heading">
-                Why Choose Unosafe Elevators in Kerala
+                Why Choose UNOSAFE ELEVATOR s in Kerala
               </h3>
 
               <ul className="bhe-list">
@@ -187,7 +187,7 @@ export default function Kerala7() {
               <p className="bhe-text">
                 <strong>Do you manufacture elevators in Kerala?</strong>
                 <br />
-                Yes. Unosafe Elevator designs and manufactures high-quality
+                Yes. UNOSAFE ELEVATOR designs and manufactures high-quality
                 elevators tailored to Kerala’s building requirements.
               </p>
 
@@ -197,7 +197,7 @@ export default function Kerala7() {
 
               <p className="bhe-text">
                 If you are searching for the best elevator manufacturers in
-                Kerala, Unosafe Elevator offers innovative, safe, and stylish
+                Kerala, UNOSAFE ELEVATOR offers innovative, safe, and stylish
                 elevator solutions for homes, apartments, commercial buildings,
                 and industries. With advanced engineering and reliable service
                 support, we ensure smooth and dependable vertical mobility for

@@ -80,7 +80,7 @@ export default function Andhra7() {
             {/* PRICING */}
 
             <h3 className="bhe-heading">
-              UNOSAFE Elevator Range for Anantapur
+              UNOSAFE ELEVATOR Range for Anantapur
             </h3>
 
             <p className="bhe-text">
@@ -117,7 +117,7 @@ export default function Andhra7() {
             {/* VARIANTS */}
 
             <h3 className="bhe-heading">
-              Technical Superiority of UNOSAFE Elevators
+              Technical Superiority of UNOSAFE ELEVATOR s
             </h3>
 
             <ul className="bhe-list">
@@ -172,7 +172,7 @@ export default function Andhra7() {
             <h3 className="bhe-heading">Certifications That Prove Trust</h3>
 
             <p className="bhe-text">
-              Every UNOSAFE elevator installed in Anantapur is backed by global
+              Every UNOSAFE ELEVATOR installed in Anantapur is backed by global
               certifications including ISO 9001:2015 for quality management, BIS
               compliance for Indian safety standards, and EN 81-20/50 adherence
               for international elevator safety requirements.

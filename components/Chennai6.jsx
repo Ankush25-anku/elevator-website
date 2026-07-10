@@ -34,7 +34,7 @@ export default function Chennai6() {
               </p>
 
               <p className="bhe-text">
-                <strong>Unosafe Elevators</strong> is the most trusted elevator
+                <strong>UNOSAFE ELEVATOR s</strong> is the most trusted elevator
                 service in Chennai, offering home lifts, hydraulic elevators,
                 capsule lifts, and residential elevators with unmatched
                 reliability. With years of expertise and advanced technology, we
@@ -52,7 +52,7 @@ export default function Chennai6() {
               {/* WHY BEST */}
 
               <h3 className="bhe-heading">
-                Why Choose Unosafe Elevators – India’s Top Elevator Company
+                Why Choose UNOSAFE ELEVATOR s – India’s Top Elevator Company
               </h3>
 
               <ul className="bhe-list">
@@ -231,7 +231,7 @@ export default function Chennai6() {
             <Link href="/Kerala3" className="bhe-item">
               Kone Elevators In Kerala <span className="bhe-check">✓</span>
             </Link>
-           
+
             <Link href="/Kerala5" className="bhe-item">
               Elite Elevators in Kerala<span className="bhe-check">✓</span>
             </Link>

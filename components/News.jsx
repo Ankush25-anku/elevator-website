@@ -4,7 +4,7 @@ export default function News() {
       <div className="auto-container">
         <div className="sec-title centred mb_65">
           <span className="sub-title">
-            UNO Safe Elevator - Elevating Safety & Innovation
+            UNOSAFE ELEVATOR - Elevating Safety & Innovation
           </span>
           <h2>
             latest elevator industry insights<span>.</span>

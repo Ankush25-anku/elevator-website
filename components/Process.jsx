@@ -16,7 +16,7 @@ export default function Process() {
       <div className="auto-container">
         <div className="sec-title mb_65">
           <span className="sub-title">
-            UNOSAFE Elevator Presence & Excellence
+            UNOSAFE ELEVATOR Presence & Excellence
           </span>
 
           <h2>
@@ -56,9 +56,8 @@ export default function Process() {
                 <h3>strong regional & national service coverage.</h3>
 
                 <p>
-                  We operate through strategic branch offices in RR Nagar, KR
-                  Puram, Hosur, Coimbattore, Bhatkal, and Navi Mumbai, enabling
-                  reliable service support across regions.
+                  We operate through strategic branch offices in RR Nagar,
+                  Bhatkal enabling reliable service support across regions.
                 </p>
               </div>
             </div>

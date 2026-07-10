@@ -41,7 +41,7 @@ export default function Andhra1() {
             </p>
 
             <p className="bhe-text">
-              <strong>Unosafe Elevator Pvt. Ltd.</strong>, an ISO
+              <strong>UNOSAFE ELEVATOR Pvt. Ltd.</strong>, an ISO
               9001:2015-certified company trusted across India, provides
               advanced goods lifts designed for safety, durability, and seamless
               integration into industrial, commercial, and residential
@@ -148,7 +148,7 @@ export default function Andhra1() {
             <h3 className="bhe-heading">Conclusion</h3>
 
             <p className="bhe-text">
-              With Unosafe Elevator Pvt. Ltd., businesses and builders in Andhra
+              With UNOSAFE ELEVATOR Pvt. Ltd., businesses and builders in Andhra
               Pradesh gain access to safe, durable, and technologically advanced
               goods lift systems. Our elevators combine engineering excellence,
               safety, and reliability to support the state’s growing industrial

@@ -40,10 +40,10 @@ export default function Andhra2() {
             </p>
 
             <p className="bhe-text">
-              <strong>Unosafe Elevators</strong>, a trusted name in the elevator
-              industry, provides advanced lift solutions that combine modern
-              technology, superior safety, and dependable service support across
-              Andhra Pradesh.
+              <strong>UNOSAFE ELEVATOR s</strong>, a trusted name in the
+              elevator industry, provides advanced lift solutions that combine
+              modern technology, superior safety, and dependable service support
+              across Andhra Pradesh.
             </p>
 
             {/* WHY BEST */}
@@ -147,7 +147,7 @@ export default function Andhra2() {
 
             <p className="bhe-text">
               With years of industry experience and a strong commitment to
-              quality, Unosafe Elevators has become a trusted partner for
+              quality, UNOSAFE ELEVATOR s has become a trusted partner for
               architects, builders, and developers across Andhra Pradesh. Our
               elevators are designed to deliver smooth performance, durability,
               and complete safety.
@@ -165,8 +165,8 @@ export default function Andhra2() {
 
             <p className="bhe-text">
               If you are searching for reliable lift companies in Andhra
-              Pradesh, Unosafe Elevators offers advanced elevator systems backed
-              by expert installation and long-term service support. Our
+              Pradesh, UNOSAFE ELEVATOR s offers advanced elevator systems
+              backed by expert installation and long-term service support. Our
               solutions ensure safe, efficient, and dependable vertical mobility
               for residential, commercial, and industrial buildings.
             </p>

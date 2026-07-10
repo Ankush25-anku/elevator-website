@@ -30,7 +30,7 @@ export default function Chennai2() {
               <h2 className="bhe-title">Lift Companies In Chennai</h2>
 
               <p className="bhe-subtitle">
-                Advanced Lift Solutions in Chennai from Unosafe Elevators
+                Advanced Lift Solutions in Chennai from UNOSAFE ELEVATOR s
               </p>
 
               <p className="bhe-text">
@@ -42,7 +42,7 @@ export default function Chennai2() {
               </p>
 
               <p className="bhe-text">
-                <strong>Unosafe Elevator Pvt. Ltd.</strong> is a trusted name
+                <strong>UNOSAFE ELEVATOR Pvt. Ltd.</strong> is a trusted name
                 among lift companies in Chennai, offering cutting-edge elevator
                 solutions that combine advanced technology, superior safety, and
                 unmatched service support. Our elevators are designed to meet
@@ -154,7 +154,7 @@ export default function Chennai2() {
 
               <p className="bhe-text">
                 With years of experience and a strong commitment to quality,
-                Unosafe Elevators has become a trusted partner for hundreds of
+                UNOSAFE ELEVATOR s has become a trusted partner for hundreds of
                 satisfied clients. Our customer-first approach, combined with
                 cutting-edge technology, ensures reliable vertical mobility for
                 residential, commercial, and industrial buildings.
@@ -233,7 +233,7 @@ export default function Chennai2() {
             <Link href="/Kerala3" className="bhe-item">
               Kone Elevators In Kerala <span className="bhe-check">✓</span>
             </Link>
-           
+
             <Link href="/Kerala5" className="bhe-item">
               Elite Elevators in Kerala<span className="bhe-check">✓</span>
             </Link>

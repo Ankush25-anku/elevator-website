@@ -4,7 +4,7 @@ export default function Services() {
       <div className="auto-container">
         <div className="sec-title mb_65 centred">
           <span className="sub-title">
-            UNOSAFE Elevator Pvt Ltd - Safe Vertical Mobility Solutions
+            UNOSAFE ELEVATOR Pvt Ltd - Safe Vertical Mobility Solutions
           </span>
           <h2>
             elevator services<span>.</span>
@@ -14,17 +14,29 @@ export default function Services() {
 
       <div className="outer-container">
         <div className="rotate-box">
-          {/* <span className="curved-circle">unosafe elevator services.</span> */}
+          {/* <span className="curved-circle">UNOSAFE ELEVATOR  services.</span> */}
 
           <div className="icon-box">
-            <img src="/assets/images/icons/logo-2.png" alt="" />
+            <img src="/assets/images/icons/logo-3.png" alt="" />
           </div>
         </div>
 
         <div className="bg-color"></div>
         <div className="bg-color-2"></div>
 
-        <span className="big-text">safe vertical mobility</span>
+        <div className="big-text-wrapper">
+          <div className="big-text-track">
+            <span>
+              SAFE VERTICAL MOBILITY • SAFE VERTICAL MOBILITY • SAFE VERTICAL
+              MOBILITY •
+            </span>
+
+            <span>
+              SAFE VERTICAL MOBILITY • SAFE VERTICAL MOBILITY • SAFE VERTICAL
+              MOBILITY •
+            </span>
+          </div>
+        </div>
 
         <div className="row clearfix">
           {/* Service 1 */}

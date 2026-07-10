@@ -37,7 +37,7 @@ export default function HomeGallery() {
   }, []);
 
   return (
-    <section  id="gallery" className="hg-section">
+    <section id="gallery" className="hg-section">
       <div className="hg-container">
         <h2 className="hg-title">
           <span>Our</span> Gallery
@@ -77,7 +77,7 @@ export default function HomeGallery() {
 
                 <div className="hg-overlay-content">
                   <h4>{item.cat}</h4>
-                  <p>UNOSAFE Elevator Pvt Ltd</p>
+                  <p>UNOSAFE ELEVATOR Pvt Ltd</p>
                 </div>
               </div>
             </div>

@@ -24,7 +24,7 @@ export default function VideoSection() {
       <div className="auto-container">
         <div className="video-btn">
           <a
-            href="https://www.youtube.com/embed/-gmnn6AYRdc?autoplay=1"
+            href="https://www.youtube.com/embed/O6zqdk10TEo?autoplay=1"
             className="glightbox"
           >
             <i className="icon-7"></i>

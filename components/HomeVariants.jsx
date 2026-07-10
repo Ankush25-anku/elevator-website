@@ -8,27 +8,27 @@ export default function HomeVariants() {
 
   const variants = [
     {
-      name: "Uno Classic",
+      name: "UNO CLASSIC",
       desc: "Mild steel powder coated cabin and doors",
       path: "/unoclassics", // ✅ matches app/unoclassics/page.jsx
     },
     {
-      name: "Uno Max",
+      name: "UNO MAX",
       desc: "SS304/441 Matte finish cabin and doors",
       path: "/Unomax",
     },
     {
-      name: "Uno Prime",
+      name: "UNO PRIME",
       desc: "SS304/441 Cabin with Glass doors",
       path: "/uno-prime",
     },
     {
-      name: "Uno Gold",
+      name: "UNO GOLD",
       desc: "SS304/441 Gold cabin with Gold/Glass doors",
       path: "/uno-gold",
     },
     {
-      name: "Uno Luxury",
+      name: "UNO LUXURY",
       desc: "Kings choice Premium segment",
       path: "/uno-luxury",
     },

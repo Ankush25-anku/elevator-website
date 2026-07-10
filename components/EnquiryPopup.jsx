@@ -31,7 +31,7 @@ export default function ElevatorEnquiryPopup() {
 
         {/* Header */}
         <div className="elevator-popup-header">
-          <h2>UNOSAFE Elevators PVT LTD</h2>
+          <h2>UNOSAFE ELEVATOR s PVT LTD</h2>
         </div>
 
         {/* Form */}

@@ -43,7 +43,7 @@ export default function Kerala2() {
               </p>
 
               <p className="bhe-text">
-                <strong>Unosafe Elevator Pvt. Ltd.</strong> is one of the most
+                <strong>UNOSAFE ELEVATOR Pvt. Ltd.</strong> is one of the most
                 trusted lift companies in Kerala, delivering advanced elevator
                 solutions that combine modern technology, superior safety
                 standards, and reliable service support for residential,
@@ -153,7 +153,7 @@ export default function Kerala2() {
 
               <p className="bhe-text">
                 With years of industry experience and a strong commitment to
-                quality, Unosafe Elevators has become a trusted partner for
+                quality, UNOSAFE ELEVATOR s has become a trusted partner for
                 architects, builders, and property developers across Kerala.
               </p>
 
@@ -170,7 +170,7 @@ export default function Kerala2() {
 
               <p className="bhe-text">
                 If you are searching for reliable lift companies in Kerala,
-                Unosafe Elevator Pvt. Ltd. offers advanced elevator systems
+                UNOSAFE ELEVATOR Pvt. Ltd. offers advanced elevator systems
                 backed by professional installation and long-term service
                 support. Our elevators are designed to provide safe, efficient,
                 and reliable vertical mobility for modern residential,
@@ -229,7 +229,7 @@ export default function Kerala2() {
             <Link href="/Kerala3" className="bhe-item">
               Kone Elevators In Kerala <span className="bhe-check">✓</span>
             </Link>
-        
+
             <Link href="/Kerala5" className="bhe-item">
               Elite Elevators in Kerala<span className="bhe-check">✓</span>
             </Link>

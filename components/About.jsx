@@ -15,7 +15,7 @@ export default function About() {
               <div className="content-box mr_90">
                 <div className="sec-title mb_40">
                   <span className="sub-title">
-                    About UNO SAFE Elevator Pvt Ltd
+                    About UNOSAFE ELEVATOR Pvt Ltd
                   </span>
                   <h2>
                     We adhere to ISO 9001 : 2015 standards and deliver safe,
@@ -39,7 +39,7 @@ export default function About() {
                 </ul>
 
                 <figure className="image-box clearfix">
-                  <img src="/assets/images/resource/img1036.jpg" alt="" />
+                  <img src="/assets/images/resource/img1039.jpg" alt="" />
                 </figure>
               </div>
             </div>
@@ -58,7 +58,7 @@ export default function About() {
                   </p>
 
                   <p className="mb_30">
-                    UNOSAFE Elevator Service Department offers preventive
+                    UNOSAFE ELEVATOR Service Department offers preventive
                     maintenance programs for different variants of elevators. We
                     follow scientific maintenance methods and strict quality
                     checks to ensure maximum safety and reliability for all
@@ -89,12 +89,10 @@ export default function About() {
                     <div className="col-lg-6 col-md-6 col-sm-12 funfact-block">
                       <div className="funfact-block-one">
                         <div className="inner-box">
-                          <div className="count-outer">
-                            <span className="odometer" data-count="75">
-                              75
-                            </span>
+                          <div className="count-outer custom-count">
+                            <span>20+</span>
                           </div>
-                          <p>ISO Certified Safety & Quality Standards</p>
+                          <p>Years Industry Experience</p>
                         </div>
                       </div>
                     </div>
@@ -103,12 +101,11 @@ export default function About() {
                     <div className="col-lg-6 col-md-6 col-sm-12 funfact-block">
                       <div className="funfact-block-one l_60 p_relative">
                         <div className="inner-box">
-                          <div className="count-outer">
-                            <span className="odometer" data-count="160">
-                              160
-                            </span>
+                          <div className="count-outer custom-count">
+                            <span>2.1k+</span>
                           </div>
-                          <p>Professional Maintenance & Service Experts</p>
+
+                          <p>Safe Elevator Installations Across Locations</p>
                         </div>
                       </div>
                     </div>
@@ -117,13 +114,10 @@ export default function About() {
                     <div className="col-lg-6 col-md-6 col-sm-12 funfact-block">
                       <div className="funfact-block-one">
                         <div className="inner-box">
-                          <div className="count-outer">
-                            <span className="odometer" data-count="1.2">
-                              1.2
-                            </span>
-                            <span className="symble">k</span>
+                          <div className="count-outer custom-count">
+                            <span>160</span>
                           </div>
-                          <p>Safe Elevator Installations Across Locations</p>
+                          <p>Professional Maintenance & Service Experts</p>
                         </div>
                       </div>
                     </div>
@@ -133,10 +127,8 @@ export default function About() {
                       <div className="funfact-block-one l_60 p_relative">
                         <div className="inner-box">
                           <div className="count-outer">
-                            <span className="odometer" data-count="4.8">
-                              4.8
-                            </span>
-                            <span className="symble">k</span>
+                            <span className="odometer">6.1</span>
+                            <span className="symble">k+</span>
                           </div>
                           <p>Trusted by Clients for Safe Elevator Solutions</p>
                         </div>

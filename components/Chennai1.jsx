@@ -30,7 +30,7 @@ export default function Chennai1() {
               <h2 className="bhe-title">Goods Lift Manufacturers in Chennai</h2>
 
               <p className="bhe-subtitle">
-                Reliable Goods Lift Solutions in Chennai from Unosafe Elevators
+                Reliable Goods Lift Solutions in Chennai from UNOSAFE ELEVATOR s
               </p>
 
               <p className="bhe-text">
@@ -43,7 +43,7 @@ export default function Chennai1() {
               </p>
 
               <p className="bhe-text">
-                <strong>Unosafe Elevator Pvt. Ltd.</strong> is an ISO 9001:2015
+                <strong>UNOSAFE ELEVATOR Pvt. Ltd.</strong> is an ISO 9001:2015
                 certified elevator manufacturer delivering advanced goods lift
                 solutions designed for safety, efficiency, and operational
                 reliability. Our lifts are widely used in commercial,
@@ -185,13 +185,13 @@ export default function Chennai1() {
             <h2 className="bhe-title">Home Elevators in Bangalore</h2>
 
             <p className="bhe-subtitle">
-              Best Home Elevators in Bangalore from Unosafe Elevators
+              Best Home Elevators in Bangalore from UNOSAFE ELEVATOR s
             </p>
 
             <p className="bhe-text">
               When it comes to home elevators in Bangalore, families look for
               safety, comfort, and durability. At{" "}
-              <strong>Unosafe Elevators</strong>, we combine all three with
+              <strong>UNOSAFE ELEVATOR s</strong>, we combine all three with
               world-class engineering and design.
             </p>
 
@@ -268,13 +268,13 @@ export default function Chennai1() {
             {/* WHY CHOOSE US */}
 
             <h3 className="bhe-heading">
-              Why Choose Unosafe Elevators in Bangalore
+              Why Choose UNOSAFE ELEVATOR s in Bangalore
             </h3>
 
             <p className="bhe-text">
-              Unosafe Elevators has built a strong reputation as one of the most
-              reliable elevator manufacturers in Bangalore. Our elevators are
-              installed in villas, apartments, commercial buildings, and
+              UNOSAFE ELEVATOR s has built a strong reputation as one of the
+              most reliable elevator manufacturers in Bangalore. Our elevators
+              are installed in villas, apartments, commercial buildings, and
               residential complexes across the city. With advanced engineering,
               premium materials, and expert installation, we ensure every lift
               delivers smooth performance, long life, and complete safety.
@@ -295,7 +295,7 @@ export default function Chennai1() {
 
             <p className="bhe-text">
               If you are planning to install a home elevator in Bangalore,
-              Unosafe Elevators offers the perfect solution. With multiple
+              UNOSAFE ELEVATOR s offers the perfect solution. With multiple
               elevator types, competitive lift prices, and professional
               installation services, we help families experience safe and
               comfortable vertical mobility. Our commitment to quality and
@@ -355,7 +355,7 @@ export default function Chennai1() {
             <Link href="/Kerala3" className="bhe-item">
               Kone Elevators In Kerala <span className="bhe-check">✓</span>
             </Link>
-          
+
             <Link href="/Kerala5" className="bhe-item">
               Elite Elevators in Kerala<span className="bhe-check">✓</span>
             </Link>

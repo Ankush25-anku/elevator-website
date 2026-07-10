@@ -32,7 +32,7 @@ export default function Andhra8() {
             <p className="bhe-text">
               If you are searching for lift companies near me in Vijayawada
               Andhra Pradesh,
-              <strong> Unosafe Elevators</strong> is the trusted choice. We
+              <strong> UNOSAFE ELEVATOR s</strong> is the trusted choice. We
               offer safe, stylish, and reliable home lifts in Vijayawada and
               across Andhra Pradesh. From compact residential lifts to premium
               luxury elevators, our products combine modern design, safety, and
@@ -150,8 +150,8 @@ export default function Andhra8() {
 
             <p className="bhe-text">
               If you are looking for lift companies near me in Vijayawada Andhra
-              Pradesh, Unosafe Elevators offers safe, stylish, and reliable home
-              lifts designed for modern living. With premium products,
+              Pradesh, UNOSAFE ELEVATOR s offers safe, stylish, and reliable
+              home lifts designed for modern living. With premium products,
               transparent pricing, and professional installation services, we
               deliver elevators that combine luxury, safety, and long-term
               performance.

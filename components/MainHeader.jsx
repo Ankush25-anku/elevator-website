@@ -165,7 +165,7 @@ export default function MainHeader() {
                 <a href="index.html">
                   <img
                     src="/assets/images/logo.png"
-                    alt="UNOSAFE Elevators"
+                    alt="UNOSAFE ELEVATOR  s"
                     className="site-logo"
                   />
                 </a>

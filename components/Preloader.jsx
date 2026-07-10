@@ -19,7 +19,7 @@ export default function Preloader({ setLoading }) {
         {/* Logo */}
         <div className="unosafe-logo">
           <img
-            src="/assets/images/logo.png"
+            src="/assets/images/logo12.png"
             alt="UNOSAFE Logo"
             className="main-logo"
           />

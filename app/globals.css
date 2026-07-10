@@ -59,3 +59,76 @@ header,
 footer {
   overflow-x: hidden;
 }
+.floating-contact {
+  position: fixed;
+  right: 25px;
+  bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  z-index: 9999;
+}
+
+.floating-contact a {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  font-size: 30px;
+  color: #fff;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+}
+
+.whatsapp-btn {
+  background: #25d366;
+}
+
+.phone-btn {
+  background: #0ea5e9;
+}
+
+.floating-contact a:hover {
+  transform: translateY(-5px);
+}
+
+@media (max-width: 991px) {
+  /* hide desktop menu */
+  .menu-area {
+    display: none;
+  }
+
+  /* show hamburger */
+  .mobile-nav-toggler {
+    display: block !important;
+    font-size: 28px;
+    cursor: pointer;
+    margin-left: auto;
+    z-index: 9999;
+  }
+
+  .main-header .outer-box {
+    padding: 0 20px;
+  }
+
+  .menu-column {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .site-logo {
+    height: 80px;
+    width: auto;
+  }
+}
+
+@media (min-width: 992px) {
+  .mobile-nav-toggler {
+    display: none !important;
+  }
+}

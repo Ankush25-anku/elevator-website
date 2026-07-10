@@ -41,7 +41,7 @@ export default function Andhra6() {
             </p>
 
             <p className="bhe-text">
-              <strong>Unosafe Elevator Pvt. Ltd.</strong>, an ISO
+              <strong>UNOSAFE ELEVATOR Pvt. Ltd.</strong>, an ISO
               9001:2015-certified company, is among the most trusted capsule
               elevator manufacturers in Hyderabad. Our elevators combine
               advanced technology, elegant design, and superior safety to create
@@ -160,7 +160,7 @@ export default function Andhra6() {
 
             <p className="bhe-text">
               If you are searching for capsule elevator manufacturers in
-              Hyderabad, Unosafe Elevator Pvt. Ltd. offers the perfect
+              Hyderabad, UNOSAFE ELEVATOR Pvt. Ltd. offers the perfect
               combination of advanced engineering, elegant design, and
               dependable service. Our capsule elevators enhance both the
               functionality and visual appeal of modern buildings while ensuring

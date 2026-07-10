@@ -1,77 +1,46 @@
-export default function MobileMenu() {
-  return (
-    <div className="mobile-menu">
-      <div className="menu-backdrop"></div>
+"use client";
 
-      <div className="close-btn">
+export default function MobileMenu({ menuOpen, setMenuOpen }) {
+  return (
+    <div className={`mobile-menu ${menuOpen ? "mobile-menu-visible" : ""}`}>
+      <div className="menu-backdrop" onClick={() => setMenuOpen(false)}></div>
+
+      <div className="close-btn" onClick={() => setMenuOpen(false)}>
         <i className="fas fa-times"></i>
       </div>
 
       <nav className="menu-box">
         <div className="nav-logo">
           <a href="/">
-            <img
-              src="/assets/images/logo-2.png"
-              alt=""
-              title=""
-            />
+            <img src="/assets/images/logo.png" alt="" />
           </a>
         </div>
 
         <div className="menu-outer">
-          {/* Here Menu Will Come Automatically Via Javascript */}
-        </div>
-
-        {/* <div className="contact-info">
-          <h4>Contact Info</h4>
-
-          <ul>
-            <li>Chicago 12, Melborne City, USA</li>
-
+          <ul className="navigation clearfix">
             <li>
-              <a href="tel:+8801682648101">
-                +88 01682648101
-              </a>
+              <a href="/">Home</a>
             </li>
-
             <li>
-              <a href="mailto:info@example.com">
-                info@example.com
-              </a>
+              <a href="/about">About</a>
             </li>
-          </ul>
-        </div> */}
-
-        <div className="social-links">
-          <ul className="clearfix">
             <li>
-              <a href="/">
-                <span className="fab fa-twitter"></span>
-              </a>
+              <a href="/projects">Products</a>
             </li>
-
             <li>
-              <a href="/">
-                <span className="fab fa-facebook-square"></span>
-              </a>
+              <a href="/homevariants">Variants</a>
             </li>
-
             <li>
-              <a href="/">
-                <span className="fab fa-pinterest-p"></span>
-              </a>
+              <a href="/galleryone">Gallery</a>
             </li>
-
             <li>
-              <a href="/">
-                <span className="fab fa-instagram"></span>
-              </a>
+              <a href="/Blog">Blog</a>
             </li>
-
             <li>
-              <a href="/">
-                <span className="fab fa-youtube"></span>
-              </a>
+              <a href="/footer">Contact</a>
+            </li>
+            <li>
+              <a href="/Carrers">Careers</a>
             </li>
           </ul>
         </div>

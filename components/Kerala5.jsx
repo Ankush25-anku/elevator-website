@@ -44,7 +44,7 @@ export default function Kerala5() {
               </p>
 
               <p className="bhe-text">
-                <strong>Unosafe Elevator Pvt. Ltd.</strong> proudly brings
+                <strong>UNOSAFE ELEVATOR Pvt. Ltd.</strong> proudly brings
                 Elite’s state-of-the-art elevator solutions to local clients
                 across Kerala with seamless installation, professional
                 maintenance, and reliable service support tailored for South
@@ -152,7 +152,7 @@ export default function Kerala5() {
 
               <p className="bhe-text">
                 Elevate your lifestyle with Elite Elevators installed and
-                supported by Unosafe Elevator Pvt. Ltd. in Kerala. Combining
+                supported by UNOSAFE ELEVATOR Pvt. Ltd. in Kerala. Combining
                 global technology, stylish designs, and dependable service, we
                 deliver modern vertical mobility solutions for premium homes and
                 luxury living spaces.

@@ -12,7 +12,7 @@ export default function CTA() {
       <div className="auto-container">
         <div className="content-box p_relative">
           {/* <div className="rotate-box">
-            <span className="curved-circle">uno safe elevator services.</span>
+            <span className="curved-circle">UNOSAFE ELEVATOR    services.</span>
 
             <div className="icon-box">
               <img src="/assets/images/icons/logo-2.png" alt="" />
@@ -21,7 +21,7 @@ export default function CTA() {
 
           <div className="sec-title light">
             <span className="sub-title">
-              UNO Safe Elevator - Elevating Safety & Innovation
+              UNOSAFE ELEVATOR - Elevating Safety & Innovation
             </span>
 
             <h2 className="mb_45">

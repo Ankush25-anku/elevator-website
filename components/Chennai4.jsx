@@ -44,7 +44,7 @@ export default function Chennai4() {
               </p>
 
               <p className="bhe-text">
-                <strong>Unosafe Elevator Pvt. Ltd.</strong> proudly delivers
+                <strong>UNOSAFE ELEVATOR Pvt. Ltd.</strong> proudly delivers
                 Elite’s advanced elevator solutions to clients across Chennai
                 with professional installation, expert maintenance, and reliable
                 service support tailored for South India’s infrastructure and
@@ -179,7 +179,7 @@ export default function Chennai4() {
 
               <p className="bhe-text">
                 Elevate your lifestyle with Elite Elevators installed and
-                supported by Unosafe Elevator Pvt. Ltd. in Chennai. Combining
+                supported by UNOSAFE ELEVATOR Pvt. Ltd. in Chennai. Combining
                 stylish design, advanced technology, and dependable service, we
                 deliver modern vertical mobility solutions designed for luxury
                 homes and premium residential spaces.
@@ -237,7 +237,7 @@ export default function Chennai4() {
             <Link href="/Kerala3" className="bhe-item">
               Kone Elevators In Kerala <span className="bhe-check">✓</span>
             </Link>
-            
+
             <Link href="/Kerala5" className="bhe-item">
               Elite Elevators in Kerala<span className="bhe-check">✓</span>
             </Link>

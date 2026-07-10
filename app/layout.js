@@ -1,14 +1,14 @@
 import Footer from "../components/Footer";
 import Header from "../components/Header";
-import MobileMenu from "../components/MobileMenu";
+
 import PreloaderWrapper from "../components/PreloaderWrapper";
 import "./globals.css";
 import Script from "next/script";
 
 export const metadata = {
-  title: "UNO SAFE Elevator Pvt Ltd",
+  title: "UNOSAFE ELEVATOR    Pvt Ltd",
   description:
-    "UNO SAFE Elevator Pvt Ltd — Advanced, reliable and energy-efficient elevator solutions for residential, commercial and high-rise buildings.",
+    "UNOSAFE ELEVATOR    Pvt Ltd — Advanced, reliable and energy-efficient elevator solutions for residential, commercial and high-rise buildings.",
 };
 
 export default function RootLayout({ children }) {
@@ -16,7 +16,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/assets/images/icons/logo-2.png" />
+        <link rel="icon" href="/assets/images/icons/logo-3.png" />
 
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100..900;1,100..900&display=swap"
@@ -41,8 +41,25 @@ export default function RootLayout({ children }) {
         {/* ✅ ALL CLIENT LOGIC HERE */}
         <PreloaderWrapper>
           <Header />
-          <MobileMenu />
+
           {children}
+
+          <div className="floating-contact">
+            {/* WhatsApp */}
+            <a
+              href="https://wa.me/918296206645"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="whatsapp-btn"
+            >
+              <i className="fab fa-whatsapp"></i>
+            </a>
+
+            {/* Phone */}
+            <a href="tel:+918296206645" className="phone-btn">
+              <i className="fa fa-phone"></i>
+            </a>
+          </div>
           <Footer />
         </PreloaderWrapper>
 

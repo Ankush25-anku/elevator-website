@@ -44,7 +44,7 @@ export default function Chennai3() {
               </p>
 
               <p className="bhe-text">
-                <strong>Unosafe Elevator Pvt. Ltd.</strong> brings KONE’s
+                <strong>UNOSAFE ELEVATOR Pvt. Ltd.</strong> brings KONE’s
                 advanced elevator systems closer to clients in Chennai by
                 combining global engineering with expert local installation and
                 service support. Through this partnership, businesses and
@@ -189,7 +189,7 @@ export default function Chennai3() {
 
               <p className="bhe-text">
                 Transform your building’s vertical mobility with KONE’s advanced
-                elevator systems installed and maintained by Unosafe Elevator
+                elevator systems installed and maintained by UNOSAFE ELEVATOR
                 Pvt. Ltd. in Chennai. Combining global innovation with
                 dependable local service, we deliver safe, efficient, and
                 future-ready elevator solutions for modern buildings.
@@ -247,7 +247,7 @@ export default function Chennai3() {
             <Link href="/Kerala3" className="bhe-item">
               Kone Elevators In Kerala <span className="bhe-check">✓</span>
             </Link>
-          
+
             <Link href="/Kerala5" className="bhe-item">
               Elite Elevators in Kerala<span className="bhe-check">✓</span>
             </Link>

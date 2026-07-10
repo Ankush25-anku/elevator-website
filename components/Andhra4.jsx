@@ -44,7 +44,7 @@ export default function Andhra4() {
             </p>
 
             <p className="bhe-text">
-              <strong>Unosafe Elevator Pvt. Ltd.</strong> proudly delivers
+              <strong>UNOSAFE ELEVATOR Pvt. Ltd.</strong> proudly delivers
               Elite’s advanced elevator solutions to local clients across Andhra
               Pradesh with professional installation, reliable maintenance, and
               dedicated service support tailored to South India’s infrastructure
@@ -171,7 +171,7 @@ export default function Andhra4() {
 
             <p className="bhe-text">
               Elevate your lifestyle with Elite Elevators installed and
-              supported by Unosafe Elevator Pvt. Ltd. in Andhra Pradesh.
+              supported by UNOSAFE ELEVATOR Pvt. Ltd. in Andhra Pradesh.
               Combining elegant design, advanced technology, and reliable
               service, we deliver modern vertical mobility solutions for luxury
               homes and premium residential spaces.

@@ -27,13 +27,13 @@ export default function Bangalorepage2() {
             <h2 className="bhe-title">Home Elevators in Bangalore</h2>
 
             <p className="bhe-subtitle">
-              Best Home Elevators in Bangalore from Unosafe Elevators
+              Best Home Elevators in Bangalore from UNOSAFE ELEVATOR s
             </p>
 
             <p className="bhe-text">
               When it comes to home elevators in Bangalore, families look for
               safety, comfort, and durability. At{" "}
-              <strong>Unosafe Elevators</strong>, we combine all three with
+              <strong>UNOSAFE ELEVATOR s</strong>, we combine all three with
               world-class engineering and design.
             </p>
 
@@ -110,13 +110,13 @@ export default function Bangalorepage2() {
             {/* WHY CHOOSE US */}
 
             <h3 className="bhe-heading">
-              Why Choose Unosafe Elevators in Bangalore
+              Why Choose UNOSAFE ELEVATOR s in Bangalore
             </h3>
 
             <p className="bhe-text">
-              Unosafe Elevators has built a strong reputation as one of the most
-              reliable elevator manufacturers in Bangalore. Our elevators are
-              installed in villas, apartments, commercial buildings, and
+              UNOSAFE ELEVATOR s has built a strong reputation as one of the
+              most reliable elevator manufacturers in Bangalore. Our elevators
+              are installed in villas, apartments, commercial buildings, and
               residential complexes across the city. With advanced engineering,
               premium materials, and expert installation, we ensure every lift
               delivers smooth performance, long life, and complete safety.
@@ -137,7 +137,7 @@ export default function Bangalorepage2() {
 
             <p className="bhe-text">
               If you are planning to install a home elevator in Bangalore,
-              Unosafe Elevators offers the perfect solution. With multiple
+              UNOSAFE ELEVATOR s offers the perfect solution. With multiple
               elevator types, competitive lift prices, and professional
               installation services, we help families experience safe and
               comfortable vertical mobility. Our commitment to quality and

@@ -31,7 +31,7 @@ export default function Generalmanager() {
           <p>
             Over this period, Mr. Narayan has consistently demonstrated his
             ability to adapt and thrive, playing a pivotal role in the growth of
-            UNOSAFE ELEVATOR.
+            UNOSAFE ELEVATOR .
           </p>
 
           <p>

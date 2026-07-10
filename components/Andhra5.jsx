@@ -32,7 +32,7 @@ export default function Andhra5() {
             </p>
 
             <p className="bhe-text">
-              At <strong>UNOSAFE Elevators</strong>, we are one of the leading
+              At <strong>UNOSAFE ELEVATOR s</strong>, we are one of the leading
               hydraulic lift manufacturers in Andhra Pradesh, delivering
               world-class solutions that combine safety, durability, and modern
               design. Our hydraulic lifts are engineered with precision to
@@ -95,7 +95,7 @@ export default function Andhra5() {
             <h3 className="bhe-heading">Comprehensive Services</h3>
 
             <p className="bhe-text">
-              UNOSAFE Elevators offers a complete range of elevator services to
+              UNOSAFE ELEVATOR s offers a complete range of elevator services to
               ensure reliable performance and long-term safety.
             </p>
 
@@ -149,10 +149,10 @@ export default function Andhra5() {
             </h3>
 
             <p className="bhe-text">
-              For over a decade, UNOSAFE Elevators has delivered innovative lift
-              solutions focused on safety, quality, and customer satisfaction.
-              Our elevators are certified, tested, and built to meet the highest
-              industry standards.
+              For over a decade, UNOSAFE ELEVATOR s has delivered innovative
+              lift solutions focused on safety, quality, and customer
+              satisfaction. Our elevators are certified, tested, and built to
+              meet the highest industry standards.
             </p>
 
             <p className="bhe-text">
@@ -198,7 +198,7 @@ export default function Andhra5() {
 
             <p className="bhe-text">
               If you are looking for reliable hydraulic lift manufacturers in
-              Andhra Pradesh, UNOSAFE Elevators provides advanced lift systems
+              Andhra Pradesh, UNOSAFE ELEVATOR s provides advanced lift systems
               designed for safety, durability, and efficiency. With expert
               installation, customized designs, and dependable service support,
               we ensure smooth and reliable vertical mobility for every

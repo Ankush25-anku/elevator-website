@@ -40,7 +40,7 @@ export default function Andhra3() {
             </p>
 
             <p className="bhe-text">
-              <strong>Unosafe Elevator Pvt. Ltd.</strong> brings these advanced
+              <strong>UNOSAFE ELEVATOR Pvt. Ltd.</strong> brings these advanced
               KONE solutions closer to clients across Andhra Pradesh through
               expert installation, modernization, and professional service
               support. Our team combines global engineering technology with
@@ -168,7 +168,7 @@ export default function Andhra3() {
 
             <p className="bhe-text">
               Transform your building’s vertical mobility with advanced KONE
-              elevator systems installed and supported by Unosafe Elevator Pvt.
+              elevator systems installed and supported by UNOSAFE ELEVATOR Pvt.
               Ltd. in Andhra Pradesh. Combining global engineering excellence
               with dependable local service, we deliver safe, efficient, and
               future-ready elevator solutions.

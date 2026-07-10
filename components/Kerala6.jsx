@@ -36,12 +36,13 @@ export default function Kerala6() {
               </p>
 
               <p className="bhe-text">
-                At <strong>UNOSAFE Elevators</strong>, we are one of the leading
-                hydraulic lift manufacturers in Kerala, delivering world-class
-                lift solutions that combine safety, durability, and modern
-                engineering. Our hydraulic lifts are designed with precision to
-                ensure smooth operation, maximum safety, and efficient space
-                utilization for residential and commercial buildings.
+                At <strong>UNOSAFE ELEVATOR s</strong>, we are one of the
+                leading hydraulic lift manufacturers in Kerala, delivering
+                world-class lift solutions that combine safety, durability, and
+                modern engineering. Our hydraulic lifts are designed with
+                precision to ensure smooth operation, maximum safety, and
+                efficient space utilization for residential and commercial
+                buildings.
               </p>
 
               <p className="bhe-text">
@@ -161,7 +162,7 @@ export default function Kerala6() {
 
               <p className="bhe-text">
                 If you are looking for reliable hydraulic lift manufacturers in
-                Kerala, UNOSAFE Elevators delivers advanced elevator systems
+                Kerala, UNOSAFE ELEVATOR s delivers advanced elevator systems
                 that combine safety, durability, and modern technology. Our
                 hydraulic lifts ensure smooth, efficient, and dependable
                 vertical mobility for homes, hospitals, industries, and

@@ -13,9 +13,13 @@ export default function ChooseUs() {
           <div className="col-lg-6 col-md-12 col-sm-12 image-column">
             <div className="image_block_one">
               <div className="image-box mr_65 pr_35">
-                <figure className="image image-hov-one">
-                  <img src="/assets/images/resource/chooseus-1.jpg" alt="" />
-                </figure>
+                <figure
+                  className="image image-hov-one"
+                  style={{
+                    backgroundImage:
+                      "url('/assets/images/resource/chooseus-1112.jpg')",
+                  }}
+                ></figure>
 
                 <div className="image-content align-3">
                   <div
@@ -46,7 +50,7 @@ export default function ChooseUs() {
               <div className="content-box">
                 <div className="sec-title mb_12">
                   <span className="sub-title">
-                    UNO Safe Elevator - Elevating Safety & Innovation
+                    UNOSAFE ELEVATOR - Elevating Safety & Innovation
                   </span>
 
                   <h2>
@@ -54,7 +58,7 @@ export default function ChooseUs() {
                   </h2>
 
                   <p className="mt_20">
-                    At UNO Safe Elevator, we specialize in designing and
+                    At UNOSAFE ELEVATOR , we specialize in designing and
                     installing high-quality lift systems that combine safety,
                     performance, and modern technology. Our elevators are built
                     to ensure smooth vertical transportation while meeting the

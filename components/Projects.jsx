@@ -8,14 +8,14 @@ export default function Projects() {
       <div className="auto-container">
         <div className="title-box mb_110">
           <div className="sec-title light">
-            <span className="sub-title">UNOSAFE Elevator Projects</span>
+            <span className="sub-title">UNOSAFE ELEVATOR Projects</span>
             <h2>
               featured elevator projects<span>.</span>
             </h2>
           </div>
 
           <span className="big-text">
-            25+ years <br /> experience
+            20+ years <br /> experience
           </span>
         </div>
 

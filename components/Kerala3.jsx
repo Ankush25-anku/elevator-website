@@ -44,7 +44,7 @@ export default function Kerala3() {
               </p>
 
               <p className="bhe-text">
-                <strong>Unosafe Elevator Pvt. Ltd.</strong> brings these
+                <strong>UNOSAFE ELEVATOR Pvt. Ltd.</strong> brings these
                 advanced KONE solutions closer to local clients in Kerala with
                 expert installation, modernization, and service support. Our
                 team combines global technology with strong local expertise to
@@ -168,7 +168,7 @@ export default function Kerala3() {
 
               <p className="bhe-text">
                 Transform your building’s vertical mobility with advanced KONE
-                elevator systems installed and maintained by Unosafe Elevator
+                elevator systems installed and maintained by UNOSAFE ELEVATOR
                 Pvt. Ltd. in Kerala. Combining global engineering excellence
                 with dependable local service, we deliver safe, efficient, and
                 future-ready elevator solutions.
