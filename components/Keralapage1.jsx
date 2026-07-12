@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import "./machineRoomElevator.css";
+import "./machineRoomElevators.css";
 import Link from "next/link";
 
 export default function Keralapage1() {
