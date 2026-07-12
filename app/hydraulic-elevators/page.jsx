@@ -1,5 +1,5 @@
 import React from "react";
-import MachineRoomElevator from "../../components/machine-room-Elevator";
+import MachineRoomElevator from "../../components/machine-room-elevators";
 
 import MachineRoomElevatorDetails2 from "../../components/MachineRoomElevatorDetails2";
 

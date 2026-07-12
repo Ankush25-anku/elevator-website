@@ -1,7 +1,7 @@
 import React from "react";
 import MachineRoomElevatorDetails from "../../components/MachineRoomElevatorDetails";
-import MachineRoomElevator from "../../components/machine-room-Elevator";
-import MachineRoomElevator1 from "../../components/machine-room-Elevator1";
+import MachineRoomElevator from "../../components/machine-room-elevators";
+import MachineRoomElevator1 from "../../components/machine-room-elevators1";
 
 const page = () => {
   return (
