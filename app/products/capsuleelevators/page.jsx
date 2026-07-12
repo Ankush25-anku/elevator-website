@@ -24,7 +24,7 @@ export default function MRGearedElevator() {
             <p className="mrpd2-tag">UNOSAFE Architectural Lift Series</p>
 
             <p className="mrpd2-lead">
-              UNOSAFE Capsule Elevators serve as architectural highlights in
+              UNOSAFE Capsule Elevator serve as architectural highlights in
               prestigious buildings. They act as elegant visual centrepieces
               that enhance structural beauty while delivering smooth and
               comfortable vertical transportation.
@@ -45,7 +45,7 @@ export default function MRGearedElevator() {
             <h2>System Overview</h2>
 
             <p>
-              <strong>UNOSAFE Capsule Elevators</strong> are designed to be the
+              <strong>UNOSAFE Capsule Elevator</strong> are designed to be the
               ornaments of modern buildings, adding life and elegance to their
               architecture while offering dependable vertical mobility.
             </p>
@@ -53,7 +53,7 @@ export default function MRGearedElevator() {
             <div className="mrpd2-feature">
               <h3>Architectural Elegance</h3>
               <p>
-                Capsule elevators enhance building aesthetics with iconic
+                Capsule Elevator enhance building aesthetics with iconic
                 exterior visibility and premium structural integration, becoming
                 signature visual elements of prestigious projects.
               </p>
@@ -63,7 +63,7 @@ export default function MRGearedElevator() {
               <h3>Design & Customization</h3>
               <p>
                 Advanced design features and limitless customization options
-                allow capsule elevators to be tailored to unique architectural
+                allow capsule Elevator to be tailored to unique architectural
                 visions and creative concepts.
               </p>
             </div>

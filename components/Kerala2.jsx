@@ -38,7 +38,7 @@ export default function Kerala2() {
                 modern living, the demand for safe, efficient, and reliable
                 vertical transportation is higher than ever. From residential
                 apartments to commercial complexes and industrial warehouses,
-                elevators have become an essential component for seamless
+                Elevator have become an essential component for seamless
                 mobility.
               </p>
 
@@ -70,11 +70,11 @@ export default function Kerala2() {
                   systems suitable for low to mid-rise buildings.
                 </li>
                 <li>
-                  Home Elevators – Compact and stylish lifts designed for villas
+                  Home Elevator – Compact and stylish lifts designed for villas
                   and residential buildings.
                 </li>
                 <li>
-                  Hospital Elevators – Specially designed elevators for patient
+                  Hospital Elevator – Specially designed Elevator for patient
                   beds, stretchers, and medical equipment transport.
                 </li>
               </ul>
@@ -124,7 +124,7 @@ export default function Kerala2() {
                   safety and operational efficiency.
                 </li>
                 <li>
-                  Modernization – Upgrade older elevators with improved safety
+                  Modernization – Upgrade older Elevator with improved safety
                   systems, aesthetics, and energy-efficient technology.
                 </li>
                 <li>
@@ -172,7 +172,7 @@ export default function Kerala2() {
                 If you are searching for reliable lift companies in Kerala,
                 UNOSAFE ELEVATOR Pvt. Ltd. offers advanced elevator systems
                 backed by professional installation and long-term service
-                support. Our elevators are designed to provide safe, efficient,
+                support. Our Elevator are designed to provide safe, efficient,
                 and reliable vertical mobility for modern residential,
                 commercial, and industrial buildings.
               </p>
@@ -186,7 +186,7 @@ export default function Kerala2() {
             <h3 className="bhe-cardTitle">Bangalore</h3>
 
             <Link href="/Bangalore" className="bhe-item">
-              Home Elevators in Bangalore
+              Home Elevator in Bangalore
               <span className="bhe-check">✓</span>
             </Link>
           </div>
@@ -202,17 +202,17 @@ export default function Kerala2() {
               Lift Companies In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai3" className="bhe-item">
-              KONE Elevators In Chennai <span className="bhe-check">✓</span>
+              KONE Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai4" className="bhe-item">
-              Elite Elevators Chennai <span className="bhe-check">✓</span>
+              Elite Elevator Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai5" className="bhe-item">
               Hydraulic Lift Manufacturers In Chennai{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai6" className="bhe-item">
-              Home Elevators In Chennai <span className="bhe-check">✓</span>
+              Home Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -227,11 +227,11 @@ export default function Kerala2() {
               Lift Companies In Kerala <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala3" className="bhe-item">
-              Kone Elevators In Kerala <span className="bhe-check">✓</span>
+              Kone Elevator In Kerala <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Kerala5" className="bhe-item">
-              Elite Elevators in Kerala<span className="bhe-check">✓</span>
+              Elite Elevator in Kerala<span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala6" className="bhe-item">
               Hydraulic Lift Manufactures In kerala{" "}
@@ -242,7 +242,7 @@ export default function Kerala2() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala8" className="bhe-item">
-              Home Elevators in kerala <span className="bhe-check">✓</span>
+              Home Elevator in kerala <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -258,11 +258,11 @@ export default function Kerala2() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra3" className="bhe-item">
-              Kone Elevators In Andhra Pradesh{" "}
+              Kone Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra4" className="bhe-item">
-              Elite Elevators In Andhra Pradesh{" "}
+              Elite Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
 
@@ -271,8 +271,7 @@ export default function Kerala2() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra6" className="bhe-item">
-              Capsule Elevators in Hyderabad{" "}
-              <span className="bhe-check">✓</span>
+              Capsule Elevator in Hyderabad <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Andhra7" className="bhe-item">
@@ -281,7 +280,7 @@ export default function Kerala2() {
             </Link>
 
             <Link href="/Andhra8" className="bhe-item">
-              Home Elevators in Andhra Pradesh{" "}
+              Home Elevator in Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
           </div>

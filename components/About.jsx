@@ -26,7 +26,7 @@ export default function About() {
                 <ul className="list-style-one mb_100 clearfix">
                   <li>
                     Manufacture, installation, and maintenance of passenger
-                    elevators
+                    Elevator
                   </li>
                   <li>
                     Strong focus on safety with hazard-free and complaint-free
@@ -52,14 +52,14 @@ export default function About() {
                 <div className="text-box mb_130">
                   <p className="mb_30">
                     We manufacture, install, and maintain all types of passenger
-                    elevators with a strong emphasis on safety. Our elevator
+                    Elevator with a strong emphasis on safety. Our elevator
                     installations have been running smoothly without complaints
                     or hazards across various locations.
                   </p>
 
                   <p className="mb_30">
                     UNOSAFE ELEVATOR Service Department offers preventive
-                    maintenance programs for different variants of elevators. We
+                    maintenance programs for different variants of Elevator. We
                     follow scientific maintenance methods and strict quality
                     checks to ensure maximum safety and reliability for all
                     users.

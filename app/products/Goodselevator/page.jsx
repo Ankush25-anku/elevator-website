@@ -24,7 +24,7 @@ export default function MRGearedElevator() {
             <p className="mrpd2-tag">UNOSAFE Freight Lift Series</p>
 
             <p className="mrpd2-lead">
-              UNOSAFE Goods Elevators are engineered for heavy-duty material
+              UNOSAFE Goods Elevator are engineered for heavy-duty material
               handling, enabling safe and efficient vertical transport of cargo
               in industrial, commercial, and warehouse environments.
             </p>
@@ -44,7 +44,7 @@ export default function MRGearedElevator() {
             <h2>System Overview</h2>
 
             <p>
-              <strong>UNOSAFE Freight Elevators</strong> are engineered to bear
+              <strong>UNOSAFE Freight Elevator</strong> are engineered to bear
               heavy loads with ease and ensure smooth, reliable transport of
               goods across industrial and commercial facilities.
             </p>

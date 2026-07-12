@@ -56,15 +56,15 @@ export default function Andhra1() {
 
             <ul className="bhe-list">
               <li>
-                Machine-Room Elevators – High-capacity elevator systems designed
+                Machine-Room Elevator – High-capacity elevator systems designed
                 for factories, warehouses, and heavy industrial use.
               </li>
               <li>
-                Machine-Room-Less Elevators (MRL) – Space-saving traction
-                elevators ideal for modern apartments and commercial buildings.
+                Machine-Room-Less Elevator (MRL) – Space-saving traction
+                Elevator ideal for modern apartments and commercial buildings.
               </li>
               <li>
-                Hydraulic Elevators – Smooth and cost-effective lifts suitable
+                Hydraulic Elevator – Smooth and cost-effective lifts suitable
                 for low-to-mid-rise buildings.
               </li>
             </ul>
@@ -79,15 +79,15 @@ export default function Andhra1() {
             </p>
 
             <div className="bhe-priceCard">
-              <h4>Machine Room Elevators</h4>
+              <h4>Machine Room Elevator</h4>
               <p>High durability and suitable for heavy loads</p>
               <p>Reliable operation for factories and warehouses</p>
 
-              <h4>Machine Room Less Elevators (MRL)</h4>
+              <h4>Machine Room Less Elevator (MRL)</h4>
               <p>Space-optimized designs for modern buildings</p>
               <p>Energy-efficient traction technology</p>
 
-              <h4>Hydraulic Elevators</h4>
+              <h4>Hydraulic Elevator</h4>
               <p>Smooth and quiet operation</p>
               <p>Efficient solution for moderate building heights</p>
             </div>
@@ -150,7 +150,7 @@ export default function Andhra1() {
             <p className="bhe-text">
               With UNOSAFE ELEVATOR Pvt. Ltd., businesses and builders in Andhra
               Pradesh gain access to safe, durable, and technologically advanced
-              goods lift systems. Our elevators combine engineering excellence,
+              goods lift systems. Our Elevator combine engineering excellence,
               safety, and reliability to support the state’s growing industrial
               and commercial landscape.
             </p>
@@ -163,7 +163,7 @@ export default function Andhra1() {
             <h3 className="bhe-cardTitle">Bangalore</h3>
 
             <Link href="/Bangalore" className="bhe-item">
-              Home Elevators in Bangalore
+              Home Elevator in Bangalore
               <span className="bhe-check">✓</span>
             </Link>
           </div>
@@ -179,17 +179,17 @@ export default function Andhra1() {
               Lift Companies In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai3" className="bhe-item">
-              KONE Elevators In Chennai <span className="bhe-check">✓</span>
+              KONE Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai4" className="bhe-item">
-              Elite Elevators Chennai <span className="bhe-check">✓</span>
+              Elite Elevator Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai5" className="bhe-item">
               Hydraulic Lift Manufacturers In Chennai{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai6" className="bhe-item">
-              Home Elevators In Chennai <span className="bhe-check">✓</span>
+              Home Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -204,11 +204,11 @@ export default function Andhra1() {
               Lift Companies In Kerala <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala3" className="bhe-item">
-              Kone Elevators In Kerala <span className="bhe-check">✓</span>
+              Kone Elevator In Kerala <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Kerala5" className="bhe-item">
-              Elite Elevators in Kerala<span className="bhe-check">✓</span>
+              Elite Elevator in Kerala<span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala6" className="bhe-item">
               Hydraulic Lift Manufactures In kerala{" "}
@@ -219,7 +219,7 @@ export default function Andhra1() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala8" className="bhe-item">
-              Home Elevators in kerala <span className="bhe-check">✓</span>
+              Home Elevator in kerala <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -235,11 +235,11 @@ export default function Andhra1() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra3" className="bhe-item">
-              Kone Elevators In Andhra Pradesh{" "}
+              Kone Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra4" className="bhe-item">
-              Elite Elevators In Andhra Pradesh{" "}
+              Elite Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
 
@@ -248,8 +248,7 @@ export default function Andhra1() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra6" className="bhe-item">
-              Capsule Elevators in Hyderabad{" "}
-              <span className="bhe-check">✓</span>
+              Capsule Elevator in Hyderabad <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Andhra7" className="bhe-item">
@@ -258,7 +257,7 @@ export default function Andhra1() {
             </Link>
 
             <Link href="/Andhra8" className="bhe-item">
-              Home Elevators in Andhra Pradesh{" "}
+              Home Elevator in Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
           </div>

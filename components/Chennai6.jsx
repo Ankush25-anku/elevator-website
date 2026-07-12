@@ -19,7 +19,7 @@ export default function Chennai6() {
             <div className="bhe-imageCard">
               <img
                 src="/assets/images/products/home-elevator-in-chennai.jpg"
-                alt="Home Elevators in Chennai"
+                alt="Home Elevator in Chennai"
                 className="bhe-image"
               />
             </div>
@@ -27,7 +27,7 @@ export default function Chennai6() {
             {/* CONTENT */}
 
             <div className="bhe-content">
-              <h2 className="bhe-title">Home Elevators in Chennai</h2>
+              <h2 className="bhe-title">Home Elevator in Chennai</h2>
 
               <p className="bhe-subtitle">
                 Most Trusted Elevator Service in Chennai
@@ -35,11 +35,11 @@ export default function Chennai6() {
 
               <p className="bhe-text">
                 <strong>UNOSAFE ELEVATOR s</strong> is the most trusted elevator
-                service in Chennai, offering home lifts, hydraulic elevators,
-                capsule lifts, and residential elevators with unmatched
+                service in Chennai, offering home lifts, hydraulic Elevator,
+                capsule lifts, and residential Elevator with unmatched
                 reliability. With years of expertise and advanced technology, we
-                provide safe, stylish, and durable elevators for modern homes
-                and buildings.
+                provide safe, stylish, and durable Elevator for modern homes and
+                buildings.
               </p>
 
               <p className="bhe-text">
@@ -61,7 +61,7 @@ export default function Chennai6() {
                   manufacturing, and maintenance.
                 </li>
                 <li>
-                  Safe Passenger Elevators – Smooth and hazard-free operation
+                  Safe Passenger Elevator – Smooth and hazard-free operation
                   with advanced safety systems.
                 </li>
                 <li>
@@ -93,20 +93,18 @@ export default function Chennai6() {
 
               <div className="bhe-priceCard">
                 <h4>Residential Elevator Solutions</h4>
-                <p>Home Elevators for villas and multi-storey homes</p>
-                <p>Hydraulic elevators for smooth and quiet performance</p>
+                <p>Home Elevator for villas and multi-storey homes</p>
+                <p>Hydraulic Elevator for smooth and quiet performance</p>
                 <p>Capsule lifts with stylish transparent cabin designs</p>
 
                 <h4>Commercial Elevator Solutions</h4>
-                <p>Machine Room Elevators (MRE) for high-rise buildings</p>
-                <p>
-                  Machine Room Less Elevators (MRL) for space-saving designs
-                </p>
+                <p>Machine Room Elevator (MRE) for high-rise buildings</p>
+                <p>Machine Room Less Elevator (MRL) for space-saving designs</p>
                 <p>Commercial lifts for offices, malls, and public buildings</p>
 
                 <h4>Industrial Elevator Solutions</h4>
                 <p>Goods lifts for warehouses and factories</p>
-                <p>Heavy-duty elevators for industrial use</p>
+                <p>Heavy-duty Elevator for industrial use</p>
                 <p>Customized elevator systems for specific building needs</p>
               </div>
 
@@ -119,10 +117,10 @@ export default function Chennai6() {
                   UNO CLASSIC – Affordable and reliable home elevator solution.
                 </li>
                 <li>
-                  UNO MAX – High-performance elevators with elegant interiors.
+                  UNO MAX – High-performance Elevator with elegant interiors.
                 </li>
                 <li>UNO PRIME – Advanced technology with premium finishes.</li>
-                <li>UNO GOLD – Luxury elevators with smart control systems.</li>
+                <li>UNO GOLD – Luxury Elevator with smart control systems.</li>
                 <li>
                   UNO LUXURY – Fully customized high-end elevator solutions.
                 </li>
@@ -131,7 +129,7 @@ export default function Chennai6() {
               {/* BENEFITS */}
 
               <h3 className="bhe-heading">
-                Benefits of Choosing Unosafe Home Elevators
+                Benefits of Choosing Unosafe Home Elevator
               </h3>
 
               <ul className="bhe-list">
@@ -150,11 +148,11 @@ export default function Chennai6() {
 
               <p className="bhe-text">
                 <strong>
-                  What types of elevators are available in Chennai?
+                  What types of Elevator are available in Chennai?
                 </strong>
                 <br />
-                We offer hydraulic lifts, capsule lifts, passenger elevators,
-                residential elevators, and customized elevator solutions for
+                We offer hydraulic lifts, capsule lifts, passenger Elevator,
+                residential Elevator, and customized elevator solutions for
                 homes and commercial buildings.
               </p>
 
@@ -171,12 +169,12 @@ export default function Chennai6() {
               <h3 className="bhe-heading">Conclusion</h3>
 
               <p className="bhe-text">
-                Discover premium home elevators in Chennai with Unosafe
-                Elevators. Combining safety, technology, and stylish design, our
-                elevators deliver comfortable and reliable vertical mobility for
-                homes and commercial buildings. Choose from the UNO Series – UNO
-                CLASSIC, UNO MAX, UNO PRIME, UNO GOLD, or UNO LUXURY – and bring
-                trusted elevator technology into your home.
+                Discover premium home Elevator in Chennai with Unosafe Elevator.
+                Combining safety, technology, and stylish design, our Elevator
+                deliver comfortable and reliable vertical mobility for homes and
+                commercial buildings. Choose from the UNO Series – UNO CLASSIC,
+                UNO MAX, UNO PRIME, UNO GOLD, or UNO LUXURY – and bring trusted
+                elevator technology into your home.
               </p>
             </div>
           </div>
@@ -188,7 +186,7 @@ export default function Chennai6() {
             <h3 className="bhe-cardTitle">Bangalore</h3>
 
             <Link href="/Bangalore" className="bhe-item">
-              Home Elevators in Bangalore
+              Home Elevator in Bangalore
               <span className="bhe-check">✓</span>
             </Link>
           </div>
@@ -204,17 +202,17 @@ export default function Chennai6() {
               Lift Companies In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai3" className="bhe-item">
-              KONE Elevators In Chennai <span className="bhe-check">✓</span>
+              KONE Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai4" className="bhe-item">
-              Elite Elevators Chennai <span className="bhe-check">✓</span>
+              Elite Elevator Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai5" className="bhe-item">
               Hydraulic Lift Manufacturers In Chennai{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai6" className="bhe-item">
-              Home Elevators In Chennai <span className="bhe-check">✓</span>
+              Home Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -229,11 +227,11 @@ export default function Chennai6() {
               Lift Companies In Kerala <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala3" className="bhe-item">
-              Kone Elevators In Kerala <span className="bhe-check">✓</span>
+              Kone Elevator In Kerala <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Kerala5" className="bhe-item">
-              Elite Elevators in Kerala<span className="bhe-check">✓</span>
+              Elite Elevator in Kerala<span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala6" className="bhe-item">
               Hydraulic Lift Manufactures In kerala{" "}
@@ -244,7 +242,7 @@ export default function Chennai6() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala8" className="bhe-item">
-              Home Elevators in kerala <span className="bhe-check">✓</span>
+              Home Elevator in kerala <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -260,11 +258,11 @@ export default function Chennai6() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra3" className="bhe-item">
-              Kone Elevators In Andhra Pradesh{" "}
+              Kone Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra4" className="bhe-item">
-              Elite Elevators In Andhra Pradesh{" "}
+              Elite Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
 
@@ -273,8 +271,7 @@ export default function Chennai6() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra6" className="bhe-item">
-              Capsule Elevators in Hyderabad{" "}
-              <span className="bhe-check">✓</span>
+              Capsule Elevator in Hyderabad <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Andhra7" className="bhe-item">
@@ -283,7 +280,7 @@ export default function Chennai6() {
             </Link>
 
             <Link href="/Andhra8" className="bhe-item">
-              Home Elevators in Andhra Pradesh{" "}
+              Home Elevator in Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
           </div>

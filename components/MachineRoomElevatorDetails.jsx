@@ -18,31 +18,31 @@ const MachineRoomElevatorDetails = () => {
             />
           </div>
 
-          <h2 className="mrel-title">Machine Room Elevators</h2>
+          <h2 className="mrel-title">Machine Room Elevator</h2>
 
           {/* MACHINE ROOM CONTENT */}
 
           <div className="mrcd-section">
             <p className="mrcd-text">
-              Traction elevators are lifted by ropes, which pass over a wheel
+              Traction Elevator are lifted by ropes, which pass over a wheel
               attached to an electric motor above the elevator shaft. They are
               used for mid and high-rise applications and have much higher
-              travel speed than hydraulic elevators.
+              travel speed than hydraulic Elevator.
             </p>
 
             <p className="mrcd-text">
-              Geared traction elevators have a gearbox that is attached to the
+              Geared traction Elevator have a gearbox that is attached to the
               motor, which drives the wheel that moves the ropes. Geared
-              traction elevators are capable of travel speeds upto 170 feet per
+              traction Elevator are capable of travel speeds upto 170 feet per
               minute. The maximum travel distance for a geared traction elevator
               is around 250 feet.
             </p>
 
             <p className="mrcd-text">
-              Geared traction elevators are in the middle of the road in terms
-              of initial cost, ongoing maintenance costs, and energy
-              consumption. Gear-less traction elevators have a high initial cost
-              but use energy more efficiently.
+              Geared traction Elevator are in the middle of the road in terms of
+              initial cost, ongoing maintenance costs, and energy consumption.
+              Gear-less traction Elevator have a high initial cost but use
+              energy more efficiently.
             </p>
 
             {/* TABLE */}
@@ -171,31 +171,31 @@ const MachineRoomElevatorDetails = () => {
             <h3 className="mrel-cardTitle">Our Products</h3>
 
             <a
-              href="/machine-room-elevators"
+              href="/machine-room-Elevator"
               className={`mrel-item ${
-                pathname === "/machine-room-elevators" ? "active" : ""
+                pathname === "/machine-room-Elevator" ? "active" : ""
               }`}
             >
-              <span>Machine Room Elevators</span>
+              <span>Machine Room Elevator</span>
               <span className="mrel-check">✓</span>
             </a>
             <a
-              href="/machine-room-less-elevators"
+              href="/machine-room-less-Elevator"
               className={`mrel-item ${
-                pathname === "/machine-room-less-elevators" ? "active" : ""
+                pathname === "/machine-room-less-Elevator" ? "active" : ""
               }`}
             >
-              <span>Machine Room Less Elevators</span>
+              <span>Machine Room Less Elevator</span>
               <span className="mrel-check">✓</span>
             </a>
 
             <a
-              href="/hydraulic-elevators"
+              href="/hydraulic-Elevator"
               className={`mrel-item ${
-                pathname === "/hydraulic-elevators" ? "active" : ""
+                pathname === "/hydraulic-Elevator" ? "active" : ""
               }`}
             >
-              <span>Hydraulic Elevators</span>
+              <span>Hydraulic Elevator</span>
               <span className="mrel-check">✓</span>
             </a>
           </div>

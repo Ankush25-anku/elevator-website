@@ -1,22 +1,24 @@
 "use client";
 
 import React from "react";
-import "./machineRoomElevators.css";
+import "./machineRoomElevator.css";
 import Link from "next/link";
 
-export default function MachineRoomElevators1() {
+export default function MachineRoomElevator1() {
   return (
     <section className="mre-hero-section">
       <div className="mre-overlay"></div>
 
       <div className="mre-container">
         <div className="mre-breadcrumb">
-       <Link href="/" className="mre-home">Home</Link>
+          <Link href="/" className="mre-home">
+            Home
+          </Link>
           <span className="mre-separator">/</span>
-          <span className="mre-current">Machine Room Elevators</span>
+          <span className="mre-current">Machine Room Elevator</span>
         </div>
 
-        <h1 className="mre-title">Machine Room Elevators</h1>
+        <h1 className="mre-title">Machine Room Elevator</h1>
       </div>
     </section>
   );

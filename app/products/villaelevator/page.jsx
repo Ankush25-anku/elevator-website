@@ -25,10 +25,10 @@ export default function MRGearedElevator() {
 
             <p className="mrpd2-lead">
               A villa is a large residential space designed with luxurious
-              amenities and modern living standards. UNOSAFE Villa Elevators
-              provide safe, elegant, and comfortable vertical mobility,
-              enabling effortless access to all floors with advanced
-              residential lift technology.
+              amenities and modern living standards. UNOSAFE Villa Elevator
+              provide safe, elegant, and comfortable vertical mobility, enabling
+              effortless access to all floors with advanced residential lift
+              technology.
             </p>
 
             <div className="mrpd2-badges">
@@ -46,7 +46,7 @@ export default function MRGearedElevator() {
             <h2>System Overview</h2>
 
             <p>
-              <strong>UNOSAFE Villa Elevators</strong> are specially designed for
+              <strong>UNOSAFE Villa Elevator</strong> are specially designed for
               residential use, incorporating a perfect blend of technology,
               aesthetics, and craftsmanship. They provide a safe and essential
               mobility solution for modern homes, especially benefiting elderly

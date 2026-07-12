@@ -18,8 +18,8 @@ export default function Chennai3() {
 
             <div className="bhe-imageCard">
               <img
-                src="/assets/images/products/kone-elevators-in-chennai.jpg"
-                alt="KONE Elevators in Chennai"
+                src="/assets/images/products/kone-Elevator-in-chennai.jpg"
+                alt="KONE Elevator in Chennai"
                 className="bhe-image"
               />
             </div>
@@ -27,11 +27,11 @@ export default function Chennai3() {
             {/* CONTENT */}
 
             <div className="bhe-content">
-              <h2 className="bhe-title">KONE Elevators In Chennai</h2>
+              <h2 className="bhe-title">KONE Elevator In Chennai</h2>
 
               <p className="bhe-subtitle">
                 Advanced KONE Elevator Solutions in Chennai from Unosafe
-                Elevators
+                Elevator
               </p>
 
               <p className="bhe-text">
@@ -60,21 +60,21 @@ export default function Chennai3() {
 
               <ul className="bhe-list">
                 <li>
-                  Passenger Elevators – Elegant KONE passenger lifts available
-                  in Machine Room Less (MRL) and traditional models for
-                  residential and commercial buildings.
+                  Passenger Elevator – Elegant KONE passenger lifts available in
+                  Machine Room Less (MRL) and traditional models for residential
+                  and commercial buildings.
                 </li>
                 <li>
-                  Goods Elevators – High-capacity KONE goods lifts designed for
+                  Goods Elevator – High-capacity KONE goods lifts designed for
                   warehouses, factories, and industrial environments requiring
                   heavy load transportation.
                 </li>
                 <li>
-                  Home Elevators – Compact and stylish KONE home lift systems
+                  Home Elevator – Compact and stylish KONE home lift systems
                   designed for luxury villas and modern residences.
                 </li>
                 <li>
-                  Hospital Elevators – Specialized KONE elevators designed to
+                  Hospital Elevator – Specialized KONE Elevator designed to
                   transport patients, stretchers, and medical equipment safely
                   and efficiently.
                 </li>
@@ -87,11 +87,11 @@ export default function Chennai3() {
               {/* PRICING */}
 
               <h3 className="bhe-heading">
-                Distinctive Features of KONE Elevators
+                Distinctive Features of KONE Elevator
               </h3>
 
               <p className="bhe-text">
-                KONE elevators are globally recognized for innovation, safety
+                KONE Elevator are globally recognized for innovation, safety
                 standards, and energy-efficient performance. When combined with
                 Unosafe’s local expertise, clients receive a powerful
                 combination of international technology and reliable service
@@ -101,7 +101,7 @@ export default function Chennai3() {
               <div className="bhe-priceCard">
                 <h4>Safety First Technology</h4>
                 <p>
-                  KONE MonoSpace Smart elevators compliant with IS 17900
+                  KONE MonoSpace Smart Elevator compliant with IS 17900
                   standards
                 </p>
                 <p>
@@ -140,7 +140,7 @@ export default function Chennai3() {
                   compliant installation aligned with building infrastructure.
                 </li>
                 <li>
-                  Modernization – Upgrade older elevators with KONE’s modern
+                  Modernization – Upgrade older Elevator with KONE’s modern
                   safety features and energy-efficient technologies.
                 </li>
                 <li>
@@ -165,7 +165,7 @@ export default function Chennai3() {
               {/* CLIENT RELATIONSHIP */}
 
               <h3 className="bhe-heading">
-                Why Choose KONE Elevators Through Unosafe
+                Why Choose KONE Elevator Through Unosafe
               </h3>
 
               <p className="bhe-text">
@@ -204,7 +204,7 @@ export default function Chennai3() {
             <h3 className="bhe-cardTitle">Bangalore</h3>
 
             <Link href="/Bangalore" className="bhe-item">
-              Home Elevators in Bangalore
+              Home Elevator in Bangalore
               <span className="bhe-check">✓</span>
             </Link>
           </div>
@@ -220,17 +220,17 @@ export default function Chennai3() {
               Lift Companies In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai3" className="bhe-item">
-              KONE Elevators In Chennai <span className="bhe-check">✓</span>
+              KONE Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai4" className="bhe-item">
-              Elite Elevators Chennai <span className="bhe-check">✓</span>
+              Elite Elevator Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai5" className="bhe-item">
               Hydraulic Lift Manufacturers In Chennai{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai6" className="bhe-item">
-              Home Elevators In Chennai <span className="bhe-check">✓</span>
+              Home Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -245,11 +245,11 @@ export default function Chennai3() {
               Lift Companies In Kerala <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala3" className="bhe-item">
-              Kone Elevators In Kerala <span className="bhe-check">✓</span>
+              Kone Elevator In Kerala <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Kerala5" className="bhe-item">
-              Elite Elevators in Kerala<span className="bhe-check">✓</span>
+              Elite Elevator in Kerala<span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala6" className="bhe-item">
               Hydraulic Lift Manufactures In kerala{" "}
@@ -260,7 +260,7 @@ export default function Chennai3() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala8" className="bhe-item">
-              Home Elevators in kerala <span className="bhe-check">✓</span>
+              Home Elevator in kerala <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -276,11 +276,11 @@ export default function Chennai3() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra3" className="bhe-item">
-              Kone Elevators In Andhra Pradesh{" "}
+              Kone Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra4" className="bhe-item">
-              Elite Elevators In Andhra Pradesh{" "}
+              Elite Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
 
@@ -289,8 +289,7 @@ export default function Chennai3() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra6" className="bhe-item">
-              Capsule Elevators in Hyderabad{" "}
-              <span className="bhe-check">✓</span>
+              Capsule Elevator in Hyderabad <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Andhra7" className="bhe-item">
@@ -299,7 +298,7 @@ export default function Chennai3() {
             </Link>
 
             <Link href="/Andhra8" className="bhe-item">
-              Home Elevators in Andhra Pradesh{" "}
+              Home Elevator in Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
           </div>

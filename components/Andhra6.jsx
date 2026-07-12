@@ -14,8 +14,8 @@ export default function Andhra6() {
 
           <div className="bhe-imageCard">
             <img
-              src="/assets/images/products/capsule-elevators-manufacturers-in-hyderabad.jpg"
-              alt="Capsule Elevators Manufacturers in Hyderabad"
+              src="/assets/images/products/capsule-Elevator-manufacturers-in-hyderabad.jpg"
+              alt="Capsule Elevator Manufacturers in Hyderabad"
               className="bhe-image"
             />
           </div>
@@ -24,27 +24,27 @@ export default function Andhra6() {
 
           <div className="bhe-content">
             <h2 className="bhe-title">
-              Capsule Elevators Manufacturers in Hyderabad
+              Capsule Elevator Manufacturers in Hyderabad
             </h2>
 
             <p className="bhe-subtitle">
-              Stylish Panoramic Capsule Elevators for Modern Buildings
+              Stylish Panoramic Capsule Elevator for Modern Buildings
             </p>
 
             <p className="bhe-text">
               Hyderabad is a city where tradition meets modernity, with its IT
               parks, luxury hotels, high-rise apartments, and world-class
-              shopping malls. In such modern developments, elevators are not
-              only functional but also architectural highlights. Capsule
-              elevators provide both smooth vertical transportation and a
-              stunning visual experience.
+              shopping malls. In such modern developments, Elevator are not only
+              functional but also architectural highlights. Capsule Elevator
+              provide both smooth vertical transportation and a stunning visual
+              experience.
             </p>
 
             <p className="bhe-text">
               <strong>UNOSAFE ELEVATOR Pvt. Ltd.</strong>, an ISO
               9001:2015-certified company, is among the most trusted capsule
-              elevator manufacturers in Hyderabad. Our elevators combine
-              advanced technology, elegant design, and superior safety to create
+              elevator manufacturers in Hyderabad. Our Elevator combine advanced
+              technology, elegant design, and superior safety to create
               world-class vertical mobility solutions.
             </p>
 
@@ -56,20 +56,20 @@ export default function Andhra6() {
 
             <ul className="bhe-list">
               <li>
-                Panoramic Glass Capsule Elevators – Provide a 360° view and
+                Panoramic Glass Capsule Elevator – Provide a 360° view and
                 enhance the aesthetic appeal of malls, hotels, and luxury
                 buildings.
               </li>
               <li>
-                Machine Room Capsule Elevators – Durable solutions designed for
+                Machine Room Capsule Elevator – Durable solutions designed for
                 commercial buildings and high traffic areas.
               </li>
               <li>
-                MRL Capsule Elevators – Space-saving elevators suitable for
-                modern high-rise structures.
+                MRL Capsule Elevator – Space-saving Elevator suitable for modern
+                high-rise structures.
               </li>
               <li>
-                Hydraulic Capsule Elevators – Smooth and cost-effective systems
+                Hydraulic Capsule Elevator – Smooth and cost-effective systems
                 ideal for mid-rise buildings and boutique hotels.
               </li>
             </ul>
@@ -79,7 +79,7 @@ export default function Andhra6() {
             <h3 className="bhe-heading">Premium Capsule Elevator Range</h3>
 
             <p className="bhe-text">
-              Unosafe offers a complete range of capsule elevators designed for
+              Unosafe offers a complete range of capsule Elevator designed for
               Hyderabad’s modern architecture and urban lifestyle.
             </p>
 
@@ -88,21 +88,19 @@ export default function Andhra6() {
               <p>Sleek glass designs perfect for corporate towers and malls</p>
 
               <h4>UNO GOLD</h4>
-              <p>
-                Premium gold-accented elevators for luxury hotels and villas
-              </p>
+              <p>Premium gold-accented Elevator for luxury hotels and villas</p>
 
               <h4>UNO MAX</h4>
               <p>Heavy-duty stainless steel cabins for high-footfall areas</p>
 
               <h4>UNO CLASSIC</h4>
               <p>
-                Elegant and cost-effective elevators for residential apartments
+                Elegant and cost-effective Elevator for residential apartments
               </p>
 
               <h4>UNO LUXURY</h4>
               <p>
-                Fully customized capsule elevators designed for elite projects
+                Fully customized capsule Elevator designed for elite projects
               </p>
             </div>
 
@@ -143,7 +141,7 @@ export default function Andhra6() {
 
             <p className="bhe-text">
               Unosafe provides complete installation and maintenance services
-              for capsule elevators in Hyderabad. Our turnkey installation
+              for capsule Elevator in Hyderabad. Our turnkey installation
               process includes design, manufacturing, testing, and commissioning
               by certified engineers.
             </p>
@@ -162,7 +160,7 @@ export default function Andhra6() {
               If you are searching for capsule elevator manufacturers in
               Hyderabad, UNOSAFE ELEVATOR Pvt. Ltd. offers the perfect
               combination of advanced engineering, elegant design, and
-              dependable service. Our capsule elevators enhance both the
+              dependable service. Our capsule Elevator enhance both the
               functionality and visual appeal of modern buildings while ensuring
               safe and efficient vertical mobility.
             </p>
@@ -175,7 +173,7 @@ export default function Andhra6() {
             <h3 className="bhe-cardTitle">Bangalore</h3>
 
             <Link href="/Bangalore" className="bhe-item">
-              Home Elevators in Bangalore
+              Home Elevator in Bangalore
               <span className="bhe-check">✓</span>
             </Link>
           </div>
@@ -191,17 +189,17 @@ export default function Andhra6() {
               Lift Companies In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai3" className="bhe-item">
-              KONE Elevators In Chennai <span className="bhe-check">✓</span>
+              KONE Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai4" className="bhe-item">
-              Elite Elevators Chennai <span className="bhe-check">✓</span>
+              Elite Elevator Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai5" className="bhe-item">
               Hydraulic Lift Manufacturers In Chennai{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai6" className="bhe-item">
-              Home Elevators In Chennai <span className="bhe-check">✓</span>
+              Home Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -216,11 +214,11 @@ export default function Andhra6() {
               Lift Companies In Kerala <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala3" className="bhe-item">
-              Kone Elevators In Kerala <span className="bhe-check">✓</span>
+              Kone Elevator In Kerala <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Kerala5" className="bhe-item">
-              Elite Elevators in Kerala<span className="bhe-check">✓</span>
+              Elite Elevator in Kerala<span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala6" className="bhe-item">
               Hydraulic Lift Manufactures In kerala{" "}
@@ -231,7 +229,7 @@ export default function Andhra6() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala8" className="bhe-item">
-              Home Elevators in kerala <span className="bhe-check">✓</span>
+              Home Elevator in kerala <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -247,11 +245,11 @@ export default function Andhra6() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra3" className="bhe-item">
-              Kone Elevators In Andhra Pradesh{" "}
+              Kone Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra4" className="bhe-item">
-              Elite Elevators In Andhra Pradesh{" "}
+              Elite Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
 
@@ -260,8 +258,7 @@ export default function Andhra6() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra6" className="bhe-item">
-              Capsule Elevators in Hyderabad{" "}
-              <span className="bhe-check">✓</span>
+              Capsule Elevator in Hyderabad <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Andhra7" className="bhe-item">
@@ -270,7 +267,7 @@ export default function Andhra6() {
             </Link>
 
             <Link href="/Andhra8" className="bhe-item">
-              Home Elevators in Andhra Pradesh{" "}
+              Home Elevator in Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
           </div>

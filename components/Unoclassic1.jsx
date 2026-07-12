@@ -11,8 +11,9 @@ export default function Unoclassic1() {
 
       <div className="mre-container">
         <div className="mre-breadcrumb">
-         
-<Link href="/" className="mre-home">Home</Link>
+          <Link href="/" className="mre-home">
+            Home
+          </Link>
           <span className="mre-separator">/</span>
           <span className="mre-current">Uno Classic</span>
         </div>

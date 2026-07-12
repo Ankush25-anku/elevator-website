@@ -24,9 +24,9 @@ export default function MRGearedElevator() {
             <p className="mrpd2-tag">UNOSAFE Medical Lift Solutions</p>
 
             <p className="mrpd2-lead">
-              UNOSAFE Hospital Elevators provide safe and easy transportation
-              for patients, stretchers, wheelchairs, and bulky medical
-              equipment. Designed for modern healthcare facilities, they offer a
+              UNOSAFE Hospital Elevator provide safe and easy transportation for
+              patients, stretchers, wheelchairs, and bulky medical equipment.
+              Designed for modern healthcare facilities, they offer a
               sophisticated appearance, ultra-smooth operation, and advanced
               safety standards.
             </p>
@@ -46,7 +46,7 @@ export default function MRGearedElevator() {
             <h2>System Overview</h2>
 
             <p>
-              UNOSAFE Hospital Elevators are specially engineered to support
+              UNOSAFE Hospital Elevator are specially engineered to support
               critical medical environments by ensuring safe, reliable, and
               comfortable patient transport within healthcare buildings.
             </p>

@@ -78,29 +78,29 @@ export default function Unogold() {
 
             <div
               className={`uce-item ${
-                pathname === "/machine-room-elevators" ? "active" : ""
+                pathname === "/machine-room-Elevator" ? "active" : ""
               }`}
-              onClick={() => router.push("/machine-room-elevators")}
+              onClick={() => router.push("/machine-room-Elevator")}
             >
-              Machine Room Elevators <span>✓</span>
+              Machine Room Elevator <span>✓</span>
             </div>
 
             <div
               className={`uce-item ${
-                pathname === "/machine-room-less-elevators" ? "active" : ""
+                pathname === "/machine-room-less-Elevator" ? "active" : ""
               }`}
-              onClick={() => router.push("/machine-room-less-elevators")}
+              onClick={() => router.push("/machine-room-less-Elevator")}
             >
-              Machine Room Less Elevators <span>✓</span>
+              Machine Room Less Elevator <span>✓</span>
             </div>
 
             <div
               className={`uce-item ${
-                pathname === "/hydraulic-elevators" ? "active" : ""
+                pathname === "/hydraulic-Elevator" ? "active" : ""
               }`}
-              onClick={() => router.push("/hydraulic-elevators")}
+              onClick={() => router.push("/hydraulic-Elevator")}
             >
-              Hydraulic Elevators <span>✓</span>
+              Hydraulic Elevator <span>✓</span>
             </div>
           </div>
         </div>

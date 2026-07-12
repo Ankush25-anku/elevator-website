@@ -24,7 +24,7 @@ export default function MRGearedElevator() {
             <p className="mrpd2-tag">HYDROX Series</p>
 
             <p className="mrpd2-lead">
-              Hydraulic elevators operate using advanced fluid pressure
+              Hydraulic Elevator operate using advanced fluid pressure
               technology to move the elevator car smoothly within the shaft,
               offering reliable vertical transportation for low-rise buildings.
             </p>
@@ -72,12 +72,12 @@ export default function MRGearedElevator() {
             <div className="mrpd2-feature">
               <h3>Applications & Advantages</h3>
               <p>
-                Hydraulic elevators are commonly used in buildings with fewer
+                Hydraulic Elevator are commonly used in buildings with fewer
                 floors, typically up to six floors. They are preferred for their
                 simplicity, durability, and dependable performance.
               </p>
               <p>
-                However, hydraulic elevators generally have slower travel speeds
+                However, hydraulic Elevator generally have slower travel speeds
                 and are less energy-efficient compared to traction systems.
               </p>
             </div>
@@ -85,7 +85,7 @@ export default function MRGearedElevator() {
             <div className="mrpd2-feature">
               <h3>Performance Specifications</h3>
               <p>
-                Hydraulic elevators can achieve maximum speeds of{" "}
+                Hydraulic Elevator can achieve maximum speeds of{" "}
                 <strong>0.5 m/s</strong> with a maximum travel height of{" "}
                 <strong>18 meters</strong>.
               </p>

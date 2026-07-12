@@ -18,8 +18,8 @@ export default function Kerala3() {
 
             <div className="bhe-imageCard">
               <img
-                src="/assets/images/products/kone-elevators-in-kerala.jpg"
-                alt="KONE Elevators In Kerala"
+                src="/assets/images/products/kone-Elevator-in-kerala.jpg"
+                alt="KONE Elevator In Kerala"
                 className="bhe-image"
               />
             </div>
@@ -27,11 +27,10 @@ export default function Kerala3() {
             {/* CONTENT */}
 
             <div className="bhe-content">
-              <h2 className="bhe-title">KONE Elevators In Kerala</h2>
+              <h2 className="bhe-title">KONE Elevator In Kerala</h2>
 
               <p className="bhe-subtitle">
-                Advanced KONE Elevator Solutions in Kerala from Unosafe
-                Elevators
+                Advanced KONE Elevator Solutions in Kerala from Unosafe Elevator
               </p>
 
               <p className="bhe-text">
@@ -48,14 +47,14 @@ export default function Kerala3() {
                 advanced KONE solutions closer to local clients in Kerala with
                 expert installation, modernization, and service support. Our
                 team combines global technology with strong local expertise to
-                deliver safe, efficient, and high-performance elevators for
+                deliver safe, efficient, and high-performance Elevator for
                 modern buildings.
               </p>
 
               {/* WHY BEST */}
 
               <h3 className="bhe-heading">
-                Why Choose KONE Elevators Through Unosafe in Kerala
+                Why Choose KONE Elevator Through Unosafe in Kerala
               </h3>
 
               <ul className="bhe-list">
@@ -87,22 +86,22 @@ export default function Kerala3() {
               </p>
 
               <div className="bhe-priceCard">
-                <h4>Passenger Elevators</h4>
+                <h4>Passenger Elevator</h4>
                 <p>
-                  Machine Room Less (MRL) and traditional passenger elevators
-                  for residential and commercial buildings.
+                  Machine Room Less (MRL) and traditional passenger Elevator for
+                  residential and commercial buildings.
                 </p>
                 <p>Elegant designs combined with smooth ride technology.</p>
 
-                <h4>Goods Elevators</h4>
+                <h4>Goods Elevator</h4>
                 <p>
                   Heavy-duty lifts designed for warehouses, factories, and
                   industrial environments.
                 </p>
                 <p>High load capacity with reliable performance.</p>
 
-                <h4>Home & Hospital Elevators</h4>
-                <p>Stylish home elevators for villas and luxury residences.</p>
+                <h4>Home & Hospital Elevator</h4>
+                <p>Stylish home Elevator for villas and luxury residences.</p>
                 <p>
                   Hospital lifts designed for patient beds, stretchers, and
                   medical equipment.
@@ -112,7 +111,7 @@ export default function Kerala3() {
               {/* VARIANTS */}
 
               <h3 className="bhe-heading">
-                Distinctive Features of KONE Elevators
+                Distinctive Features of KONE Elevator
               </h3>
 
               <ul className="bhe-list">
@@ -183,7 +182,7 @@ export default function Kerala3() {
             <h3 className="bhe-cardTitle">Bangalore</h3>
 
             <Link href="/Bangalore" className="bhe-item">
-              Home Elevators in Bangalore
+              Home Elevator in Bangalore
               <span className="bhe-check">✓</span>
             </Link>
           </div>
@@ -199,17 +198,17 @@ export default function Kerala3() {
               Lift Companies In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai3" className="bhe-item">
-              KONE Elevators In Chennai <span className="bhe-check">✓</span>
+              KONE Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai4" className="bhe-item">
-              Elite Elevators Chennai <span className="bhe-check">✓</span>
+              Elite Elevator Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai5" className="bhe-item">
               Hydraulic Lift Manufacturers In Chennai{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai6" className="bhe-item">
-              Home Elevators In Chennai <span className="bhe-check">✓</span>
+              Home Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -224,10 +223,10 @@ export default function Kerala3() {
               Lift Companies In Kerala <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala3" className="bhe-item">
-              Kone Elevators In Kerala <span className="bhe-check">✓</span>
+              Kone Elevator In Kerala <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala5" className="bhe-item">
-              Elite Elevators in Kerala<span className="bhe-check">✓</span>
+              Elite Elevator in Kerala<span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala6" className="bhe-item">
               Hydraulic Lift Manufactures In kerala{" "}
@@ -238,7 +237,7 @@ export default function Kerala3() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala8" className="bhe-item">
-              Home Elevators in kerala <span className="bhe-check">✓</span>
+              Home Elevator in kerala <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -254,11 +253,11 @@ export default function Kerala3() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra3" className="bhe-item">
-              Kone Elevators In Andhra Pradesh{" "}
+              Kone Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra4" className="bhe-item">
-              Elite Elevators In Andhra Pradesh{" "}
+              Elite Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
 
@@ -267,8 +266,7 @@ export default function Kerala3() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra6" className="bhe-item">
-              Capsule Elevators in Hyderabad{" "}
-              <span className="bhe-check">✓</span>
+              Capsule Elevator in Hyderabad <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Andhra7" className="bhe-item">
@@ -277,7 +275,7 @@ export default function Kerala3() {
             </Link>
 
             <Link href="/Andhra8" className="bhe-item">
-              Home Elevators in Andhra Pradesh{" "}
+              Home Elevator in Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
           </div>

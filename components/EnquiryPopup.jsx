@@ -31,7 +31,7 @@ export default function ElevatorEnquiryPopup() {
 
         {/* Header */}
         <div className="elevator-popup-header">
-          <h2>UNOSAFE ELEVATOR s PVT LTD</h2>
+          <h2>UNOSAFE ELEVATOR PVT LTD</h2>
         </div>
 
         {/* Form */}
@@ -73,10 +73,10 @@ export default function ElevatorEnquiryPopup() {
                 <option value="" disabled hidden>
                   Select
                 </option>
-                <option value="home">Home Elevators</option>
-                <option value="villa">Villa Elevators</option>
-                <option value="hospital">Hospital Elevators</option>
-                <option value="commercial">Commercial Elevators</option>
+                <option value="home">Home Elevator</option>
+                <option value="villa">Villa Elevator</option>
+                <option value="hospital">Hospital Elevator</option>
+                <option value="commercial">Commercial Elevator</option>
               </select>
             </div>
 

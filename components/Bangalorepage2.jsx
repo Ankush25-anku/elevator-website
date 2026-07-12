@@ -15,8 +15,8 @@ export default function Bangalorepage2() {
 
           <div className="bhe-imageCard">
             <img
-              src="/assets/images/products/home-elevators-in-bangalore.jpg"
-              alt="Home Elevators Bangalore"
+              src="/assets/images/products/home-Elevator-in-bangalore.jpg"
+              alt="Home Elevator Bangalore"
               className="bhe-image"
             />
           </div>
@@ -24,14 +24,14 @@ export default function Bangalorepage2() {
           {/* CONTENT */}
 
           <div className="bhe-content">
-            <h2 className="bhe-title">Home Elevators in Bangalore</h2>
+            <h2 className="bhe-title">Home Elevator in Bangalore</h2>
 
             <p className="bhe-subtitle">
-              Best Home Elevators in Bangalore from UNOSAFE ELEVATOR s
+              Best Home Elevator in Bangalore from UNOSAFE ELEVATOR s
             </p>
 
             <p className="bhe-text">
-              When it comes to home elevators in Bangalore, families look for
+              When it comes to home Elevator in Bangalore, families look for
               safety, comfort, and durability. At{" "}
               <strong>UNOSAFE ELEVATOR s</strong>, we combine all three with
               world-class engineering and design.
@@ -40,14 +40,14 @@ export default function Bangalorepage2() {
             <p className="bhe-text">
               We are an <strong>ISO 9001:2015 certified company</strong> and one
               of the most trusted lift manufacturers in Bangalore Karnataka. Our
-              elevators operate smoothly across homes and apartments with
+              Elevator operate smoothly across homes and apartments with
               superior safety standards.
             </p>
 
             {/* WHY BEST */}
 
             <h3 className="bhe-heading">
-              Why Our Elevators Are Simply the Best
+              Why Our Elevator Are Simply the Best
             </h3>
 
             <ul className="bhe-list">
@@ -68,17 +68,17 @@ export default function Bangalorepage2() {
             </p>
 
             <div className="bhe-priceCard">
-              <h4>Machine Room Elevators</h4>
+              <h4>Machine Room Elevator</h4>
               <p>6 Passenger – ₹8,70,000</p>
               <p>8 Passenger – ₹9,70,000</p>
               <p>10 Passenger – ₹10,20,000</p>
 
-              <h4>Machine Room Less Elevators (MRL)</h4>
+              <h4>Machine Room Less Elevator (MRL)</h4>
               <p>6 Passenger – ₹9,50,000</p>
               <p>8 Passenger – ₹10,50,000</p>
               <p>10 Passenger – ₹11,00,000</p>
 
-              <h4>Hydraulic Elevators</h4>
+              <h4>Hydraulic Elevator</h4>
               <p>6 Passenger – ₹9,50,000</p>
               <p>8 Passenger – ₹10,50,000</p>
               <p>10 Passenger – ₹11,00,000</p>
@@ -92,13 +92,13 @@ export default function Bangalorepage2() {
               <li>UNO CLASSIC – Budget friendly</li>
               <li>UNO MAX – Spacious & durable</li>
               <li>UNO PRIME – Premium technology</li>
-              <li>UNO GOLD – Stylish luxury elevators</li>
+              <li>UNO GOLD – Stylish luxury Elevator</li>
               <li>UNO LUXURY – Fully customizable</li>
             </ul>
 
             {/* BENEFITS */}
 
-            <h3 className="bhe-heading">Benefits of Our Home Elevators</h3>
+            <h3 className="bhe-heading">Benefits of Our Home Elevator</h3>
 
             <ul className="bhe-list">
               <li>Reliable installation & AMC service</li>
@@ -115,7 +115,7 @@ export default function Bangalorepage2() {
 
             <p className="bhe-text">
               UNOSAFE ELEVATOR s has built a strong reputation as one of the
-              most reliable elevator manufacturers in Bangalore. Our elevators
+              most reliable elevator manufacturers in Bangalore. Our Elevator
               are installed in villas, apartments, commercial buildings, and
               residential complexes across the city. With advanced engineering,
               premium materials, and expert installation, we ensure every lift
@@ -154,7 +154,7 @@ export default function Bangalorepage2() {
             <h3 className="bhe-cardTitle">Bangalore</h3>
 
             <Link href="/Bangalore" className="bhe-item">
-              Home Elevators in Bangalore
+              Home Elevator in Bangalore
               <span className="bhe-check">✓</span>
             </Link>
           </div>
@@ -170,17 +170,17 @@ export default function Bangalorepage2() {
               Lift Companies In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai3" className="bhe-item">
-              KONE Elevators In Chennai <span className="bhe-check">✓</span>
+              KONE Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai4" className="bhe-item">
-              Elite Elevators Chennai <span className="bhe-check">✓</span>
+              Elite Elevator Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai5" className="bhe-item">
               Hydraulic Lift Manufacturers In Chennai{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai6" className="bhe-item">
-              Home Elevators In Chennai <span className="bhe-check">✓</span>
+              Home Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -195,11 +195,11 @@ export default function Bangalorepage2() {
               Lift Companies In Kerala <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala3" className="bhe-item">
-              Kone Elevators In Kerala <span className="bhe-check">✓</span>
+              Kone Elevator In Kerala <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Kerala5" className="bhe-item">
-              Elite Elevators in Kerala<span className="bhe-check">✓</span>
+              Elite Elevator in Kerala<span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala6" className="bhe-item">
               Hydraulic Lift Manufactures In kerala{" "}
@@ -210,7 +210,7 @@ export default function Bangalorepage2() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala8" className="bhe-item">
-              Home Elevators in kerala <span className="bhe-check">✓</span>
+              Home Elevator in kerala <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -226,11 +226,11 @@ export default function Bangalorepage2() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra3" className="bhe-item">
-              Kone Elevators In Andhra Pradesh{" "}
+              Kone Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra4" className="bhe-item">
-              Elite Elevators In Andhra Pradesh{" "}
+              Elite Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
 
@@ -239,8 +239,7 @@ export default function Bangalorepage2() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra6" className="bhe-item">
-              Capsule Elevators in Hyderabad{" "}
-              <span className="bhe-check">✓</span>
+              Capsule Elevator in Hyderabad <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Andhra7" className="bhe-item">
@@ -249,7 +248,7 @@ export default function Bangalorepage2() {
             </Link>
 
             <Link href="/Andhra8" className="bhe-item">
-              Home Elevators in Andhra Pradesh{" "}
+              Home Elevator in Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
           </div>

@@ -58,7 +58,7 @@ export default function Features() {
                 </h3>
 
                 <p>
-                  Our expert engineers ensure precise installation of elevators
+                  Our expert engineers ensure precise installation of Elevator
                   with advanced technology and strict safety standards.
                 </p>
 
@@ -91,7 +91,7 @@ export default function Features() {
 
                 <p>
                   We offer reliable maintenance, repair, and modernization
-                  services to keep elevators safe, efficient, and long-lasting.
+                  services to keep Elevator safe, efficient, and long-lasting.
                 </p>
 
                 {/* <div className="link-box">

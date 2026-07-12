@@ -18,16 +18,16 @@ const Machineroomlesselevatordetails = () => {
             />
           </div>
 
-          <h2 className="mrel-title">Machine Room Less Elevators</h2>
+          <h2 className="mrel-title">Machine Room Less Elevator</h2>
 
           {/* MACHINE ROOM LESS CONTENT */}
 
           <div className="mrcd-section">
             <p className="mrcd-text">
-              Machine room less elevators are traction elevators that do not
-              have a dedicated machine room above the elevator shaft. The
-              machine sits in the overhead space and is accessed from the top of
-              the elevator cab when maintenance or repairs are required.
+              Machine room less Elevator are traction Elevator that do not have
+              a dedicated machine room above the elevator shaft. The machine
+              sits in the overhead space and is accessed from the top of the
+              elevator cab when maintenance or repairs are required.
             </p>
 
             <p className="mrcd-text">
@@ -37,19 +37,19 @@ const Machineroomlesselevatordetails = () => {
             </p>
 
             <p className="mrcd-text">
-              Machine room less elevators have a maximum travel distance of up
-              to 150 feet and can travel at speeds up to 300 feet per minute.
-              MRL elevators are comparable to geared traction elevators in terms
-              of initial and maintenance costs, but they have relatively low
-              energy consumption compared to geared elevators.
+              Machine room less Elevator have a maximum travel distance of up to
+              150 feet and can travel at speeds up to 300 feet per minute. MRL
+              Elevator are comparable to geared traction Elevator in terms of
+              initial and maintenance costs, but they have relatively low energy
+              consumption compared to geared Elevator.
             </p>
 
             <p className="mrcd-text">
-              Machine room less elevators are becoming the most popular choice
+              Machine room less Elevator are becoming the most popular choice
               for mid-rise buildings where the travel distance is up to 250
               feet. They are energy efficient, require less space, and their
               operation and reliability are on par with gear-less traction
-              elevators.
+              Elevator.
             </p>
 
             <p className="mrcd-text">
@@ -229,32 +229,32 @@ const Machineroomlesselevatordetails = () => {
             <h3 className="mrel-cardTitle">Our Products</h3>
 
             <a
-              href="/machine-room-elevators"
+              href="/machine-room-Elevator"
               className={`mrel-item ${
-                pathname === "/machine-room-elevators" ? "active" : ""
+                pathname === "/machine-room-Elevator" ? "active" : ""
               }`}
             >
-              <span>Machine Room Elevators</span>
+              <span>Machine Room Elevator</span>
               <span className="mrel-check">✓</span>
             </a>
 
             <a
-              href="/machine-room-less-elevators"
+              href="/machine-room-less-Elevator"
               className={`mrel-item ${
-                pathname === "/machine-room-less-elevators" ? "active" : ""
+                pathname === "/machine-room-less-Elevator" ? "active" : ""
               }`}
             >
-              <span>Machine Room Less Elevators</span>
+              <span>Machine Room Less Elevator</span>
               <span className="mrel-check">✓</span>
             </a>
 
             <a
-              href="/hydraulic-elevators"
+              href="/hydraulic-Elevator"
               className={`mrel-item ${
-                pathname === "/hydraulic-elevators" ? "active" : ""
+                pathname === "/hydraulic-Elevator" ? "active" : ""
               }`}
             >
-              <span>Hydraulic Elevators</span>
+              <span>Hydraulic Elevator</span>
               <span className="mrel-check">✓</span>
             </a>
           </div>

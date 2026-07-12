@@ -81,7 +81,7 @@ export default function Projects() {
                         <div className="content-box">
                           <h3>
                             <a href="/products/mr-geared-elevator">
-                              Machine Room Elevators
+                              Machine Room Elevator
                             </a>
                           </h3>
                           <div className="link-box">
@@ -104,10 +104,10 @@ export default function Projects() {
                         </figure>
                         <div className="content-box">
                           <h3>
-                            <a href="/">Machine Room Less Elevators</a>
+                            <a href="/">Machine Room Less Elevator</a>
                           </h3>
                           <div className="link-box">
-                            <a href="/products/mr-gearlesselevators">
+                            <a href="/products/mr-gearlessElevator">
                               <span>view details</span>
                             </a>
                           </div>
@@ -126,10 +126,10 @@ export default function Projects() {
                         </figure>
                         <div className="content-box">
                           <h3>
-                            <a href="/">Hydraulic Elevators</a>
+                            <a href="/">Hydraulic Elevator</a>
                           </h3>
                           <div className="link-box">
-                            <a href="/products/hydraulicelevators">
+                            <a href="/products/hydraulicElevator">
                               <span>view details</span>
                             </a>
                           </div>
@@ -151,7 +151,7 @@ export default function Projects() {
                             <a href="/">Hospital / Stretcher Elevator</a>
                           </h3>
                           <div className="link-box">
-                            <a href="/products/medicalelevators">
+                            <a href="/products/medicalElevator">
                               <span>view details</span>
                             </a>
                           </div>
@@ -173,7 +173,7 @@ export default function Projects() {
                             <a href="/">Capsule Elevator</a>
                           </h3>
                           <div className="link-box">
-                            <a href="/products/capsuleelevators">
+                            <a href="/products/capsuleElevator">
                               <span>view details</span>
                             </a>
                           </div>
@@ -214,7 +214,7 @@ export default function Projects() {
                         </figure>
                         <div className="content-box">
                           <h3>
-                            <a href="/">Villa Elevators</a>
+                            <a href="/">Villa Elevator</a>
                           </h3>
                           <div className="link-box">
                             <a href="/products/villaelevator">

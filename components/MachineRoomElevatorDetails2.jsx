@@ -18,22 +18,22 @@ const MachineRoomElevatorDetails2 = () => {
             />
           </div>
 
-          <h2 className="mrel-title">Hydraulic Elevators</h2>
+          <h2 className="mrel-title">Hydraulic Elevator</h2>
 
           {/* HYDRAULIC ELEVATOR CONTENT */}
 
           <div className="mrcd-section">
             <p className="mrcd-text">
-              Hydraulic elevators operate using a hydraulic piston that is
-              driven by pressurized oil through a pump system. The piston pushes
-              the elevator car upward while gravity assists in lowering the car
-              when the hydraulic pressure is released.
+              Hydraulic Elevator operate using a hydraulic piston that is driven
+              by pressurized oil through a pump system. The piston pushes the
+              elevator car upward while gravity assists in lowering the car when
+              the hydraulic pressure is released.
             </p>
 
             <p className="mrcd-text">
-              These elevators are commonly used in low-rise buildings such as
+              These Elevator are commonly used in low-rise buildings such as
               residential apartments, hospitals, warehouses, and commercial
-              buildings. Hydraulic elevators do not require overhead machinery,
+              buildings. Hydraulic Elevator do not require overhead machinery,
               making them suitable for buildings where vertical space is
               limited.
             </p>
@@ -203,32 +203,32 @@ const MachineRoomElevatorDetails2 = () => {
             <h3 className="mrel-cardTitle">Our Products</h3>
 
             <a
-              href="/machine-room-elevators"
+              href="/machine-room-Elevator"
               className={`mrel-item ${
-                pathname === "/machine-room-elevators" ? "active" : ""
+                pathname === "/machine-room-Elevator" ? "active" : ""
               }`}
             >
-              <span>Machine Room Elevators</span>
+              <span>Machine Room Elevator</span>
               <span className="mrel-check">✓</span>
             </a>
 
             <a
-              href="/machine-room-less-elevators"
+              href="/machine-room-less-Elevator"
               className={`mrel-item ${
-                pathname === "/machine-room-less-elevators" ? "active" : ""
+                pathname === "/machine-room-less-Elevator" ? "active" : ""
               }`}
             >
-              <span>Machine Room Less Elevators</span>
+              <span>Machine Room Less Elevator</span>
               <span className="mrel-check">✓</span>
             </a>
 
             <a
-              href="/hydraulic-elevators"
+              href="/hydraulic-Elevator"
               className={`mrel-item ${
-                pathname === "/hydraulic-elevators" ? "active" : ""
+                pathname === "/hydraulic-Elevator" ? "active" : ""
               }`}
             >
-              <span>Hydraulic Elevators</span>
+              <span>Hydraulic Elevator</span>
               <span className="mrel-check">✓</span>
             </a>
           </div>

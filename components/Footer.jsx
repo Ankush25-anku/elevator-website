@@ -17,8 +17,8 @@ export default function Footer() {
 
                 <p>
                   We adhere to ISO 9001 : 2015. We manufacture, install and
-                  maintain all types of passenger elevators. We focus purely on
-                  safe passenger elevators.
+                  maintain all types of passenger Elevator. We focus purely on
+                  safe passenger Elevator.
                 </p>
 
                 <div className="footer-divider"></div>

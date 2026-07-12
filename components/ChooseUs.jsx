@@ -60,7 +60,7 @@ export default function ChooseUs() {
                   <p className="mt_20">
                     At UNOSAFE ELEVATOR , we specialize in designing and
                     installing high-quality lift systems that combine safety,
-                    performance, and modern technology. Our elevators are built
+                    performance, and modern technology. Our Elevator are built
                     to ensure smooth vertical transportation while meeting the
                     highest standards of reliability and efficiency.
                   </p>

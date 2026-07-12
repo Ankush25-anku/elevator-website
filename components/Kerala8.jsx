@@ -19,7 +19,7 @@ export default function Kerala8() {
             <div className="bhe-imageCard">
               <img
                 src="/assets/images/products/home-elevator-in-kerla.jpg"
-                alt="Home Elevators in Kerala"
+                alt="Home Elevator in Kerala"
                 className="bhe-image"
               />
             </div>
@@ -27,16 +27,16 @@ export default function Kerala8() {
             {/* CONTENT */}
 
             <div className="bhe-content">
-              <h2 className="bhe-title">Home Elevators in Kerala</h2>
+              <h2 className="bhe-title">Home Elevator in Kerala</h2>
 
               <p className="bhe-subtitle">
-                Home Lifts in Kerala: Unosafe Home & Residential Elevators
+                Home Lifts in Kerala: Unosafe Home & Residential Elevator
               </p>
 
               <p className="bhe-text">
                 Looking for a reliable home lift in Kerala?{" "}
                 <strong>Unosafe</strong>
-                offers premium home and residential elevators that combine
+                offers premium home and residential Elevator that combine
                 safety, comfort, and modern design. Whether you need a
                 traditional lift, capsule lift, or a home lift without pit, our
                 solutions deliver smooth rides, compact installation, and
@@ -48,7 +48,7 @@ export default function Kerala8() {
                 the Top 10 elevator brands worldwide, Unosafe delivers certified
                 elevator systems designed with advanced safety features and
                 international quality standards. From villas to multi-storey
-                homes, our elevators bring convenience and elegance to every
+                homes, our Elevator bring convenience and elegance to every
                 residence.
               </p>
 
@@ -76,7 +76,7 @@ export default function Kerala8() {
                   support.
                 </li>
                 <li>
-                  Elevators designed specifically for villas, apartments, and
+                  Elevator designed specifically for villas, apartments, and
                   multi-storey homes.
                 </li>
               </ul>
@@ -84,29 +84,29 @@ export default function Kerala8() {
               {/* PRICING */}
 
               <h3 className="bhe-heading">
-                Explore Our Range of Elevators in Kerala
+                Explore Our Range of Elevator in Kerala
               </h3>
 
               <p className="bhe-text">
-                Unosafe offers a wide range of elevators designed to suit every
+                Unosafe offers a wide range of Elevator designed to suit every
                 home lifestyle and architectural style.
               </p>
 
               <div className="bhe-priceCard">
-                <h4>Traditional Machine Room Elevators</h4>
+                <h4>Traditional Machine Room Elevator</h4>
                 <p>
                   Conventional lifts suitable for taller residential buildings.
                 </p>
                 <p>Reliable systems with a separate machine room.</p>
 
-                <h4>Machine Room Less (MRL) Elevators</h4>
+                <h4>Machine Room Less (MRL) Elevator</h4>
                 <p>
                   Compact and modern designs perfect for homes with limited
                   space.
                 </p>
                 <p>Energy-efficient and space-saving technology.</p>
 
-                <h4>Hydraulic Elevators</h4>
+                <h4>Hydraulic Elevator</h4>
                 <p>
                   Smooth and quiet lifts commonly used in villas and houses.
                 </p>
@@ -122,7 +122,7 @@ export default function Kerala8() {
                 <li>UNO MAX – Spacious cabins designed for larger homes.</li>
                 <li>UNO PRIME – Premium lifts with advanced technology.</li>
                 <li>UNO GOLD – Stylish luxury lifts with enhanced safety.</li>
-                <li>UNO LUXURY – Fully customizable high-end elevators.</li>
+                <li>UNO LUXURY – Fully customizable high-end Elevator.</li>
               </ul>
 
               {/* BENEFITS */}
@@ -149,10 +149,9 @@ export default function Kerala8() {
 
               <p className="bhe-text">
                 Unosafe provides end-to-end installation services for home
-                elevators across Kerala. Our expert team handles site
-                evaluation, structural assessment, technical setup, safety
-                inspections, and final testing to ensure reliable elevator
-                performance.
+                Elevator across Kerala. Our expert team handles site evaluation,
+                structural assessment, technical setup, safety inspections, and
+                final testing to ensure reliable elevator performance.
               </p>
 
               <p className="bhe-text">
@@ -167,9 +166,9 @@ export default function Kerala8() {
               <h3 className="bhe-heading">Conclusion</h3>
 
               <p className="bhe-text">
-                Unosafe home elevators are the perfect solution for homeowners
-                in Kerala seeking safety, convenience, and modern design. From
-                affordable home lifts to luxury customized elevators, our
+                Unosafe home Elevator are the perfect solution for homeowners in
+                Kerala seeking safety, convenience, and modern design. From
+                affordable home lifts to luxury customized Elevator, our
                 solutions deliver reliable vertical mobility with professional
                 installation and long-term maintenance support.
               </p>
@@ -183,7 +182,7 @@ export default function Kerala8() {
             <h3 className="bhe-cardTitle">Bangalore</h3>
 
             <Link href="/Bangalore" className="bhe-item">
-              Home Elevators in Bangalore
+              Home Elevator in Bangalore
               <span className="bhe-check">✓</span>
             </Link>
           </div>
@@ -199,17 +198,17 @@ export default function Kerala8() {
               Lift Companies In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai3" className="bhe-item">
-              KONE Elevators In Chennai <span className="bhe-check">✓</span>
+              KONE Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai4" className="bhe-item">
-              Elite Elevators Chennai <span className="bhe-check">✓</span>
+              Elite Elevator Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai5" className="bhe-item">
               Hydraulic Lift Manufacturers In Chennai{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai6" className="bhe-item">
-              Home Elevators In Chennai <span className="bhe-check">✓</span>
+              Home Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -224,10 +223,10 @@ export default function Kerala8() {
               Lift Companies In Kerala <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala3" className="bhe-item">
-              Kone Elevators In Kerala <span className="bhe-check">✓</span>
+              Kone Elevator In Kerala <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala5" className="bhe-item">
-              Elite Elevators in Kerala<span className="bhe-check">✓</span>
+              Elite Elevator in Kerala<span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala6" className="bhe-item">
               Hydraulic Lift Manufactures In kerala{" "}
@@ -238,7 +237,7 @@ export default function Kerala8() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala8" className="bhe-item">
-              Home Elevators in kerala <span className="bhe-check">✓</span>
+              Home Elevator in kerala <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -254,11 +253,11 @@ export default function Kerala8() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra3" className="bhe-item">
-              Kone Elevators In Andhra Pradesh{" "}
+              Kone Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra4" className="bhe-item">
-              Elite Elevators In Andhra Pradesh{" "}
+              Elite Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
 
@@ -267,8 +266,7 @@ export default function Kerala8() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra6" className="bhe-item">
-              Capsule Elevators in Hyderabad{" "}
-              <span className="bhe-check">✓</span>
+              Capsule Elevator in Hyderabad <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Andhra7" className="bhe-item">
@@ -277,7 +275,7 @@ export default function Kerala8() {
             </Link>
 
             <Link href="/Andhra8" className="bhe-item">
-              Home Elevators in Andhra Pradesh{" "}
+              Home Elevator in Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
           </div>

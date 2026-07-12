@@ -63,27 +63,27 @@ export default function MainHeader() {
                         <ul>
                           <li>
                             <Link href="/products/mr-geared-elevator">
-                              Machine Room Elevators
+                              Machine Room Elevator
                             </Link>
                           </li>
                           <li>
-                            <Link href="/products/mr-gearless-elevators">
-                              Machine Room Less Elevators
+                            <Link href="/products/mr-gearless-Elevator">
+                              Machine Room Less Elevator
                             </Link>
                           </li>
                           <li>
-                            <Link href="/products/hydraulic-elevators">
-                              Hydraulic Elevators
+                            <Link href="/products/hydraulic-Elevator">
+                              Hydraulic Elevator
                             </Link>
                           </li>
                           <li>
-                            <Link href="/products/medical-elevators">
-                              Hospital / Stretcher Elevators
+                            <Link href="/products/medical-Elevator">
+                              Hospital / Stretcher Elevator
                             </Link>
                           </li>
                           <li>
-                            <Link href="/products/capsule-elevators">
-                              Capsule Elevators
+                            <Link href="/products/capsule-Elevator">
+                              Capsule Elevator
                             </Link>
                           </li>
                           <li>
@@ -92,8 +92,8 @@ export default function MainHeader() {
                             </Link>
                           </li>
                           <li>
-                            <Link href="/products/villaelevators">
-                              Villa Elevators
+                            <Link href="/products/villaElevator">
+                              Villa Elevator
                             </Link>
                           </li>
                           <li>

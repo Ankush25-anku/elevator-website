@@ -24,8 +24,8 @@ export default function MRGearedElevator() {
             <p className="mrpd2-tag">MRL Gearless Technology</p>
 
             <p className="mrpd2-lead">
-              MRL (Machine Room-Less) gearless elevators eliminate the need for
-              a dedicated machine room by integrating the elevator machinery
+              MRL (Machine Room-Less) gearless Elevator eliminate the need for a
+              dedicated machine room by integrating the elevator machinery
               directly into the hoistway or shaft, enabling efficient space
               utilization and modern building integration.
             </p>
@@ -45,11 +45,11 @@ export default function MRGearedElevator() {
             <h2>System Overview</h2>
 
             <p>
-              <strong>MRL (Machine Room-Less) gearless elevators</strong> are a
+              <strong>MRL (Machine Room-Less) gearless Elevator</strong> are a
               type of elevator system that eliminates the need for a dedicated
               machine room by integrating the elevator’s machinery into the
-              hoistway or shaft. These elevators are powered by advanced
-              gearless traction machines.
+              hoistway or shaft. These Elevator are powered by advanced gearless
+              traction machines.
             </p>
 
             <div className="mrpd2-feature">
@@ -84,19 +84,19 @@ export default function MRGearedElevator() {
             <div className="mrpd2-feature">
               <h3>Performance & Advantages</h3>
               <p>
-                Overall, MRL gearless elevators offer a combination of space
+                Overall, MRL gearless Elevator offer a combination of space
                 savings, energy efficiency, and smooth operation, making them an
                 attractive choice for modern building designs.
               </p>
               <p>
-                Some gearless MRL elevators can reach speeds of up to{" "}
+                Some gearless MRL Elevator can reach speeds of up to{" "}
                 <strong>10 meters per second (m/s)</strong> or more. However,
                 typical commercial speeds range between{" "}
-                <strong>1 m/s to 4 m/s</strong>. Gearless elevators can travel
+                <strong>1 m/s to 4 m/s</strong>. Gearless Elevator can travel
                 over <strong>500 meters</strong>.
               </p>
               <p>
-                In modern skyscrapers, gearless elevators can travel hundreds of
+                In modern skyscrapers, gearless Elevator can travel hundreds of
                 meters vertically, serving buildings with dozens or even
                 hundreds of floors. Maximum travel height depends on factors
                 such as elevator manufacturer, motor power, cable strength,

@@ -18,30 +18,30 @@ const MachineRoomElevatorDetails1 = () => {
             />
           </div>
 
-          <h2 className="mrel-title">Machine Room Less Elevators</h2>
+          <h2 className="mrel-title">Machine Room Less Elevator</h2>
 
           {/* MACHINE ROOM LESS CONTENT */}
 
           <div className="mrcd-section">
             <p className="mrcd-text">
-              Machine room less elevators (MRL) are traction elevators that do
-              not require a dedicated machine room above the elevator shaft. The
+              Machine room less Elevator (MRL) are traction Elevator that do not
+              require a dedicated machine room above the elevator shaft. The
               traction machine is installed within the hoistway, which helps
               save building space and reduces construction costs.
             </p>
 
             <p className="mrcd-text">
-              In MRL elevators, the compact gearless traction motor is mounted
+              In MRL Elevator, the compact gearless traction motor is mounted
               inside the elevator shaft. The control system is usually located
               in a small cabinet near the landing door, making maintenance
               easier while eliminating the need for a separate machine room.
             </p>
 
             <p className="mrcd-text">
-              Machine room less elevators are widely used in mid-rise buildings
+              Machine room less Elevator are widely used in mid-rise buildings
               because they provide energy-efficient operation, smooth ride
               quality, and require less structural space compared to traditional
-              machine room elevators.
+              machine room Elevator.
             </p>
 
             {/* TABLE */}
@@ -201,32 +201,32 @@ const MachineRoomElevatorDetails1 = () => {
             <h3 className="mrel-cardTitle">Our Products</h3>
 
             <a
-              href="/machine-room-elevators"
+              href="/machine-room-Elevator"
               className={`mrel-item ${
-                pathname === "/machine-room-elevators" ? "active" : ""
+                pathname === "/machine-room-Elevator" ? "active" : ""
               }`}
             >
-              <span>Machine Room Elevators</span>
+              <span>Machine Room Elevator</span>
               <span className="mrel-check">✓</span>
             </a>
 
             <a
-              href="/machine-room-less-elevators"
+              href="/machine-room-less-Elevator"
               className={`mrel-item ${
-                pathname === "/machine-room-less-elevators" ? "active" : ""
+                pathname === "/machine-room-less-Elevator" ? "active" : ""
               }`}
             >
-              <span>Machine Room Less Elevators</span>
+              <span>Machine Room Less Elevator</span>
               <span className="mrel-check">✓</span>
             </a>
 
             <a
-              href="/hydraulic-elevators"
+              href="/hydraulic-Elevator"
               className={`mrel-item ${
-                pathname === "/hydraulic-elevators" ? "active" : ""
+                pathname === "/hydraulic-Elevator" ? "active" : ""
               }`}
             >
-              <span>Hydraulic Elevators</span>
+              <span>Hydraulic Elevator</span>
               <span className="mrel-check">✓</span>
             </a>
           </div>

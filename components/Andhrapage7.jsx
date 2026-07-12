@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import "./machineRoomElevators.css";
+import "./machineRoomElevator.css";
 import Link from "next/link";
 
 export default function Andhrapage7() {
@@ -15,7 +15,9 @@ export default function Andhrapage7() {
             Home
           </Link>
           <span className="mre-separator">/</span>
-          <span className="mre-current">Esco Lifts India – Anantapur – UNOSAFE</span>
+          <span className="mre-current">
+            Esco Lifts India – Anantapur – UNOSAFE
+          </span>
         </div>
 
         <h1 className="mre-title">Esco Lifts India – Anantapur – UNOSAFE</h1>

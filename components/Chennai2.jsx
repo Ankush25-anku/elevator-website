@@ -45,9 +45,8 @@ export default function Chennai2() {
                 <strong>UNOSAFE ELEVATOR Pvt. Ltd.</strong> is a trusted name
                 among lift companies in Chennai, offering cutting-edge elevator
                 solutions that combine advanced technology, superior safety, and
-                unmatched service support. Our elevators are designed to meet
-                the needs of residential, commercial, and industrial
-                environments.
+                unmatched service support. Our Elevator are designed to meet the
+                needs of residential, commercial, and industrial environments.
               </p>
 
               {/* WHY BEST */}
@@ -69,11 +68,11 @@ export default function Chennai2() {
                   mid-rise buildings and retrofit projects.
                 </li>
                 <li>
-                  Home Elevators – Stylish and compact lifts designed for luxury
+                  Home Elevator – Stylish and compact lifts designed for luxury
                   homes and villas.
                 </li>
                 <li>
-                  Hospital Elevators – Specially designed lifts for transporting
+                  Hospital Elevator – Specially designed lifts for transporting
                   stretchers and medical equipment safely.
                 </li>
               </ul>
@@ -174,7 +173,7 @@ export default function Chennai2() {
               <p className="bhe-text">
                 As Chennai continues to expand vertically, the need for reliable
                 elevator systems becomes increasingly important. Unosafe
-                Elevators delivers advanced lift solutions designed for safety,
+                Elevator delivers advanced lift solutions designed for safety,
                 efficiency, and durability. With comprehensive services and
                 modern engineering, we help buildings across Chennai achieve
                 smooth and dependable vertical transportation.
@@ -190,7 +189,7 @@ export default function Chennai2() {
             <h3 className="bhe-cardTitle">Bangalore</h3>
 
             <Link href="/Bangalore" className="bhe-item">
-              Home Elevators in Bangalore
+              Home Elevator in Bangalore
               <span className="bhe-check">✓</span>
             </Link>
           </div>
@@ -206,17 +205,17 @@ export default function Chennai2() {
               Lift Companies In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai3" className="bhe-item">
-              KONE Elevators In Chennai <span className="bhe-check">✓</span>
+              KONE Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai4" className="bhe-item">
-              Elite Elevators Chennai <span className="bhe-check">✓</span>
+              Elite Elevator Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai5" className="bhe-item">
               Hydraulic Lift Manufacturers In Chennai{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai6" className="bhe-item">
-              Home Elevators In Chennai <span className="bhe-check">✓</span>
+              Home Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -231,11 +230,11 @@ export default function Chennai2() {
               Lift Companies In Kerala <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala3" className="bhe-item">
-              Kone Elevators In Kerala <span className="bhe-check">✓</span>
+              Kone Elevator In Kerala <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Kerala5" className="bhe-item">
-              Elite Elevators in Kerala<span className="bhe-check">✓</span>
+              Elite Elevator in Kerala<span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala6" className="bhe-item">
               Hydraulic Lift Manufactures In kerala{" "}
@@ -246,7 +245,7 @@ export default function Chennai2() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala8" className="bhe-item">
-              Home Elevators in kerala <span className="bhe-check">✓</span>
+              Home Elevator in kerala <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -262,11 +261,11 @@ export default function Chennai2() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra3" className="bhe-item">
-              Kone Elevators In Andhra Pradesh{" "}
+              Kone Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra4" className="bhe-item">
-              Elite Elevators In Andhra Pradesh{" "}
+              Elite Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
 
@@ -275,8 +274,7 @@ export default function Chennai2() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra6" className="bhe-item">
-              Capsule Elevators in Hyderabad{" "}
-              <span className="bhe-check">✓</span>
+              Capsule Elevator in Hyderabad <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Andhra7" className="bhe-item">
@@ -285,7 +283,7 @@ export default function Chennai2() {
             </Link>
 
             <Link href="/Andhra8" className="bhe-item">
-              Home Elevators in Andhra Pradesh{" "}
+              Home Elevator in Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
           </div>

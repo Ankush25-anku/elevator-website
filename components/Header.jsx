@@ -46,30 +46,30 @@ export default function Header() {
                       <ul>
                         <li>
                           <a href="/products/mr-geared-elevator">
-                            Machine Room Elevators
+                            Machine Room Elevator
                           </a>
                         </li>
 
                         <li>
-                          <a href="/products/mr-gearlesselevators">
-                            Machine Room Less Elevators
+                          <a href="/products/mr-gearlessElevator">
+                            Machine Room Less Elevator
                           </a>
                         </li>
 
                         <li>
-                          <a href="/products/hydraulicelevators">
-                            Hydraulic Elevators
+                          <a href="/products/hydraulicElevator">
+                            Hydraulic Elevator
                           </a>
                         </li>
 
                         <li>
-                          <a href="/products/medicalelevators">
+                          <a href="/products/medicalElevator">
                             Hospital / Stretcher Elevator
                           </a>
                         </li>
 
                         <li>
-                          <a href="/products/capsuleelevators">
+                          <a href="/products/capsuleElevator">
                             Capsule Elevator
                           </a>
                         </li>
@@ -79,7 +79,7 @@ export default function Header() {
                         </li>
 
                         <li>
-                          <a href="/products/villaelevators">Villa Elevators</a>
+                          <a href="/products/villaElevator">Villa Elevator</a>
                         </li>
 
                         <li>

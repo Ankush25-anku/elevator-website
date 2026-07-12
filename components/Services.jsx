@@ -40,15 +40,16 @@ export default function Services() {
 
         <div className="row clearfix">
           {/* Service 1 */}
+          {/* Service 1 */}
           <div className="col-lg-3 col-md-6 col-sm-12 service-block">
             <div className="service-block-one">
               <div className="inner-box">
                 <h3>
-                  <a href="/">passenger elevator manufacturing.</a>
+                  <a href="/">Passenger Elevator Manufacturing</a>
                 </h3>
 
                 <p>
-                  We manufacture high-quality passenger elevators designed for
+                  We manufacture high-quality passenger Elevator designed for
                   safety, efficiency and smooth vertical transportation in
                   residential and commercial buildings.
                 </p>
@@ -67,7 +68,7 @@ export default function Services() {
             <div className="service-block-one">
               <div className="inner-box">
                 <h3>
-                  <a href="/">elevator installation.</a>
+                  <a href="/">Elevator Installation</a>
                 </h3>
 
                 <p>
@@ -90,7 +91,7 @@ export default function Services() {
             <div className="service-block-one">
               <div className="inner-box">
                 <h3>
-                  <a href="/">elevator maintenance.</a>
+                  <a href="/">Elevator Maintenance</a>
                 </h3>
 
                 <p>
@@ -113,7 +114,7 @@ export default function Services() {
             <div className="service-block-one">
               <div className="inner-box">
                 <h3>
-                  <a href="/">elevator repair & modernization.</a>
+                  <a href="/">Elevator Repair & Modernization</a>
                 </h3>
 
                 <p>

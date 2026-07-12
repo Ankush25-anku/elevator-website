@@ -14,7 +14,7 @@ export default function Banner() {
           <div className="auto-container">
             <div className="content-box">
               <span className="upper-text">
-                Smart Elevators - Elevating Modern Buildings
+                Smart Elevator - Elevating Modern Buildings
               </span>
 
               <h2>

@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import "./machineRoomElevators.css";
+import "./machineRoomElevator.css";
 import Link from "next/link";
 
 export default function Chennaipage6() {
@@ -15,12 +15,10 @@ export default function Chennaipage6() {
             Home
           </Link>
           <span className="mre-separator">/</span>
-          <span className="mre-current">
-           Home Elevators in Chennai
-          </span>
+          <span className="mre-current">Home Elevator in Chennai</span>
         </div>
 
-        <h1 className="mre-title">Home Elevators in Chennai</h1>
+        <h1 className="mre-title">Home Elevator in Chennai</h1>
       </div>
     </section>
   );

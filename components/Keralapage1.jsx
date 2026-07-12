@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import "./machineRoomElevators.css";
+import "./machineRoomElevator.css";
 import Link from "next/link";
 
 export default function Keralapage1() {
@@ -16,7 +16,7 @@ export default function Keralapage1() {
           </Link>
           <span className="mre-separator">/</span>
           <span className="mre-current">
-          Goods Lift Manufacturers in Kerala
+            Goods Lift Manufacturers in Kerala
           </span>
         </div>
 

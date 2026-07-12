@@ -14,8 +14,8 @@ export default function Andhra8() {
 
           <div className="bhe-imageCard">
             <img
-              src="/assets/images/products/home-elevators-in-vijayawada-andhra-pradesh.jpg"
-              alt="Home Elevators in Vijayawada, Andhra Pradesh"
+              src="/assets/images/products/home-Elevator-in-vijayawada-andhra-pradesh.jpg"
+              alt="Home Elevator in Vijayawada, Andhra Pradesh"
               className="bhe-image"
             />
           </div>
@@ -24,10 +24,10 @@ export default function Andhra8() {
 
           <div className="bhe-content">
             <h2 className="bhe-title">
-              Home Elevators in Vijayawada, Andhra Pradesh
+              Home Elevator in Vijayawada, Andhra Pradesh
             </h2>
 
-            <p className="bhe-subtitle">Unosafe Home Elevators in Vijayawada</p>
+            <p className="bhe-subtitle">Unosafe Home Elevator in Vijayawada</p>
 
             <p className="bhe-text">
               If you are searching for lift companies near me in Vijayawada
@@ -35,12 +35,12 @@ export default function Andhra8() {
               <strong> UNOSAFE ELEVATOR s</strong> is the trusted choice. We
               offer safe, stylish, and reliable home lifts in Vijayawada and
               across Andhra Pradesh. From compact residential lifts to premium
-              luxury elevators, our products combine modern design, safety, and
+              luxury Elevator, our products combine modern design, safety, and
               durability.
             </p>
 
             <p className="bhe-text">
-              Our elevators are designed for both homes and commercial spaces,
+              Our Elevator are designed for both homes and commercial spaces,
               providing smooth rides, advanced safety systems, and long-lasting
               performance. With hundreds of successful installations across
               Vijayawada and Andhra Pradesh, Unosafe has become one of the most
@@ -83,19 +83,19 @@ export default function Andhra8() {
                 Compact and stylish lifts for multi-storey houses and villas.
               </p>
 
-              <h4>Hydraulic Elevators</h4>
+              <h4>Hydraulic Elevator</h4>
               <p>
                 Quiet, smooth, and energy-efficient lifts ideal for residential
                 use.
               </p>
 
-              <h4>Machine Room Elevators (MRE)</h4>
-              <p>Reliable elevators suitable for high-rise buildings.</p>
+              <h4>Machine Room Elevator (MRE)</h4>
+              <p>Reliable Elevator suitable for high-rise buildings.</p>
 
-              <h4>Machine Room Less Elevators (MRL)</h4>
+              <h4>Machine Room Less Elevator (MRL)</h4>
               <p>Space-saving elevator systems perfect for apartments.</p>
 
-              <h4>Capsule Elevators</h4>
+              <h4>Capsule Elevator</h4>
               <p>
                 Elegant glass lifts designed for malls, hotels, and luxury
                 buildings.
@@ -107,11 +107,11 @@ export default function Andhra8() {
             <h3 className="bhe-heading">The UNO Series – Classic to Luxury</h3>
 
             <ul className="bhe-list">
-              <li>UNO Classic – Affordable and reliable elevators.</li>
+              <li>UNO Classic – Affordable and reliable Elevator.</li>
               <li>UNO Max – Spacious cabins with durable design.</li>
-              <li>UNO Prime – Premium elevators with advanced technology.</li>
-              <li>UNO Gold – Luxury elevators with smart automation.</li>
-              <li>UNO Luxury – Fully customized high-end elevators.</li>
+              <li>UNO Prime – Premium Elevator with advanced technology.</li>
+              <li>UNO Gold – Luxury Elevator with smart automation.</li>
+              <li>UNO Luxury – Fully customized high-end Elevator.</li>
             </ul>
 
             {/* BENEFITS */}
@@ -139,7 +139,7 @@ export default function Andhra8() {
             </p>
 
             <p className="bhe-text">
-              Starting prices for elevators in Vijayawada typically begin from
+              Starting prices for Elevator in Vijayawada typically begin from
               around ₹8.70 Lakhs for a 6-passenger lift and increase depending
               on design, technology, and customization requirements.
             </p>
@@ -153,7 +153,7 @@ export default function Andhra8() {
               Pradesh, UNOSAFE ELEVATOR s offers safe, stylish, and reliable
               home lifts designed for modern living. With premium products,
               transparent pricing, and professional installation services, we
-              deliver elevators that combine luxury, safety, and long-term
+              deliver Elevator that combine luxury, safety, and long-term
               performance.
             </p>
           </div>
@@ -165,7 +165,7 @@ export default function Andhra8() {
             <h3 className="bhe-cardTitle">Bangalore</h3>
 
             <Link href="/Bangalore" className="bhe-item">
-              Home Elevators in Bangalore
+              Home Elevator in Bangalore
               <span className="bhe-check">✓</span>
             </Link>
           </div>
@@ -181,17 +181,17 @@ export default function Andhra8() {
               Lift Companies In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai3" className="bhe-item">
-              KONE Elevators In Chennai <span className="bhe-check">✓</span>
+              KONE Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai4" className="bhe-item">
-              Elite Elevators Chennai <span className="bhe-check">✓</span>
+              Elite Elevator Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai5" className="bhe-item">
               Hydraulic Lift Manufacturers In Chennai{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai6" className="bhe-item">
-              Home Elevators In Chennai <span className="bhe-check">✓</span>
+              Home Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -206,11 +206,11 @@ export default function Andhra8() {
               Lift Companies In Kerala <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala3" className="bhe-item">
-              Kone Elevators In Kerala <span className="bhe-check">✓</span>
+              Kone Elevator In Kerala <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Kerala5" className="bhe-item">
-              Elite Elevators in Kerala<span className="bhe-check">✓</span>
+              Elite Elevator in Kerala<span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala6" className="bhe-item">
               Hydraulic Lift Manufactures In kerala{" "}
@@ -221,7 +221,7 @@ export default function Andhra8() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala8" className="bhe-item">
-              Home Elevators in kerala <span className="bhe-check">✓</span>
+              Home Elevator in kerala <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -237,11 +237,11 @@ export default function Andhra8() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra3" className="bhe-item">
-              Kone Elevators In Andhra Pradesh{" "}
+              Kone Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra4" className="bhe-item">
-              Elite Elevators In Andhra Pradesh{" "}
+              Elite Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
 
@@ -250,8 +250,7 @@ export default function Andhra8() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra6" className="bhe-item">
-              Capsule Elevators in Hyderabad{" "}
-              <span className="bhe-check">✓</span>
+              Capsule Elevator in Hyderabad <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Andhra7" className="bhe-item">
@@ -260,7 +259,7 @@ export default function Andhra8() {
             </Link>
 
             <Link href="/Andhra8" className="bhe-item">
-              Home Elevators in Andhra Pradesh{" "}
+              Home Elevator in Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
           </div>

@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import "./machineRoomElevators.css";
+import "./machineRoomElevator.css";
 import Link from "next/link";
 
 export default function Andhrapage8() {
@@ -15,10 +15,14 @@ export default function Andhrapage8() {
             Home
           </Link>
           <span className="mre-separator">/</span>
-          <span className="mre-current">Home Elevators in Vijayawada, Andhra Pradesh</span>
+          <span className="mre-current">
+            Home Elevator in Vijayawada, Andhra Pradesh
+          </span>
         </div>
 
-        <h1 className="mre-title">Home Elevators in Vijayawada, Andhra Pradesh</h1>
+        <h1 className="mre-title">
+          Home Elevator in Vijayawada, Andhra Pradesh
+        </h1>
       </div>
     </section>
   );

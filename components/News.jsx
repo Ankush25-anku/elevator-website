@@ -78,7 +78,7 @@ export default function News() {
 
                   <h4>
                     <a href="/blog-details">
-                      How modern elevators improve safety and efficiency in
+                      How modern Elevator improve safety and efficiency in
                       high-rise buildings
                     </a>
                   </h4>
@@ -160,7 +160,7 @@ export default function News() {
 
                   <h4>
                     <a href="/blog-details">
-                      The future of smart elevators in modern residential and
+                      The future of smart Elevator in modern residential and
                       commercial spaces
                     </a>
                   </h4>

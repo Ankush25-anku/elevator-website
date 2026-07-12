@@ -43,7 +43,7 @@ export default function Andhra5() {
 
             <p className="bhe-text">
               Whether you need a passenger lift, hospital lift, or goods lift,
-              our hydraulic elevators are designed to handle heavy loads while
+              our hydraulic Elevator are designed to handle heavy loads while
               providing a comfortable ride experience. As trusted commercial
               lift manufacturers, we ensure every elevator meets the highest
               quality and safety standards.
@@ -103,7 +103,7 @@ export default function Andhra5() {
               <h4>Installation Services</h4>
               <p>
                 Professional setup for commercial, residential, and industrial
-                goods elevators.
+                goods Elevator.
               </p>
 
               <h4>Maintenance & Repairs</h4>
@@ -125,7 +125,7 @@ export default function Andhra5() {
 
             <ul className="bhe-list">
               <li>
-                Passenger Hydraulic Lifts – Safe and comfortable elevators for
+                Passenger Hydraulic Lifts – Safe and comfortable Elevator for
                 residential and commercial buildings.
               </li>
               <li>
@@ -151,7 +151,7 @@ export default function Andhra5() {
             <p className="bhe-text">
               For over a decade, UNOSAFE ELEVATOR s has delivered innovative
               lift solutions focused on safety, quality, and customer
-              satisfaction. Our elevators are certified, tested, and built to
+              satisfaction. Our Elevator are certified, tested, and built to
               meet the highest industry standards.
             </p>
 
@@ -188,7 +188,7 @@ export default function Andhra5() {
                 What is the load capacity of your hydraulic lifts?
               </strong>
               <br />
-              Our hydraulic elevators are designed with flexible load capacities
+              Our hydraulic Elevator are designed with flexible load capacities
               to support residential, commercial, and industrial requirements.
             </p>
 
@@ -213,7 +213,7 @@ export default function Andhra5() {
             <h3 className="bhe-cardTitle">Bangalore</h3>
 
             <Link href="/Bangalore" className="bhe-item">
-              Home Elevators in Bangalore
+              Home Elevator in Bangalore
               <span className="bhe-check">✓</span>
             </Link>
           </div>
@@ -229,17 +229,17 @@ export default function Andhra5() {
               Lift Companies In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai3" className="bhe-item">
-              KONE Elevators In Chennai <span className="bhe-check">✓</span>
+              KONE Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai4" className="bhe-item">
-              Elite Elevators Chennai <span className="bhe-check">✓</span>
+              Elite Elevator Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai5" className="bhe-item">
               Hydraulic Lift Manufacturers In Chennai{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai6" className="bhe-item">
-              Home Elevators In Chennai <span className="bhe-check">✓</span>
+              Home Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -254,11 +254,11 @@ export default function Andhra5() {
               Lift Companies In Kerala <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala3" className="bhe-item">
-              Kone Elevators In Kerala <span className="bhe-check">✓</span>
+              Kone Elevator In Kerala <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Kerala5" className="bhe-item">
-              Elite Elevators in Kerala<span className="bhe-check">✓</span>
+              Elite Elevator in Kerala<span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala6" className="bhe-item">
               Hydraulic Lift Manufactures In kerala{" "}
@@ -269,7 +269,7 @@ export default function Andhra5() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala8" className="bhe-item">
-              Home Elevators in kerala <span className="bhe-check">✓</span>
+              Home Elevator in kerala <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -285,11 +285,11 @@ export default function Andhra5() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra3" className="bhe-item">
-              Kone Elevators In Andhra Pradesh{" "}
+              Kone Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra4" className="bhe-item">
-              Elite Elevators In Andhra Pradesh{" "}
+              Elite Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
 
@@ -298,8 +298,7 @@ export default function Andhra5() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra6" className="bhe-item">
-              Capsule Elevators in Hyderabad{" "}
-              <span className="bhe-check">✓</span>
+              Capsule Elevator in Hyderabad <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Andhra7" className="bhe-item">
@@ -308,7 +307,7 @@ export default function Andhra5() {
             </Link>
 
             <Link href="/Andhra8" className="bhe-item">
-              Home Elevators in Andhra Pradesh{" "}
+              Home Elevator in Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
           </div>

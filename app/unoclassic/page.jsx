@@ -1,12 +1,12 @@
 import React from "react";
-import MachineRoomElevators from "../../components/machine-room-elevators";
+import MachineRoomElevator from "../../components/machine-room-Elevator";
 
 import MachineRoomElevatorDetails1 from "../../components/MachineRoomElevatorDetails1";
 
 const page = () => {
   return (
     <div>
-      <MachineRoomElevators />
+      <MachineRoomElevator />
       <MachineRoomElevatorDetails1 />
     </div>
   );

@@ -18,8 +18,8 @@ export default function Kerala5() {
 
             <div className="bhe-imageCard">
               <img
-                src="/assets/images/products/elite-elevators-in-kerala.jpg"
-                alt="Elite Elevators Kerala"
+                src="/assets/images/products/elite-Elevator-in-kerala.jpg"
+                alt="Elite Elevator Kerala"
                 className="bhe-image"
               />
             </div>
@@ -27,17 +27,16 @@ export default function Kerala5() {
             {/* CONTENT */}
 
             <div className="bhe-content">
-              <h2 className="bhe-title">Elite Elevators Kerala</h2>
+              <h2 className="bhe-title">Elite Elevator Kerala</h2>
 
               <p className="bhe-subtitle">
-                Premium Elite Elevator Solutions in Kerala from Unosafe
-                Elevators
+                Premium Elite Elevator Solutions in Kerala from Unosafe Elevator
               </p>
 
               <p className="bhe-text">
                 In modern Kerala, where architectural elegance meets practical
                 living, vertical mobility solutions must be both safe and
-                stylish. Elite Elevators, headquartered in Kerala, is India’s
+                stylish. Elite Elevator, headquartered in Kerala, is India’s
                 most trusted home elevator company offering customizable,
                 pitless, and shaft-free lifts for residences, villas, and luxury
                 spaces.
@@ -54,7 +53,7 @@ export default function Kerala5() {
               {/* WHY BEST */}
 
               <h3 className="bhe-heading">
-                The Unosafe Difference: Premium Service for Elite Elevators
+                The Unosafe Difference: Premium Service for Elite Elevator
               </h3>
 
               <ul className="bhe-list">
@@ -88,11 +87,11 @@ export default function Kerala5() {
               {/* PRICING */}
 
               <h3 className="bhe-heading">
-                Advanced Features of Elite Elevators
+                Advanced Features of Elite Elevator
               </h3>
 
               <p className="bhe-text">
-                Elite Elevators combine advanced European engineering with
+                Elite Elevator combine advanced European engineering with
                 elegant design to create premium home lift solutions that are
                 safe, stylish, and highly reliable.
               </p>
@@ -151,7 +150,7 @@ export default function Kerala5() {
               <h3 className="bhe-heading">Conclusion</h3>
 
               <p className="bhe-text">
-                Elevate your lifestyle with Elite Elevators installed and
+                Elevate your lifestyle with Elite Elevator installed and
                 supported by UNOSAFE ELEVATOR Pvt. Ltd. in Kerala. Combining
                 global technology, stylish designs, and dependable service, we
                 deliver modern vertical mobility solutions for premium homes and
@@ -167,7 +166,7 @@ export default function Kerala5() {
             <h3 className="bhe-cardTitle">Bangalore</h3>
 
             <Link href="/Bangalore" className="bhe-item">
-              Home Elevators in Bangalore
+              Home Elevator in Bangalore
               <span className="bhe-check">✓</span>
             </Link>
           </div>
@@ -183,17 +182,17 @@ export default function Kerala5() {
               Lift Companies In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai3" className="bhe-item">
-              KONE Elevators In Chennai <span className="bhe-check">✓</span>
+              KONE Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai4" className="bhe-item">
-              Elite Elevators Chennai <span className="bhe-check">✓</span>
+              Elite Elevator Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai5" className="bhe-item">
               Hydraulic Lift Manufacturers In Chennai{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai6" className="bhe-item">
-              Home Elevators In Chennai <span className="bhe-check">✓</span>
+              Home Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -208,10 +207,10 @@ export default function Kerala5() {
               Lift Companies In Kerala <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala3" className="bhe-item">
-              Kone Elevators In Kerala <span className="bhe-check">✓</span>
+              Kone Elevator In Kerala <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala5" className="bhe-item">
-              Elite Elevators in Kerala<span className="bhe-check">✓</span>
+              Elite Elevator in Kerala<span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala6" className="bhe-item">
               Hydraulic Lift Manufactures In kerala{" "}
@@ -222,7 +221,7 @@ export default function Kerala5() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala8" className="bhe-item">
-              Home Elevators in kerala <span className="bhe-check">✓</span>
+              Home Elevator in kerala <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -238,11 +237,11 @@ export default function Kerala5() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra3" className="bhe-item">
-              Kone Elevators In Andhra Pradesh{" "}
+              Kone Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra4" className="bhe-item">
-              Elite Elevators In Andhra Pradesh{" "}
+              Elite Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
 
@@ -251,8 +250,7 @@ export default function Kerala5() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra6" className="bhe-item">
-              Capsule Elevators in Hyderabad{" "}
-              <span className="bhe-check">✓</span>
+              Capsule Elevator in Hyderabad <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Andhra7" className="bhe-item">
@@ -261,7 +259,7 @@ export default function Kerala5() {
             </Link>
 
             <Link href="/Andhra8" className="bhe-item">
-              Home Elevators in Andhra Pradesh{" "}
+              Home Elevator in Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
           </div>

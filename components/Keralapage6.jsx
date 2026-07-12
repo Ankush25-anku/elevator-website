@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import "./machineRoomElevators.css";
+import "./machineRoomElevator.css";
 import Link from "next/link";
 
 export default function Keralapage6() {
@@ -15,7 +15,9 @@ export default function Keralapage6() {
             Home
           </Link>
           <span className="mre-separator">/</span>
-          <span className="mre-current">Hydraulic Lift Manufacturers in Kerala</span>
+          <span className="mre-current">
+            Hydraulic Lift Manufacturers in Kerala
+          </span>
         </div>
 
         <h1 className="mre-title">Hydraulic Lift Manufacturers in Kerala</h1>

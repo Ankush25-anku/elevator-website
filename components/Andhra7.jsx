@@ -35,7 +35,7 @@ export default function Andhra7() {
               Anantapur, one of the fastest-growing cities in Andhra Pradesh, is
               witnessing rapid development with new residential complexes,
               commercial hubs, shopping malls, and healthcare facilities. In
-              such a growing landscape, elevators are more than just a utility —
+              such a growing landscape, Elevator are more than just a utility —
               they represent modern living and infrastructure quality.
             </p>
 
@@ -60,12 +60,12 @@ export default function Andhra7() {
                 Anantapur for faster installation and maintenance.
               </li>
               <li>
-                Wide Product Range – Passenger elevators, capsule lifts, goods
-                lifts, and hydraulic elevators all under one trusted brand.
+                Wide Product Range – Passenger Elevator, capsule lifts, goods
+                lifts, and hydraulic Elevator all under one trusted brand.
               </li>
               <li>
-                Energy Efficient Technology – Modern elevators designed to
-                reduce electricity consumption and operational costs.
+                Energy Efficient Technology – Modern Elevator designed to reduce
+                electricity consumption and operational costs.
               </li>
               <li>
                 Customization Options – Cabin finishes, door designs, and lift
@@ -90,27 +90,27 @@ export default function Andhra7() {
             </p>
 
             <div className="bhe-priceCard">
-              <h4>Passenger Elevators</h4>
+              <h4>Passenger Elevator</h4>
               <p>
-                Smooth and energy-efficient elevators for apartments and offices
+                Smooth and energy-efficient Elevator for apartments and offices
               </p>
 
-              <h4>Capsule Elevators</h4>
+              <h4>Capsule Elevator</h4>
               <p>
-                Panoramic glass elevators for malls, hotels, and luxury villas
+                Panoramic glass Elevator for malls, hotels, and luxury villas
               </p>
 
-              <h4>Goods Elevators</h4>
+              <h4>Goods Elevator</h4>
               <p>
                 Heavy-duty lifts for warehouses, industries, and commercial hubs
               </p>
 
-              <h4>Hospital Elevators</h4>
+              <h4>Hospital Elevator</h4>
               <p>
                 Spacious cabins designed for stretchers and medical equipment
               </p>
 
-              <h4>Hydraulic Elevators</h4>
+              <h4>Hydraulic Elevator</h4>
               <p>Cost-effective lifts ideal for low to mid-rise buildings</p>
             </div>
 
@@ -134,7 +134,7 @@ export default function Andhra7() {
                 finishes.
               </li>
               <li>
-                Load Capacity – From small home elevators to heavy-duty goods
+                Load Capacity – From small home Elevator to heavy-duty goods
                 lifts up to 3000 kg.
               </li>
               <li>
@@ -204,7 +204,7 @@ export default function Andhra7() {
             <h3 className="bhe-cardTitle">Bangalore</h3>
 
             <Link href="/Bangalore" className="bhe-item">
-              Home Elevators in Bangalore
+              Home Elevator in Bangalore
               <span className="bhe-check">✓</span>
             </Link>
           </div>
@@ -220,17 +220,17 @@ export default function Andhra7() {
               Lift Companies In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai3" className="bhe-item">
-              KONE Elevators In Chennai <span className="bhe-check">✓</span>
+              KONE Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai4" className="bhe-item">
-              Elite Elevators Chennai <span className="bhe-check">✓</span>
+              Elite Elevator Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai5" className="bhe-item">
               Hydraulic Lift Manufacturers In Chennai{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai6" className="bhe-item">
-              Home Elevators In Chennai <span className="bhe-check">✓</span>
+              Home Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -245,11 +245,11 @@ export default function Andhra7() {
               Lift Companies In Kerala <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala3" className="bhe-item">
-              Kone Elevators In Kerala <span className="bhe-check">✓</span>
+              Kone Elevator In Kerala <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Kerala5" className="bhe-item">
-              Elite Elevators in Kerala<span className="bhe-check">✓</span>
+              Elite Elevator in Kerala<span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala6" className="bhe-item">
               Hydraulic Lift Manufactures In kerala{" "}
@@ -260,7 +260,7 @@ export default function Andhra7() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala8" className="bhe-item">
-              Home Elevators in kerala <span className="bhe-check">✓</span>
+              Home Elevator in kerala <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -276,11 +276,11 @@ export default function Andhra7() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra3" className="bhe-item">
-              Kone Elevators In Andhra Pradesh{" "}
+              Kone Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra4" className="bhe-item">
-              Elite Elevators In Andhra Pradesh{" "}
+              Elite Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
 
@@ -289,8 +289,7 @@ export default function Andhra7() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra6" className="bhe-item">
-              Capsule Elevators in Hyderabad{" "}
-              <span className="bhe-check">✓</span>
+              Capsule Elevator in Hyderabad <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Andhra7" className="bhe-item">
@@ -299,7 +298,7 @@ export default function Andhra7() {
             </Link>
 
             <Link href="/Andhra8" className="bhe-item">
-              Home Elevators in Andhra Pradesh{" "}
+              Home Elevator in Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
           </div>

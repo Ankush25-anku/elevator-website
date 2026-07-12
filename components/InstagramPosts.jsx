@@ -28,7 +28,7 @@ export default function InstagramPosts() {
 
               <p>
                 Elevate your lifestyle with elegance and comfort ✨ Premium
-                Elevators • Modern Designs • Advanced Safety
+                Elevator • Modern Designs • Advanced Safety
               </p>
 
               <a

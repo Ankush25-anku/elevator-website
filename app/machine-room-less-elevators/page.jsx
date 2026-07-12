@@ -1,12 +1,12 @@
 import React from "react";
-import Machineroomlesselevatordetails from "../../components/Machine-roomless-elevatorsdetails";
-import MachineroomlessElevators1 from "../../components/machine-roomless-elevators1";
+import Machineroomlesselevatordetails from "../../components/Machine-roomless-Elevatordetails";
+import MachineroomlessElevator1 from "../../components/machine-roomless-Elevator1";
 
 const page = () => {
   return (
     <div>
       <Machineroomlesselevatordetails />
-      <MachineroomlessElevators1 />
+      <MachineroomlessElevator1 />
     </div>
   );
 };

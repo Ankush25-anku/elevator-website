@@ -27,7 +27,7 @@ export default function FounderCard() {
           <p>
             UNOSAFE ELEVATOR is a leading provider of vertical transportation
             (VT) solutions, specializing in the design, manufacture, and
-            installation of elevators, escalators, and moving walks. With a
+            installation of Elevator, escalators, and moving walks. With a
             strong focus on safety, innovation, and sustainability, Unosafe
             Elevator caters to a wide range of sectors, including residential,
             commercial, industrial, and high-rise projects. The company is also

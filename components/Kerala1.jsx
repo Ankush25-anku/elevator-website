@@ -46,7 +46,7 @@ export default function Kerala1() {
                 <strong>UNOSAFE ELEVATOR Pvt. Ltd.</strong>, an ISO 9001:2015
                 certified elevator manufacturer, delivers advanced goods lift
                 solutions designed for performance, durability, and operational
-                safety. Our elevators are engineered to meet Kerala’s modern
+                safety. Our Elevator are engineered to meet Kerala’s modern
                 building requirements while providing reliable vertical
                 transportation for industries and commercial spaces.
               </p>
@@ -59,16 +59,15 @@ export default function Kerala1() {
 
               <ul className="bhe-list">
                 <li>
-                  Machine Room Elevators – Heavy-duty traction elevators
-                  designed for high load capacity and reliable industrial
-                  operations.
+                  Machine Room Elevator – Heavy-duty traction Elevator designed
+                  for high load capacity and reliable industrial operations.
                 </li>
                 <li>
-                  Machine Room Less Elevators (MRL) – Space-efficient elevator
+                  Machine Room Less Elevator (MRL) – Space-efficient elevator
                   systems suitable for buildings with limited overhead space.
                 </li>
                 <li>
-                  Hydraulic Elevators – Smooth and quiet lifts ideal for hotels,
+                  Hydraulic Elevator – Smooth and quiet lifts ideal for hotels,
                   residential complexes, and showrooms.
                 </li>
                 <li>
@@ -93,17 +92,17 @@ export default function Kerala1() {
               </p>
 
               <div className="bhe-priceCard">
-                <h4>Machine Room Elevators</h4>
+                <h4>Machine Room Elevator</h4>
                 <p>High load capacity for heavy-duty operations</p>
                 <p>Reliable performance for warehouses and industries</p>
                 <p>Proven traction elevator technology</p>
 
-                <h4>Machine Room Less Elevators (MRL)</h4>
+                <h4>Machine Room Less Elevator (MRL)</h4>
                 <p>Space-saving compact elevator design</p>
                 <p>Energy-efficient drive systems</p>
                 <p>Modern design suitable for commercial buildings</p>
 
-                <h4>Hydraulic Elevators</h4>
+                <h4>Hydraulic Elevator</h4>
                 <p>Smooth and quiet operation</p>
                 <p>Cost-effective for low to mid-rise buildings</p>
                 <p>Ideal for hotels, showrooms, and residential complexes</p>
@@ -171,7 +170,7 @@ export default function Kerala1() {
               <p className="bhe-text">
                 UNOSAFE ELEVATOR Pvt. Ltd. has built a strong reputation for
                 delivering reliable goods lift solutions across Kerala. Our
-                elevators are trusted by commercial hubs, hospitals, industrial
+                Elevator are trusted by commercial hubs, hospitals, industrial
                 facilities, and luxury residential projects.
               </p>
 
@@ -190,7 +189,7 @@ export default function Kerala1() {
                 If you are searching for reliable goods lift manufacturers in
                 Kerala, UNOSAFE ELEVATOR Pvt. Ltd. offers the perfect
                 combination of advanced engineering, safety-focused design, and
-                dependable service support. Our elevators ensure efficient goods
+                dependable service support. Our Elevator ensure efficient goods
                 movement while meeting the highest standards of safety and
                 durability.
               </p>
@@ -204,7 +203,7 @@ export default function Kerala1() {
             <h3 className="bhe-cardTitle">Bangalore</h3>
 
             <Link href="/Bangalore" className="bhe-item">
-              Home Elevators in Bangalore
+              Home Elevator in Bangalore
               <span className="bhe-check">✓</span>
             </Link>
           </div>
@@ -220,17 +219,17 @@ export default function Kerala1() {
               Lift Companies In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai3" className="bhe-item">
-              KONE Elevators In Chennai <span className="bhe-check">✓</span>
+              KONE Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai4" className="bhe-item">
-              Elite Elevators Chennai <span className="bhe-check">✓</span>
+              Elite Elevator Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai5" className="bhe-item">
               Hydraulic Lift Manufacturers In Chennai{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai6" className="bhe-item">
-              Home Elevators In Chennai <span className="bhe-check">✓</span>
+              Home Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -245,10 +244,10 @@ export default function Kerala1() {
               Lift Companies In Kerala <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala3" className="bhe-item">
-              Kone Elevators In Kerala <span className="bhe-check">✓</span>
+              Kone Elevator In Kerala <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala5" className="bhe-item">
-              Elite Elevators in Kerala<span className="bhe-check">✓</span>
+              Elite Elevator in Kerala<span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala6" className="bhe-item">
               Hydraulic Lift Manufactures In kerala{" "}
@@ -259,7 +258,7 @@ export default function Kerala1() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala8" className="bhe-item">
-              Home Elevators in kerala <span className="bhe-check">✓</span>
+              Home Elevator in kerala <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -275,11 +274,11 @@ export default function Kerala1() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra3" className="bhe-item">
-              Kone Elevators In Andhra Pradesh{" "}
+              Kone Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra4" className="bhe-item">
-              Elite Elevators In Andhra Pradesh{" "}
+              Elite Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
 
@@ -288,8 +287,7 @@ export default function Kerala1() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra6" className="bhe-item">
-              Capsule Elevators in Hyderabad{" "}
-              <span className="bhe-check">✓</span>
+              Capsule Elevator in Hyderabad <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Andhra7" className="bhe-item">
@@ -298,7 +296,7 @@ export default function Kerala1() {
             </Link>
 
             <Link href="/Andhra8" className="bhe-item">
-              Home Elevators in Andhra Pradesh{" "}
+              Home Elevator in Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
           </div>

@@ -14,8 +14,8 @@ export default function Andhra4() {
 
           <div className="bhe-imageCard">
             <img
-              src="/assets/images/products/elite-elevators-in-andra-pradesh.jpg"
-              alt="Elite Elevators Andhra Pradesh"
+              src="/assets/images/products/elite-Elevator-in-andra-pradesh.jpg"
+              alt="Elite Elevator Andhra Pradesh"
               className="bhe-image"
             />
           </div>
@@ -23,23 +23,23 @@ export default function Andhra4() {
           {/* CONTENT */}
 
           <div className="bhe-content">
-            <h2 className="bhe-title">Elite Elevators Andhra Pradesh</h2>
+            <h2 className="bhe-title">Elite Elevator Andhra Pradesh</h2>
 
             <p className="bhe-subtitle">
               Premium Elite Elevator Solutions in Andhra Pradesh from Unosafe
-              Elevators
+              Elevator
             </p>
 
             <p className="bhe-text">
               In modern Andhra Pradesh, where architectural elegance meets
               practical living, vertical mobility solutions must be both safe
               and stylish.
-              <strong> Elite Elevators</strong>, headquartered in Andhra
-              Pradesh, is India’s most trusted home elevator company offering
+              <strong> Elite Elevator</strong>, headquartered in Andhra Pradesh,
+              is India’s most trusted home elevator company offering
               customizable, pitless, and shaft-free lifts for residences,
               villas, and luxury spaces. If you are searching for an elevator
               company near Vijayawada or anywhere in Andhra Pradesh, Elite
-              Elevators stands as the preferred choice for premium home lift
+              Elevator stands as the preferred choice for premium home lift
               solutions.
             </p>
 
@@ -54,7 +54,7 @@ export default function Andhra4() {
             {/* WHY BEST */}
 
             <h3 className="bhe-heading">
-              The Unosafe Difference: Premium Service for Elite Elevators
+              The Unosafe Difference: Premium Service for Elite Elevator
             </h3>
 
             <ul className="bhe-list">
@@ -96,15 +96,15 @@ export default function Andhra4() {
             </p>
 
             <div className="bhe-priceCard">
-              <h4>Compact Home Elevators</h4>
+              <h4>Compact Home Elevator</h4>
               <p>Pitless elevator systems ideal for modern homes</p>
               <p>Shaft-free designs suitable for easy installation</p>
 
-              <h4>Luxury Residential Elevators</h4>
+              <h4>Luxury Residential Elevator</h4>
               <p>Elegant cabin interiors with premium finishes</p>
               <p>Quiet and smooth ride technology for daily comfort</p>
 
-              <h4>Smart Connected Elevators</h4>
+              <h4>Smart Connected Elevator</h4>
               <p>Advanced diagnostics and monitoring systems</p>
               <p>Reliable operation with modern safety features</p>
             </div>
@@ -112,7 +112,7 @@ export default function Andhra4() {
             {/* VARIANTS */}
 
             <h3 className="bhe-heading">
-              Distinctive Features of Elite Elevators
+              Distinctive Features of Elite Elevator
             </h3>
 
             <ul className="bhe-list">
@@ -147,11 +147,11 @@ export default function Andhra4() {
             {/* WHY CHOOSE US */}
 
             <h3 className="bhe-heading">
-              Why Choose Elite Elevators with Unosafe
+              Why Choose Elite Elevator with Unosafe
             </h3>
 
             <p className="bhe-text">
-              Elite Elevators combine global engineering excellence with stylish
+              Elite Elevator combine global engineering excellence with stylish
               design, making them one of the most preferred choices for premium
               home lifts. Through Unosafe’s local expertise, clients in Andhra
               Pradesh receive faster service response, professional
@@ -170,11 +170,11 @@ export default function Andhra4() {
             <h3 className="bhe-heading">Conclusion</h3>
 
             <p className="bhe-text">
-              Elevate your lifestyle with Elite Elevators installed and
-              supported by UNOSAFE ELEVATOR Pvt. Ltd. in Andhra Pradesh.
-              Combining elegant design, advanced technology, and reliable
-              service, we deliver modern vertical mobility solutions for luxury
-              homes and premium residential spaces.
+              Elevate your lifestyle with Elite Elevator installed and supported
+              by UNOSAFE ELEVATOR Pvt. Ltd. in Andhra Pradesh. Combining elegant
+              design, advanced technology, and reliable service, we deliver
+              modern vertical mobility solutions for luxury homes and premium
+              residential spaces.
             </p>
           </div>
         </div>
@@ -185,7 +185,7 @@ export default function Andhra4() {
             <h3 className="bhe-cardTitle">Bangalore</h3>
 
             <Link href="/Bangalore" className="bhe-item">
-              Home Elevators in Bangalore
+              Home Elevator in Bangalore
               <span className="bhe-check">✓</span>
             </Link>
           </div>
@@ -201,17 +201,17 @@ export default function Andhra4() {
               Lift Companies In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai3" className="bhe-item">
-              KONE Elevators In Chennai <span className="bhe-check">✓</span>
+              KONE Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai4" className="bhe-item">
-              Elite Elevators Chennai <span className="bhe-check">✓</span>
+              Elite Elevator Chennai <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai5" className="bhe-item">
               Hydraulic Lift Manufacturers In Chennai{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Chennai6" className="bhe-item">
-              Home Elevators In Chennai <span className="bhe-check">✓</span>
+              Home Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -226,11 +226,11 @@ export default function Andhra4() {
               Lift Companies In Kerala <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala3" className="bhe-item">
-              Kone Elevators In Kerala <span className="bhe-check">✓</span>
+              Kone Elevator In Kerala <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Kerala5" className="bhe-item">
-              Elite Elevators in Kerala<span className="bhe-check">✓</span>
+              Elite Elevator in Kerala<span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala6" className="bhe-item">
               Hydraulic Lift Manufactures In kerala{" "}
@@ -241,7 +241,7 @@ export default function Andhra4() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Kerala8" className="bhe-item">
-              Home Elevators in kerala <span className="bhe-check">✓</span>
+              Home Elevator in kerala <span className="bhe-check">✓</span>
             </Link>
           </div>
 
@@ -257,11 +257,11 @@ export default function Andhra4() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra3" className="bhe-item">
-              Kone Elevators In Andhra Pradesh{" "}
+              Kone Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra4" className="bhe-item">
-              Elite Elevators In Andhra Pradesh{" "}
+              Elite Elevator In Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
 
@@ -270,8 +270,7 @@ export default function Andhra4() {
               <span className="bhe-check">✓</span>
             </Link>
             <Link href="/Andhra6" className="bhe-item">
-              Capsule Elevators in Hyderabad{" "}
-              <span className="bhe-check">✓</span>
+              Capsule Elevator in Hyderabad <span className="bhe-check">✓</span>
             </Link>
 
             <Link href="/Andhra7" className="bhe-item">
@@ -280,7 +279,7 @@ export default function Andhra4() {
             </Link>
 
             <Link href="/Andhra8" className="bhe-item">
-              Home Elevators in Andhra Pradesh{" "}
+              Home Elevator in Andhra Pradesh{" "}
               <span className="bhe-check">✓</span>
             </Link>
           </div>
