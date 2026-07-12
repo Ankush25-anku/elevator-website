@@ -77,7 +77,7 @@ export default function HomeGallery() {
 
                 <div className="hg-overlay-content">
                   <h4>{item.cat}</h4>
-                  <p>UNOSAFE ELEVATOR Pvt Ltd</p>
+                  <p>UNOSAFE ELEVATOR PVT LTD</p>
                 </div>
               </div>
             </div>

@@ -11,7 +11,7 @@ export default function HomeTestimonials() {
     },
     {
       name: "Prasant Malhotra",
-      text: "Smooth installation, reliable performance, and great support team. UNOSAFE ELEVATORS enhanced our infrastructure quality significantly.",
+      text: "Smooth installation, reliable performance, and great support team. UNOSAFE ELEVATOR enhanced our infrastructure quality significantly.",
     },
     {
       name: "M. Chandru Murugan",

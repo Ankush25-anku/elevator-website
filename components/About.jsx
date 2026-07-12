@@ -15,7 +15,7 @@ export default function About() {
               <div className="content-box mr_90">
                 <div className="sec-title mb_40">
                   <span className="sub-title">
-                    About UNOSAFE ELEVATOR Pvt Ltd
+                    About UNOSAFE ELEVATOR PVT LTD
                   </span>
                   <h2>
                     We adhere to ISO 9001 : 2015 standards and deliver safe,

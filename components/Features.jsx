@@ -21,7 +21,7 @@ export default function Features() {
 
                 <h3>
                   <a href="/">
-                    reliable <br /> elevator systems.
+                    Reliable <br /> Elevator Systems
                   </a>
                 </h3>
 
@@ -53,7 +53,7 @@ export default function Features() {
 
                 <h3>
                   <a href="/">
-                    professional <br /> lift installation.
+                    Professional <br /> Lift Installation
                   </a>
                 </h3>
 
@@ -85,7 +85,7 @@ export default function Features() {
 
                 <h3>
                   <a href="/">
-                    lift maintenance <br /> & modernization.
+                    Lift Maintenance <br /> & Modernization
                   </a>
                 </h3>
 

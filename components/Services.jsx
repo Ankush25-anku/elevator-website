@@ -4,10 +4,10 @@ export default function Services() {
       <div className="auto-container">
         <div className="sec-title mb_65 centred">
           <span className="sub-title">
-            UNOSAFE ELEVATOR Pvt Ltd - Safe Vertical Mobility Solutions
+            UNOSAFE ELEVATOR PVT LTD - Safe Vertical Mobility Solutions
           </span>
           <h2>
-            elevator services<span>.</span>
+            Elevator services<span>.</span>
           </h2>
         </div>
       </div>

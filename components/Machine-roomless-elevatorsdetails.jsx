@@ -53,7 +53,7 @@ const Machineroomlesselevatordetails = () => {
             </p>
 
             <p className="mrcd-text">
-              UNOSAFE ELEVATOR Pvt Ltd — Elevate our imagination, safely lift
+              UNOSAFE ELEVATOR PVT LTD — Elevate our imagination, safely lift
               our life.
             </p>
 

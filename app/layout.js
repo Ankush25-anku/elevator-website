@@ -6,9 +6,53 @@ import "./globals.css";
 import Script from "next/script";
 
 export const metadata = {
-  title: "UNOSAFE ELEVATOR    Pvt Ltd",
+  title: "UNOSAFE ELEVATOR  PVT LTD",
+
   description:
-    "UNOSAFE ELEVATOR    Pvt Ltd — Advanced, reliable and energy-efficient elevator solutions for residential, commercial and high-rise buildings.",
+    "UNOSAFE ELEVATOR  PVT LTD - ADVANCED, RELIABLE, AND ENERGY-EFFICIENT ELEVATOR SOLUTIONS FOR RESIDENTIAL, COMMERCIAL, AND HIGH-RISE BUILDINGS.",
+
+  keywords: [
+    "UNOSAFE ELEVATOR",
+    "PVT LTD",
+    "PASSENGER LIFT",
+    "HOME LIFT",
+    "HOSPITAL LIFT",
+    "GOODS LIFT",
+    "CAR LIFT",
+    "ELEVATOR MANUFACTURER",
+    "LIFT COMPANY",
+    "BANGALORE",
+  ],
+
+  icons: {
+    icon: "/assets/images/icons/logo-3.png",
+  },
+
+  openGraph: {
+    title: "UNOSAFE ELEVATOR  PVT LTD",
+    description:
+      "ADVANCED, RELIABLE, AND ENERGY-EFFICIENT ELEVATOR SOLUTIONS FOR RESIDENTIAL, COMMERCIAL, AND HIGH-RISE BUILDINGS.",
+    url: "https://www.unosafeelevator.com",
+    siteName: "UNOSAFE ELEVATOR  PVT LTD",
+    images: [
+      {
+        url: "/assets/images/icons/logo-3.png",
+        width: 512,
+        height: 512,
+        alt: "UNOSAFE ELEVATOR  PVT LTD",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+
+  twitter: {
+    card: "summary_large_image",
+    title: "UNOSAFE ELEVATOR  PVT LTD",
+    description:
+      "ADVANCED, RELIABLE, AND ENERGY-EFFICIENT ELEVATOR SOLUTIONS FOR RESIDENTIAL, COMMERCIAL, AND HIGH-RISE BUILDINGS.",
+    images: ["/assets/images/icons/logo-3.png"],
+  },
 };
 
 export default function RootLayout({ children }) {
