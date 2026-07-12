@@ -20,7 +20,7 @@ export default function FounderCard() {
           <p>
             Deepak's vision led him to establish DS Elevator in 2009. The
             company operated under this name until 2019, when it introduced
-            advanced technology and rebranded as UNOSAFE ELEVATOR Pvt. Ltd. to
+            advanced technology and rebranded as UNOSAFE ELEVATOR PVT LTD. to
             expand its presence in the global market.
           </p>
 
