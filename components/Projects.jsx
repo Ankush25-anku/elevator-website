@@ -266,11 +266,13 @@ export default function Projects() {
 
                       <div className="content-box">
                         <h3>
-                          <a href="/">high-rise building elevator</a>
+                          <a href="//products/highrisebuildingelevator">
+                            High-rise Building Elevator
+                          </a>
                         </h3>
 
                         <div className="link-box">
-                          <a href="/">
+                          <a href="/products/highrisebuildingelevator">
                             <span>view details</span>
                           </a>
                         </div>
@@ -295,11 +297,13 @@ export default function Projects() {
 
                       <div className="content-box">
                         <h3>
-                          <a href="/">commercial building lift system</a>
+                          <a href="/products/commercialBuildingLiftSystem">
+                            Commercial Building Lift System
+                          </a>
                         </h3>
 
                         <div className="link-box">
-                          <a href="/">
+                          <a href="/products/commercialBuildingLiftSystem">
                             <span>view details</span>
                           </a>
                         </div>
@@ -325,11 +329,13 @@ export default function Projects() {
 
                       <div className="content-box">
                         <h3>
-                          <a href="/">home elevator installation</a>
+                          <a href="/products/homeElevatorInstallation">
+                            Home Elevator Installation
+                          </a>
                         </h3>
 
                         <div className="link-box">
-                          <a href="/">
+                          <a href="/products/homeElevatorInstallation">
                             <span>view details</span>
                           </a>
                         </div>
@@ -354,11 +360,13 @@ export default function Projects() {
 
                       <div className="content-box">
                         <h3>
-                          <a href="/">industrial freight elevator</a>
+                          <a href="/products/industrialFreightElevator">
+                            Industrial Freight Elevator
+                          </a>
                         </h3>
 
                         <div className="link-box">
-                          <a href="/">
+                          <a href="/products/industrialFreightElevator">
                             <span>view details</span>
                           </a>
                         </div>
