@@ -1,15 +1,14 @@
 import Footer from "../components/Footer";
 import Header from "../components/Header";
-
 import PreloaderWrapper from "../components/PreloaderWrapper";
 import "./globals.css";
 import Script from "next/script";
 
 export const metadata = {
-  title: "UNOSAFE ELEVATOR  PVT LTD",
+  title: "UNOSAFE ELEVATOR PVT LTD",
 
   description:
-    "UNOSAFE ELEVATOR  PVT LTD - ADVANCED, RELIABLE, AND ENERGY-EFFICIENT ELEVATOR SOLUTIONS FOR RESIDENTIAL, COMMERCIAL, AND HIGH-RISE BUILDINGS.",
+    "UNOSAFE ELEVATOR PVT LTD - ADVANCED, RELIABLE, AND ENERGY-EFFICIENT ELEVATOR SOLUTIONS FOR RESIDENTIAL, COMMERCIAL, AND HIGH-RISE BUILDINGS.",
 
   keywords: [
     "UNOSAFE ELEVATOR",
@@ -24,22 +23,20 @@ export const metadata = {
     "BANGALORE",
   ],
 
-  icons: {
-    icon: "/assets/images/icons/logo-3.png",
-  },
+  metadataBase: new URL("https://www.unosafeelevator.com"),
 
   openGraph: {
-    title: "UNOSAFE ELEVATOR  PVT LTD",
+    title: "UNOSAFE ELEVATOR PVT LTD",
     description:
       "ADVANCED, RELIABLE, AND ENERGY-EFFICIENT ELEVATOR SOLUTIONS FOR RESIDENTIAL, COMMERCIAL, AND HIGH-RISE BUILDINGS.",
     url: "https://www.unosafeelevator.com",
-    siteName: "UNOSAFE ELEVATOR  PVT LTD",
+    siteName: "UNOSAFE ELEVATOR PVT LTD",
     images: [
       {
         url: "/assets/images/icons/logo-3.png",
         width: 512,
         height: 512,
-        alt: "UNOSAFE ELEVATOR  PVT LTD",
+        alt: "UNOSAFE ELEVATOR PVT LTD",
       },
     ],
     locale: "en_US",
@@ -48,7 +45,7 @@ export const metadata = {
 
   twitter: {
     card: "summary_large_image",
-    title: "UNOSAFE ELEVATOR  PVT LTD",
+    title: "UNOSAFE ELEVATOR PVT LTD",
     description:
       "ADVANCED, RELIABLE, AND ENERGY-EFFICIENT ELEVATOR SOLUTIONS FOR RESIDENTIAL, COMMERCIAL, AND HIGH-RISE BUILDINGS.",
     images: ["/assets/images/icons/logo-3.png"],
@@ -60,7 +57,6 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/assets/images/icons/logo-3.png" />
 
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100..900;1,100..900&display=swap"
@@ -82,14 +78,12 @@ export default function RootLayout({ children }) {
       </head>
 
       <body>
-        {/* ✅ ALL CLIENT LOGIC HERE */}
         <PreloaderWrapper>
           <Header />
 
           {children}
 
           <div className="floating-contact">
-            {/* WhatsApp */}
             <a
               href="https://wa.me/918296206645"
               target="_blank"
@@ -99,15 +93,14 @@ export default function RootLayout({ children }) {
               <i className="fab fa-whatsapp"></i>
             </a>
 
-            {/* Phone */}
             <a href="tel:+918296206645" className="phone-btn">
               <i className="fa fa-phone"></i>
             </a>
           </div>
+
           <Footer />
         </PreloaderWrapper>
 
-        {/* Scripts */}
         <Script src="/assets/js/jquery.js" strategy="beforeInteractive" />
         <Script src="/assets/js/bootstrap.min.js" strategy="lazyOnload" />
         <Script src="/assets/js/owl.js" strategy="lazyOnload" />
