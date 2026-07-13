@@ -6506,12 +6506,14 @@ div#mCSB_1_container {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 20px;
   z-index: 999999;
 }
 
 /* Popup box */
 .elevator-popup-box {
-  width: 900px;
+  width: 90%;
+  max-width: 900px;
   background: #fff;
   border-radius: 6px;
   overflow: hidden;
@@ -6629,6 +6631,113 @@ div#mCSB_1_container {
   opacity: 0.9;
 }
 
+/* ==========================
+   Tablet (768px and below)
+========================== */
+@media (max-width: 768px) {
+  .elevator-popup-overlay {
+    padding: 20px;
+  }
+
+  .elevator-popup-box {
+    width: 100%;
+    max-width: 600px;
+  }
+
+  .elevator-popup-header {
+    padding: 18px 20px;
+  }
+
+  .elevator-popup-header h2 {
+    font-size: 24px;
+    text-align: center;
+  }
+
+  .elevator-popup-form {
+    padding: 25px;
+  }
+
+  .elevator-row {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .elevator-submit-btn {
+    width: 100%;
+  }
+}
+
+/* ==========================
+   Mobile (480px and below)
+========================== */
+@media (max-width: 480px) {
+  .elevator-popup-overlay {
+    padding: 12px;
+    align-items: center;
+  }
+
+  .elevator-popup-box {
+    width: 100%;
+    max-width: 100%;
+    border-radius: 12px;
+    max-height: 90vh;
+    overflow-y: auto;
+  }
+
+  .elevator-popup-header {
+    padding: 16px;
+  }
+
+  .elevator-popup-header h2 {
+    font-size: 20px;
+    line-height: 1.4;
+    text-align: center;
+  }
+
+  .elevator-popup-close {
+    width: 34px;
+    height: 34px;
+    top: 10px;
+    right: 10px;
+    font-size: 18px;
+    border-radius: 50%;
+  }
+
+  .elevator-popup-form {
+    padding: 18px;
+  }
+
+  .elevator-popup-form h3 {
+    font-size: 20px;
+    margin-bottom: 18px;
+    text-align: center;
+  }
+
+  .elevator-row {
+    flex-direction: column;
+    gap: 14px;
+    margin-bottom: 14px;
+  }
+
+  .elevator-field label {
+    font-size: 14px;
+  }
+
+  .elevator-field input,
+  .elevator-field select {
+    width: 100%;
+    padding: 12px;
+    font-size: 14px;
+    box-sizing: border-box;
+  }
+
+  .elevator-submit-btn {
+    width: 100%;
+    padding: 14px;
+    font-size: 15px;
+    margin-top: 8px;
+  }
+}
 /* / Founder / */
 
 .founder-section {
