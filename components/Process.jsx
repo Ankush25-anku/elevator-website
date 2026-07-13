@@ -20,8 +20,8 @@ export default function Process() {
           </span>
 
           <h2>
-            delivering safe, smooth & reliable <br />
-            vertical transportation solutions<span>.</span>
+            Delivering Safe, Smooth & Reliable <br />
+            Vertical Transportation Solutions<span>.</span>
           </h2>
         </div>
 
@@ -34,7 +34,7 @@ export default function Process() {
 
                 <h2>01</h2>
 
-                <h3>headquarters & manufacturing excellence.</h3>
+                <h3>Headquarters & Manufacturing Excellence</h3>
 
                 <p>
                   UNOSAFE ELEVATOR is headquartered in Bengaluru with a
@@ -53,7 +53,7 @@ export default function Process() {
 
                 <h2>02</h2>
 
-                <h3>strong regional & national service coverage.</h3>
+                <h3>Strong Regional & National Service Coverage</h3>
 
                 <p>
                   We operate through strategic branch offices in RR Nagar,
@@ -71,7 +71,7 @@ export default function Process() {
 
                 <h2>03</h2>
 
-                <h3>proven engineering & prestigious projects.</h3>
+                <h3>Proven Engineering & Prestigious Projects</h3>
 
                 <p>
                   Backed by a highly experienced technical team, UNOSAFE has
