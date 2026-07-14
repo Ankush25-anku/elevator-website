@@ -15,7 +15,7 @@ export default function Bangalorepage2() {
 
           <div className="bhe-imageCard">
             <img
-              src="/assets/images/products/home-Elevator-in-bangalore.jpg"
+              src="/assets/images/products/bangalore1.jpeg"
               alt="Home Elevator Bangalore"
               className="bhe-image"
             />
