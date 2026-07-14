@@ -165,3 +165,37 @@
 .bhe-item:hover .bhe-check {
   color: #ffffff;
 }
+/* =========================================
+   MOBILE RESPONSIVE ONLY
+   Desktop remains EXACTLY the same
+========================================= */
+
+@media screen and (max-width: 768px) {
+  /* Stack columns */
+  .bhe-container {
+    display: block;
+    padding: 0 18px;
+  }
+
+  /* Full width */
+  .bhe-left,
+  .bhe-sidebar {
+    width: 100%;
+  }
+
+  /* Space between content & sidebar */
+  .bhe-sidebar {
+    margin-top: 35px;
+  }
+
+  /* Image scales automatically */
+  .bhe-imageCard {
+    height: auto;
+  }
+
+  .bhe-image {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+}
