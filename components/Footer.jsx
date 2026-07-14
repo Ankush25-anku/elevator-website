@@ -184,7 +184,7 @@ export default function Footer() {
                   rel="noopener noreferrer"
                   className="footer-brand"
                 >
-                  RCERP TECHNOLOGIES Pvt. Ltd.
+                  RCERP TECHNOLOGIES PVT LTD.
                 </a>
               </p>
             </div>

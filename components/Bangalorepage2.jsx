@@ -184,7 +184,7 @@ export default function Bangalorepage2() {
             </Link>
           </div>
 
-          <div className="bhe-card">
+          {/* <div className="bhe-card">
             <h3 className="bhe-cardTitle">Kerala</h3>
 
             <Link href="/Kerala1" className="bhe-item">
@@ -212,7 +212,7 @@ export default function Bangalorepage2() {
             <Link href="/Kerala8" className="bhe-item">
               Home Elevator in kerala <span className="bhe-check">✓</span>
             </Link>
-          </div>
+          </div> */}
 
           <div className="bhe-card">
             <h3 className="bhe-cardTitle">Andhra Pradesh</h3>

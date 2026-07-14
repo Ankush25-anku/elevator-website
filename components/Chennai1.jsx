@@ -185,7 +185,7 @@ export default function Chennai1() {
             <h2 className="bhe-title">Home Elevator in Bangalore</h2>
 
             <p className="bhe-subtitle">
-              Best Home Elevator in Bangalore from UNOSAFE ELEVATOR s
+              Best Home Elevator in Bangalore from UNOSAFE ELEVATOR
             </p>
 
             <p className="bhe-text">
@@ -341,7 +341,7 @@ export default function Chennai1() {
               Home Elevator In Chennai <span className="bhe-check">✓</span>
             </Link>
           </div>
-
+{/* 
           <div className="bhe-card">
             <h3 className="bhe-cardTitle">Kerala</h3>
 
@@ -370,7 +370,7 @@ export default function Chennai1() {
             <Link href="/Kerala8" className="bhe-item">
               Home Elevator in kerala <span className="bhe-check">✓</span>
             </Link>
-          </div>
+          </div> */}
 
           <div className="bhe-card">
             <h3 className="bhe-cardTitle">Andhra Pradesh</h3>
