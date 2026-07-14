@@ -27,7 +27,7 @@ export default function Bangalorepage2() {
             <h2 className="bhe-title">Home Elevator in Bangalore</h2>
 
             <p className="bhe-subtitle">
-              Best Home Elevator in Bangalore from UNOSAFE ELEVATOR s
+              Best Home Elevator in Bangalore from UNOSAFE ELEVATOR
             </p>
 
             <p className="bhe-text">
