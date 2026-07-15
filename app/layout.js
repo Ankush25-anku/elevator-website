@@ -8,7 +8,7 @@ export const metadata = {
   title: "UNOSAFE ELEVATOR PVT LTD",
 
   verification: {
-    google: "kthbRI5E6BPAMnlyijrppDiNY8bO1TkbGY1lZlWZL5s",
+    google: "tFth4e7gUmrUr7UAnxqzR2IW3o9pQdLSJkK0SykVuhk",
   },
 
   description:
@@ -59,11 +59,6 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <meta
-          name="google-site-verification"
-          content="kthbRI5E6BPAMnlyijrppDiNY8bO1TkbGY1lZlWZL5s"
-        />
-
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
         <link
