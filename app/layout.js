@@ -7,6 +7,10 @@ import Script from "next/script";
 export const metadata = {
   title: "UNOSAFE ELEVATOR PVT LTD",
 
+  verification: {
+    google: "kthbRI5E6BPAMnlyijrppDiNY8bO1TkbGY1lZlWZL5s",
+  },
+
   description:
     "UNOSAFE ELEVATOR PVT LTD - ADVANCED, RELIABLE, AND ENERGY-EFFICIENT ELEVATOR SOLUTIONS FOR RESIDENTIAL, COMMERCIAL, AND HIGH-RISE BUILDINGS.",
 
@@ -51,7 +55,6 @@ export const metadata = {
     images: ["/assets/images/icons/logo-3.png"],
   },
 };
-
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
